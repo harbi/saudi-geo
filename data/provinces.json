@@ -1,0 +1,1024 @@
+[
+  {
+    "name_ar": "ابها",
+    "name_en": null,
+    "code": 701,
+    "region_code": 7,
+    "order_sequence": 1
+  },
+  {
+    "name_ar": "احد رفيده",
+    "name_en": null,
+    "code": 702,
+    "region_code": 7,
+    "order_sequence": 9
+  },
+  {
+    "name_ar": "المجارده",
+    "name_en": null,
+    "code": 704,
+    "region_code": 7,
+    "order_sequence": 12
+  },
+  {
+    "name_ar": "النماص",
+    "name_en": null,
+    "code": 705,
+    "region_code": 7,
+    "order_sequence": 4
+  },
+  {
+    "name_ar": "بلقرن",
+    "name_en": null,
+    "code": 708,
+    "region_code": 7,
+    "order_sequence": 11
+  },
+  {
+    "name_ar": "بيشه",
+    "name_en": null,
+    "code": 709,
+    "region_code": 7,
+    "order_sequence": 3
+  },
+  {
+    "name_ar": "تثليث",
+    "name_en": null,
+    "code": 710,
+    "region_code": 7,
+    "order_sequence": 7
+  },
+  {
+    "name_ar": "خميس مشيط",
+    "name_en": null,
+    "code": 711,
+    "region_code": 7,
+    "order_sequence": 2
+  },
+  {
+    "name_ar": "رجال المع",
+    "name_en": null,
+    "code": 712,
+    "region_code": 7,
+    "order_sequence": 8
+  },
+  {
+    "name_ar": "سراة عبيدة",
+    "name_en": null,
+    "code": 713,
+    "region_code": 7,
+    "order_sequence": 6
+  },
+  {
+    "name_ar": "ظهران الجنوب",
+    "name_en": null,
+    "code": 714,
+    "region_code": 7,
+    "order_sequence": 10
+  },
+  {
+    "name_ar": "محايل",
+    "name_en": null,
+    "code": 716,
+    "region_code": 7,
+    "order_sequence": 5
+  },
+  {
+    "name_ar": "طريب",
+    "name_en": null,
+    "code": 718,
+    "region_code": 7,
+    "order_sequence": 16
+  },
+  {
+    "name_ar": "البرك",
+    "name_en": null,
+    "code": 719,
+    "region_code": 7,
+    "order_sequence": 14
+  },
+  {
+    "name_ar": "بارق",
+    "name_en": null,
+    "code": 720,
+    "region_code": 7,
+    "order_sequence": 13
+  },
+  {
+    "name_ar": "تنومة",
+    "name_en": null,
+    "code": 721,
+    "region_code": 7,
+    "order_sequence": 15
+  },
+  {
+    "name_ar": "الاحساء",
+    "name_en": null,
+    "code": 401,
+    "region_code": 4,
+    "order_sequence": 2
+  },
+  {
+    "name_ar": "الجبيل",
+    "name_en": null,
+    "code": 402,
+    "region_code": 4,
+    "order_sequence": 4
+  },
+  {
+    "name_ar": "الخبر",
+    "name_en": null,
+    "code": 403,
+    "region_code": 4,
+    "order_sequence": 6
+  },
+  {
+    "name_ar": "الخفجى",
+    "name_en": null,
+    "code": 404,
+    "region_code": 4,
+    "order_sequence": 7
+  },
+  {
+    "name_ar": "الدمام",
+    "name_en": null,
+    "code": 405,
+    "region_code": 4,
+    "order_sequence": 1
+  },
+  {
+    "name_ar": "القطيف",
+    "name_en": null,
+    "code": 406,
+    "region_code": 4,
+    "order_sequence": 5
+  },
+  {
+    "name_ar": "النعيريه",
+    "name_en": null,
+    "code": 407,
+    "region_code": 4,
+    "order_sequence": 10
+  },
+  {
+    "name_ar": "بقيق",
+    "name_en": null,
+    "code": 408,
+    "region_code": 4,
+    "order_sequence": 9
+  },
+  {
+    "name_ar": "حفر الباطن",
+    "name_en": null,
+    "code": 409,
+    "region_code": 4,
+    "order_sequence": 3
+  },
+  {
+    "name_ar": "رأس تنوره",
+    "name_en": null,
+    "code": 410,
+    "region_code": 4,
+    "order_sequence": 8
+  },
+  {
+    "name_ar": "قريه العليا",
+    "name_en": null,
+    "code": 412,
+    "region_code": 4,
+    "order_sequence": 11
+  },
+  {
+    "name_ar": "الباحه",
+    "name_en": null,
+    "code": 901,
+    "region_code": 9,
+    "order_sequence": 1
+  },
+  {
+    "name_ar": "العقيق",
+    "name_en": null,
+    "code": 902,
+    "region_code": 9,
+    "order_sequence": 5
+  },
+  {
+    "name_ar": "القرى",
+    "name_en": null,
+    "code": 903,
+    "region_code": 9,
+    "order_sequence": 7
+  },
+  {
+    "name_ar": "المخواة",
+    "name_en": null,
+    "code": 904,
+    "region_code": 9,
+    "order_sequence": 4
+  },
+  {
+    "name_ar": "المندق",
+    "name_en": null,
+    "code": 905,
+    "region_code": 9,
+    "order_sequence": 3
+  },
+  {
+    "name_ar": "بلجرشي",
+    "name_en": null,
+    "code": 906,
+    "region_code": 9,
+    "order_sequence": 2
+  },
+  {
+    "name_ar": "قلوة",
+    "name_en": null,
+    "code": 908,
+    "region_code": 9,
+    "order_sequence": 6
+  },
+  {
+    "name_ar": "بني حسن",
+    "name_en": null,
+    "code": 909,
+    "region_code": 9,
+    "order_sequence": 9
+  },
+  {
+    "name_ar": "غامد الزناد",
+    "name_en": null,
+    "code": 910,
+    "region_code": 9,
+    "order_sequence": 10
+  },
+  {
+    "name_ar": "الحجرة",
+    "name_en": null,
+    "code": 911,
+    "region_code": 9,
+    "order_sequence": 8
+  },
+  {
+    "name_ar": "القريات",
+    "name_en": null,
+    "code": 1302,
+    "region_code": 13,
+    "order_sequence": 2
+  },
+  {
+    "name_ar": "دومة الجندل",
+    "name_en": null,
+    "code": 1303,
+    "region_code": 13,
+    "order_sequence": 3
+  },
+  {
+    "name_ar": "سكاكا",
+    "name_en": null,
+    "code": 1304,
+    "region_code": 13,
+    "order_sequence": 1
+  },
+  {
+    "name_ar": "طبرجل",
+    "name_en": null,
+    "code": 1306,
+    "region_code": 13,
+    "order_sequence": 4
+  },
+  {
+    "name_ar": "رفحاء",
+    "name_en": null,
+    "code": 1202,
+    "region_code": 12,
+    "order_sequence": 2
+  },
+  {
+    "name_ar": "طريف",
+    "name_en": null,
+    "code": 1204,
+    "region_code": 12,
+    "order_sequence": 3
+  },
+  {
+    "name_ar": "عرعر",
+    "name_en": null,
+    "code": 1205,
+    "region_code": 12,
+    "order_sequence": 1
+  },
+  {
+    "name_ar": "العويقلية",
+    "name_en": null,
+    "code": 1207,
+    "region_code": 12,
+    "order_sequence": 4
+  },
+  {
+    "name_ar": "الافلاج",
+    "name_en": null,
+    "code": 101,
+    "region_code": 1,
+    "order_sequence": 8
+  },
+  {
+    "name_ar": "الحريق",
+    "name_en": null,
+    "code": 102,
+    "region_code": 1,
+    "order_sequence": 19
+  },
+  {
+    "name_ar": "الخرج",
+    "name_en": null,
+    "code": 103,
+    "region_code": 1,
+    "order_sequence": 3
+  },
+  {
+    "name_ar": "الدرعية",
+    "name_en": null,
+    "code": 104,
+    "region_code": 1,
+    "order_sequence": 2
+  },
+  {
+    "name_ar": "الدوادمي",
+    "name_en": null,
+    "code": 105,
+    "region_code": 1,
+    "order_sequence": 4
+  },
+  {
+    "name_ar": "الرياض",
+    "name_en": null,
+    "code": 106,
+    "region_code": 1,
+    "order_sequence": 1
+  },
+  {
+    "name_ar": "الزلفي",
+    "name_en": null,
+    "code": 107,
+    "region_code": 1,
+    "order_sequence": 9
+  },
+  {
+    "name_ar": "السليل",
+    "name_en": null,
+    "code": 108,
+    "region_code": 1,
+    "order_sequence": 13
+  },
+  {
+    "name_ar": "الغاط",
+    "name_en": null,
+    "code": 109,
+    "region_code": 1,
+    "order_sequence": 20
+  },
+  {
+    "name_ar": "القويعية",
+    "name_en": null,
+    "code": 110,
+    "region_code": 1,
+    "order_sequence": 6
+  },
+  {
+    "name_ar": "المجمعة",
+    "name_en": null,
+    "code": 111,
+    "region_code": 1,
+    "order_sequence": 5
+  },
+  {
+    "name_ar": "المزاحمية",
+    "name_en": null,
+    "code": 112,
+    "region_code": 1,
+    "order_sequence": 15
+  },
+  {
+    "name_ar": "ثادق",
+    "name_en": null,
+    "code": 114,
+    "region_code": 1,
+    "order_sequence": 17
+  },
+  {
+    "name_ar": "حريملاء",
+    "name_en": null,
+    "code": 115,
+    "region_code": 1,
+    "order_sequence": 18
+  },
+  {
+    "name_ar": "حوطة بنى تميم",
+    "name_en": null,
+    "code": 116,
+    "region_code": 1,
+    "order_sequence": 11
+  },
+  {
+    "name_ar": "رماح",
+    "name_en": null,
+    "code": 117,
+    "region_code": 1,
+    "order_sequence": 16
+  },
+  {
+    "name_ar": "شقراء",
+    "name_en": null,
+    "code": 118,
+    "region_code": 1,
+    "order_sequence": 10
+  },
+  {
+    "name_ar": "ضرماء",
+    "name_en": null,
+    "code": 119,
+    "region_code": 1,
+    "order_sequence": 14
+  },
+  {
+    "name_ar": "عفيف",
+    "name_en": null,
+    "code": 120,
+    "region_code": 1,
+    "order_sequence": 12
+  },
+  {
+    "name_ar": "وادي الدواسر",
+    "name_en": null,
+    "code": 122,
+    "region_code": 1,
+    "order_sequence": 7
+  },
+  {
+    "name_ar": "مرات",
+    "name_en": null,
+    "code": 123,
+    "region_code": 1,
+    "order_sequence": 21
+  },
+  {
+    "name_ar": "الأسياح",
+    "name_en": null,
+    "code": 501,
+    "region_code": 5,
+    "order_sequence": 7
+  },
+  {
+    "name_ar": "البدائع",
+    "name_en": null,
+    "code": 502,
+    "region_code": 5,
+    "order_sequence": 6
+  },
+  {
+    "name_ar": "البكيريه",
+    "name_en": null,
+    "code": 503,
+    "region_code": 5,
+    "order_sequence": 5
+  },
+  {
+    "name_ar": "الرس",
+    "name_en": null,
+    "code": 504,
+    "region_code": 5,
+    "order_sequence": 3
+  },
+  {
+    "name_ar": "الشماسيه",
+    "name_en": null,
+    "code": 505,
+    "region_code": 5,
+    "order_sequence": 11
+  },
+  {
+    "name_ar": "المذنب",
+    "name_en": null,
+    "code": 506,
+    "region_code": 5,
+    "order_sequence": 4
+  },
+  {
+    "name_ar": "النبهانية",
+    "name_en": null,
+    "code": 507,
+    "region_code": 5,
+    "order_sequence": 8
+  },
+  {
+    "name_ar": "بريده",
+    "name_en": null,
+    "code": 508,
+    "region_code": 5,
+    "order_sequence": 1
+  },
+  {
+    "name_ar": "رياض الخبراء",
+    "name_en": null,
+    "code": 509,
+    "region_code": 5,
+    "order_sequence": 10
+  },
+  {
+    "name_ar": "ضرية",
+    "name_en": null,
+    "code": 510,
+    "region_code": 5,
+    "order_sequence": 12
+  },
+  {
+    "name_ar": "عقلة الصقور",
+    "name_en": null,
+    "code": 511,
+    "region_code": 5,
+    "order_sequence": 13
+  },
+  {
+    "name_ar": "عنيزه",
+    "name_en": null,
+    "code": 512,
+    "region_code": 5,
+    "order_sequence": 2
+  },
+  {
+    "name_ar": "عيون الجواء",
+    "name_en": null,
+    "code": 513,
+    "region_code": 5,
+    "order_sequence": 9
+  },
+  {
+    "name_ar": "الحناكيه",
+    "name_en": null,
+    "code": 301,
+    "region_code": 3,
+    "order_sequence": 7
+  },
+  {
+    "name_ar": "العلا",
+    "name_en": null,
+    "code": 302,
+    "region_code": 3,
+    "order_sequence": 3
+  },
+  {
+    "name_ar": "المدينةالمنورة",
+    "name_en": null,
+    "code": 303,
+    "region_code": 3,
+    "order_sequence": 1
+  },
+  {
+    "name_ar": "المهد",
+    "name_en": null,
+    "code": 305,
+    "region_code": 3,
+    "order_sequence": 4
+  },
+  {
+    "name_ar": "بدر",
+    "name_en": null,
+    "code": 306,
+    "region_code": 3,
+    "order_sequence": 5
+  },
+  {
+    "name_ar": "خيبر",
+    "name_en": null,
+    "code": 307,
+    "region_code": 3,
+    "order_sequence": 6
+  },
+  {
+    "name_ar": "ينبع",
+    "name_en": null,
+    "code": 309,
+    "region_code": 3,
+    "order_sequence": 2
+  },
+  {
+    "name_ar": "العيص",
+    "name_en": null,
+    "code": 310,
+    "region_code": 3,
+    "order_sequence": 8
+  },
+  {
+    "name_ar": "وادي الفرع",
+    "name_en": null,
+    "code": 311,
+    "region_code": 3,
+    "order_sequence": 9
+  },
+  {
+    "name_ar": "أملج",
+    "name_en": null,
+    "code": 1101,
+    "region_code": 11,
+    "order_sequence": 5
+  },
+  {
+    "name_ar": "الوجه",
+    "name_en": null,
+    "code": 1102,
+    "region_code": 11,
+    "order_sequence": 2
+  },
+  {
+    "name_ar": "تبوك",
+    "name_en": null,
+    "code": 1104,
+    "region_code": 11,
+    "order_sequence": 1
+  },
+  {
+    "name_ar": "تيماء",
+    "name_en": null,
+    "code": 1105,
+    "region_code": 11,
+    "order_sequence": 4
+  },
+  {
+    "name_ar": "حقل",
+    "name_en": null,
+    "code": 1106,
+    "region_code": 11,
+    "order_sequence": 6
+  },
+  {
+    "name_ar": "ضباء",
+    "name_en": null,
+    "code": 1107,
+    "region_code": 11,
+    "order_sequence": 3
+  },
+  {
+    "name_ar": "البدع",
+    "name_en": null,
+    "code": 1109,
+    "region_code": 11,
+    "order_sequence": 7
+  },
+  {
+    "name_ar": "ابو عريش",
+    "name_en": null,
+    "code": 801,
+    "region_code": 8,
+    "order_sequence": 3
+  },
+  {
+    "name_ar": "احد المسارحه",
+    "name_en": null,
+    "code": 802,
+    "region_code": 8,
+    "order_sequence": 11
+  },
+  {
+    "name_ar": "الحرث",
+    "name_en": null,
+    "code": 803,
+    "region_code": 8,
+    "order_sequence": 5
+  },
+  {
+    "name_ar": "الدائر",
+    "name_en": null,
+    "code": 804,
+    "region_code": 8,
+    "order_sequence": 10
+  },
+  {
+    "name_ar": "الدرب",
+    "name_en": null,
+    "code": 805,
+    "region_code": 8,
+    "order_sequence": 14
+  },
+  {
+    "name_ar": "الريث",
+    "name_en": null,
+    "code": 806,
+    "region_code": 8,
+    "order_sequence": 7
+  },
+  {
+    "name_ar": "الطوال",
+    "name_en": null,
+    "code": 807,
+    "region_code": 8,
+    "order_sequence": 15
+  },
+  {
+    "name_ar": "العارضه",
+    "name_en": null,
+    "code": 808,
+    "region_code": 8,
+    "order_sequence": 13
+  },
+  {
+    "name_ar": "العيدابى",
+    "name_en": null,
+    "code": 809,
+    "region_code": 8,
+    "order_sequence": 12
+  },
+  {
+    "name_ar": "بيش",
+    "name_en": null,
+    "code": 811,
+    "region_code": 8,
+    "order_sequence": 8
+  },
+  {
+    "name_ar": "جازان",
+    "name_en": null,
+    "code": 812,
+    "region_code": 8,
+    "order_sequence": 1
+  },
+  {
+    "name_ar": "صامطه",
+    "name_en": null,
+    "code": 813,
+    "region_code": 8,
+    "order_sequence": 4
+  },
+  {
+    "name_ar": "صبيا",
+    "name_en": null,
+    "code": 814,
+    "region_code": 8,
+    "order_sequence": 2
+  },
+  {
+    "name_ar": "ضمد",
+    "name_en": null,
+    "code": 815,
+    "region_code": 8,
+    "order_sequence": 6
+  },
+  {
+    "name_ar": "فرسان",
+    "name_en": null,
+    "code": 817,
+    "region_code": 8,
+    "order_sequence": 9
+  },
+  {
+    "name_ar": "فيفا",
+    "name_en": null,
+    "code": 818,
+    "region_code": 8,
+    "order_sequence": 16
+  },
+  {
+    "name_ar": "هروب",
+    "name_en": null,
+    "code": 819,
+    "region_code": 8,
+    "order_sequence": 17
+  },
+  {
+    "name_ar": "الشنان",
+    "name_en": null,
+    "code": 601,
+    "region_code": 6,
+    "order_sequence": 4
+  },
+  {
+    "name_ar": "الغزاله",
+    "name_en": null,
+    "code": 602,
+    "region_code": 6,
+    "order_sequence": 3
+  },
+  {
+    "name_ar": "بقعاء",
+    "name_en": null,
+    "code": 603,
+    "region_code": 6,
+    "order_sequence": 2
+  },
+  {
+    "name_ar": "حائل",
+    "name_en": null,
+    "code": 604,
+    "region_code": 6,
+    "order_sequence": 1
+  },
+  {
+    "name_ar": "الحايط",
+    "name_en": null,
+    "code": 606,
+    "region_code": 6,
+    "order_sequence": 5
+  },
+  {
+    "name_ar": "السليمي",
+    "name_en": null,
+    "code": 607,
+    "region_code": 6,
+    "order_sequence": 6
+  },
+  {
+    "name_ar": "الشملي",
+    "name_en": null,
+    "code": 608,
+    "region_code": 6,
+    "order_sequence": 7
+  },
+  {
+    "name_ar": "موقق",
+    "name_en": null,
+    "code": 609,
+    "region_code": 6,
+    "order_sequence": 9
+  },
+  {
+    "name_ar": "سميراء",
+    "name_en": null,
+    "code": 610,
+    "region_code": 6,
+    "order_sequence": 8
+  },
+  {
+    "name_ar": "الجموم",
+    "name_en": null,
+    "code": 201,
+    "region_code": 2,
+    "order_sequence": 7
+  },
+  {
+    "name_ar": "الخرمه",
+    "name_en": null,
+    "code": 202,
+    "region_code": 2,
+    "order_sequence": 10
+  },
+  {
+    "name_ar": "الطائف",
+    "name_en": null,
+    "code": 203,
+    "region_code": 2,
+    "order_sequence": 3
+  },
+  {
+    "name_ar": "القنفذه",
+    "name_en": null,
+    "code": 204,
+    "region_code": 2,
+    "order_sequence": 4
+  },
+  {
+    "name_ar": "الكامل",
+    "name_en": null,
+    "code": 205,
+    "region_code": 2,
+    "order_sequence": 9
+  },
+  {
+    "name_ar": "الليث",
+    "name_en": null,
+    "code": 206,
+    "region_code": 2,
+    "order_sequence": 5
+  },
+  {
+    "name_ar": "تربه",
+    "name_en": null,
+    "code": 207,
+    "region_code": 2,
+    "order_sequence": 12
+  },
+  {
+    "name_ar": "جدة",
+    "name_en": null,
+    "code": 208,
+    "region_code": 2,
+    "order_sequence": 2
+  },
+  {
+    "name_ar": "خليص",
+    "name_en": null,
+    "code": 209,
+    "region_code": 2,
+    "order_sequence": 8
+  },
+  {
+    "name_ar": "رابغ",
+    "name_en": null,
+    "code": 210,
+    "region_code": 2,
+    "order_sequence": 6
+  },
+  {
+    "name_ar": "رنيه",
+    "name_en": null,
+    "code": 211,
+    "region_code": 2,
+    "order_sequence": 11
+  },
+  {
+    "name_ar": "مكه المكرمه",
+    "name_en": null,
+    "code": 213,
+    "region_code": 2,
+    "order_sequence": 1
+  },
+  {
+    "name_ar": "ميسان",
+    "name_en": null,
+    "code": 214,
+    "region_code": 2,
+    "order_sequence": 13
+  },
+  {
+    "name_ar": "المويه",
+    "name_en": null,
+    "code": 215,
+    "region_code": 2,
+    "order_sequence": 16
+  },
+  {
+    "name_ar": "أضم",
+    "name_en": null,
+    "code": 216,
+    "region_code": 2,
+    "order_sequence": 15
+  },
+  {
+    "name_ar": "العرضيات",
+    "name_en": null,
+    "code": 217,
+    "region_code": 2,
+    "order_sequence": 14
+  },
+  {
+    "name_ar": "بحرة",
+    "name_en": null,
+    "code": 218,
+    "region_code": 2,
+    "order_sequence": 17
+  },
+  {
+    "name_ar": "الخرخير",
+    "name_en": null,
+    "code": 1001,
+    "region_code": 10,
+    "order_sequence": 8
+  },
+  {
+    "name_ar": "بدر الجنوب",
+    "name_en": null,
+    "code": 1002,
+    "region_code": 10,
+    "order_sequence": 4
+  },
+  {
+    "name_ar": "ثار",
+    "name_en": null,
+    "code": 1003,
+    "region_code": 10,
+    "order_sequence": 6
+  },
+  {
+    "name_ar": "حبونا",
+    "name_en": null,
+    "code": 1004,
+    "region_code": 10,
+    "order_sequence": 3
+  },
+  {
+    "name_ar": "خباش",
+    "name_en": null,
+    "code": 1005,
+    "region_code": 10,
+    "order_sequence": 7
+  },
+  {
+    "name_ar": "شروره",
+    "name_en": null,
+    "code": 1006,
+    "region_code": 10,
+    "order_sequence": 2
+  },
+  {
+    "name_ar": "نجران",
+    "name_en": null,
+    "code": 1008,
+    "region_code": 10,
+    "order_sequence": 1
+  },
+  {
+    "name_ar": "يدمه",
+    "name_en": null,
+    "code": 1009,
+    "region_code": 10,
+    "order_sequence": 5
+  }
+]

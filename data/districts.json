@@ -1,0 +1,9810 @@
+[
+  {
+    "name_ar": "التلفزيون",
+    "name_en": "AL TALIFIZIYUN",
+    "latitude": 26.4325,
+    "longitude": 50.0607,
+    "code": 146,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الفاروق",
+    "name_en": "AL FARUQ",
+    "latitude": 26.3942,
+    "longitude": 50.1103,
+    "code": 147,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الشفاء",
+    "name_en": "ASH SHIFA",
+    "latitude": 26.4098,
+    "longitude": 50.12,
+    "code": 148,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الصفا",
+    "name_en": "AS SAFA",
+    "latitude": 26.3864,
+    "longitude": 50.1836,
+    "code": 149,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الجلوية",
+    "name_en": "AL JALLAWIYYAH",
+    "latitude": 26.4356,
+    "longitude": 50.0744,
+    "code": 150,
+    "city_code": 32
+  },
+  {
+    "name_ar": "غرناطة",
+    "name_en": "GHIRNATAH",
+    "latitude": 26.4242,
+    "longitude": 50.0799,
+    "code": 151,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الجامعة",
+    "name_en": "AL JAMIAH",
+    "latitude": 26.4052,
+    "longitude": 50.2016,
+    "code": 152,
+    "city_code": 32
+  },
+  {
+    "name_ar": "السيف",
+    "name_en": "AS SAYF",
+    "latitude": 26.3896,
+    "longitude": 50.212,
+    "code": 153,
+    "city_code": 32
+  },
+  {
+    "name_ar": "النرجس",
+    "name_en": "AN NARJAS",
+    "latitude": 26.3986,
+    "longitude": 50.1734,
+    "code": 154,
+    "city_code": 32
+  },
+  {
+    "name_ar": "المدينة الرياضية",
+    "name_en": "AL MADINAH AR RIYADIYYAH",
+    "latitude": 26.3583,
+    "longitude": 50.1828,
+    "code": 155,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الحمراء",
+    "name_en": "AL HAMRA",
+    "latitude": 26.467,
+    "longitude": 50.0835,
+    "code": 156,
+    "city_code": 32
+  },
+  {
+    "name_ar": "النسيم",
+    "name_en": "AN NASIM",
+    "latitude": 26.4616,
+    "longitude": 50.1558,
+    "code": 157,
+    "city_code": 32
+  },
+  {
+    "name_ar": "المحمدية",
+    "name_en": "AL MUHAMMADIYYAH",
+    "latitude": 26.4567,
+    "longitude": 50.0569,
+    "code": 158,
+    "city_code": 32
+  },
+  {
+    "name_ar": "ضاحية الملك فهد",
+    "name_en": "DAHIYAT AL MALIK FAHD",
+    "latitude": 26.4219,
+    "longitude": 49.995,
+    "code": 159,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الاتصالات",
+    "name_en": "AL ITISALAT",
+    "latitude": 26.4087,
+    "longitude": 50.0902,
+    "code": 160,
+    "city_code": 32
+  },
+  {
+    "name_ar": "قرطبة",
+    "name_en": "QURTUBAH",
+    "latitude": 26.4231,
+    "longitude": 50.1077,
+    "code": 161,
+    "city_code": 32
+  },
+  {
+    "name_ar": "النور",
+    "name_en": "AN NUR",
+    "latitude": 26.4292,
+    "longitude": 50.0239,
+    "code": 162,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الفيحاء",
+    "name_en": "AL FAYHA",
+    "latitude": 26.4404,
+    "longitude": 50.0399,
+    "code": 163,
+    "city_code": 32
+  },
+  {
+    "name_ar": "طيبة",
+    "name_en": "TAYBAH",
+    "latitude": 26.47,
+    "longitude": 50.0937,
+    "code": 164,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الواحة",
+    "name_en": "AL WAHAH",
+    "latitude": 26.3811,
+    "longitude": 50.0962,
+    "code": 165,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الروضة",
+    "name_en": "AR RAWDAH",
+    "latitude": 26.4031,
+    "longitude": 50.0786,
+    "code": 166,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الفردوس",
+    "name_en": "AL FIRDAWS",
+    "latitude": 26.3803,
+    "longitude": 50.1175,
+    "code": 167,
+    "city_code": 32
+  },
+  {
+    "name_ar": "البادية",
+    "name_en": "AL BADIYAH",
+    "latitude": 26.4279,
+    "longitude": 50.091,
+    "code": 168,
+    "city_code": 32
+  },
+  {
+    "name_ar": "البساتين",
+    "name_en": "AL BASATIN",
+    "latitude": 26.4151,
+    "longitude": 50.1452,
+    "code": 169,
+    "city_code": 32
+  },
+  {
+    "name_ar": "المروج",
+    "name_en": "AL MURUJ",
+    "latitude": 26.3921,
+    "longitude": 50.0871,
+    "code": 170,
+    "city_code": 32
+  },
+  {
+    "name_ar": "سكيرينة",
+    "name_en": "SKIRINAH",
+    "latitude": 24.6167,
+    "longitude": 46.7175,
+    "code": 171,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الوزارات",
+    "name_en": "AL WAZARAT",
+    "latitude": 24.6778,
+    "longitude": 46.7139,
+    "code": 172,
+    "city_code": 14
+  },
+  {
+    "name_ar": "منفوحة",
+    "name_en": "MANFUHAH",
+    "latitude": 24.5993,
+    "longitude": 46.7279,
+    "code": 173,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الملك عبد العزيز",
+    "name_en": "KING ABDUL AZIZ DT.",
+    "latitude": 24.7138,
+    "longitude": 46.7215,
+    "code": 174,
+    "city_code": 14
+  },
+  {
+    "name_ar": "صلاح الدين",
+    "name_en": "SALAH AD DIN",
+    "latitude": 24.7326,
+    "longitude": 46.6984,
+    "code": 175,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الربوة",
+    "name_en": "AR RABWAH",
+    "latitude": 24.6934,
+    "longitude": 46.7568,
+    "code": 176,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الواحة",
+    "name_en": "AL WAHAH",
+    "latitude": 24.7393,
+    "longitude": 46.7167,
+    "code": 177,
+    "city_code": 14
+  },
+  {
+    "name_ar": "جرير",
+    "name_en": "JARIR",
+    "latitude": 24.6782,
+    "longitude": 46.7508,
+    "code": 178,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الملك عبدالله",
+    "name_en": "KING ABDULLAH DT.",
+    "latitude": 24.7319,
+    "longitude": 46.7415,
+    "code": 179,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الجنادرية",
+    "name_en": "AL JANADRIYAH",
+    "latitude": 24.8646,
+    "longitude": 46.9018,
+    "code": 180,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الوادي",
+    "name_en": "AL WADI",
+    "latitude": 24.7895,
+    "longitude": 46.6913,
+    "code": 181,
+    "city_code": 14
+  },
+  {
+    "name_ar": "النزهة",
+    "name_en": "AN NUZHAH",
+    "latitude": 24.7565,
+    "longitude": 46.7079,
+    "code": 182,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المغرزات",
+    "name_en": "AL MUGHRIZAT",
+    "latitude": 24.7642,
+    "longitude": 46.7258,
+    "code": 183,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الحمراء",
+    "name_en": "AL HAMRA",
+    "latitude": 24.7756,
+    "longitude": 46.7532,
+    "code": 184,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الصالحية",
+    "name_en": "AS SALHIYAH",
+    "latitude": 24.6341,
+    "longitude": 46.7344,
+    "code": 185,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المرقب",
+    "name_en": "AL MARQAB",
+    "latitude": 24.6359,
+    "longitude": 46.7238,
+    "code": 186,
+    "city_code": 14
+  },
+  {
+    "name_ar": "السلام",
+    "name_en": "AS SALAM",
+    "latitude": 24.7073,
+    "longitude": 46.811,
+    "code": 187,
+    "city_code": 14
+  },
+  {
+    "name_ar": "النسيم الغربي",
+    "name_en": "AN NASIM AL GHARBI",
+    "latitude": 24.7257,
+    "longitude": 46.824,
+    "code": 188,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المعذر",
+    "name_en": "AL MADHAR",
+    "latitude": 24.6665,
+    "longitude": 46.676,
+    "code": 189,
+    "city_code": 14
+  },
+  {
+    "name_ar": "القدس",
+    "name_en": "AL QUDS",
+    "latitude": 24.7549,
+    "longitude": 46.754,
+    "code": 190,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المؤتمرات",
+    "name_en": "AL MUTAMARAT",
+    "latitude": 24.6704,
+    "longitude": 46.6867,
+    "code": 191,
+    "city_code": 14
+  },
+  {
+    "name_ar": "النفل",
+    "name_en": "AN NAFAL",
+    "latitude": 24.7819,
+    "longitude": 46.6733,
+    "code": 192,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الغدير",
+    "name_en": "AL GHADIR",
+    "latitude": 24.7737,
+    "longitude": 46.6541,
+    "code": 193,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المروج",
+    "name_en": "AL MURUJ",
+    "latitude": 24.7573,
+    "longitude": 46.662,
+    "code": 194,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المصيف",
+    "name_en": "AL MASIAF",
+    "latitude": 24.7655,
+    "longitude": 46.6816,
+    "code": 195,
+    "city_code": 14
+  },
+  {
+    "name_ar": "العود",
+    "name_en": "AL UD",
+    "latitude": 24.6267,
+    "longitude": 46.7274,
+    "code": 196,
+    "city_code": 14
+  },
+  {
+    "name_ar": "ثليم",
+    "name_en": "THULAIM",
+    "latitude": 24.6411,
+    "longitude": 46.7278,
+    "code": 197,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الدفاع",
+    "name_en": "AD DIFA",
+    "latitude": 24.5876,
+    "longitude": 46.8326,
+    "code": 198,
+    "city_code": 14
+  },
+  {
+    "name_ar": "النور",
+    "name_en": "AN NUR",
+    "latitude": 24.6312,
+    "longitude": 46.8157,
+    "code": 199,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الملز",
+    "name_en": "AL MALAZ",
+    "latitude": 24.6631,
+    "longitude": 46.7345,
+    "code": 200,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الوسيطاء",
+    "name_en": "AL WUSAYTA",
+    "latitude": 24.6244,
+    "longitude": 46.7158,
+    "code": 201,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الضباط",
+    "name_en": "ADH DHUBAT",
+    "latitude": 24.6785,
+    "longitude": 46.7224,
+    "code": 202,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الرمال",
+    "name_en": "AR RIMAL",
+    "latitude": 24.87,
+    "longitude": 46.8199,
+    "code": 203,
+    "city_code": 14
+  },
+  {
+    "name_ar": "السويدي الغربي",
+    "name_en": "AS SUWAIDI AL GHARBI",
+    "latitude": 24.5738,
+    "longitude": 46.625,
+    "code": 204,
+    "city_code": 14
+  },
+  {
+    "name_ar": "التعاون",
+    "name_en": "AT TAAWUN",
+    "latitude": 24.7731,
+    "longitude": 46.6996,
+    "code": 205,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الازدهار",
+    "name_en": "AL IZDIHAR",
+    "latitude": 24.7807,
+    "longitude": 46.7175,
+    "code": 206,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الاندلس",
+    "name_en": "AL ANDALUS",
+    "latitude": 24.7436,
+    "longitude": 46.7887,
+    "code": 207,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الروضة",
+    "name_en": "AR RAWDAH",
+    "latitude": 24.7342,
+    "longitude": 46.7671,
+    "code": 208,
+    "city_code": 14
+  },
+  {
+    "name_ar": "جامعة الملك سعود",
+    "name_en": "KING SAUD UNIVERSITY",
+    "latitude": 24.7246,
+    "longitude": 46.6244,
+    "code": 209,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الهدا",
+    "name_en": "AL HADA",
+    "latitude": 24.6608,
+    "longitude": 46.6407,
+    "code": 210,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الشرفية",
+    "name_en": "ASH SHARAFIYAH",
+    "latitude": 24.6594,
+    "longitude": 46.6685,
+    "code": 211,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الديرة",
+    "name_en": "AD DIRAH",
+    "latitude": 24.6322,
+    "longitude": 46.7104,
+    "code": 212,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الوشام",
+    "name_en": "AL WISHAM",
+    "latitude": 24.6424,
+    "longitude": 46.6984,
+    "code": 213,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الدرعية الجديدة",
+    "name_en": "AD DIRIYAH AL JADIDAH",
+    "latitude": 24.7533,
+    "longitude": 46.5387,
+    "code": 214,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الرحمانية",
+    "name_en": "AR RAHMANIYAH",
+    "latitude": 24.7162,
+    "longitude": 46.6594,
+    "code": 215,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المنار",
+    "name_en": "AL MANAR",
+    "latitude": 24.7254,
+    "longitude": 46.7973,
+    "code": 216,
+    "city_code": 14
+  },
+  {
+    "name_ar": "عليشة",
+    "name_en": "ILAISHAH",
+    "latitude": 24.6321,
+    "longitude": 46.6852,
+    "code": 217,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الخزامى",
+    "name_en": "AL KHUZAMA",
+    "latitude": 24.7148,
+    "longitude": 46.5953,
+    "code": 218,
+    "city_code": 14
+  },
+  {
+    "name_ar": "النهضة",
+    "name_en": "AN NAHDAH",
+    "latitude": 24.7606,
+    "longitude": 46.816,
+    "code": 219,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الخليج",
+    "name_en": "AL KHALIJ",
+    "latitude": 24.7769,
+    "longitude": 46.8035,
+    "code": 220,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الفوطة",
+    "name_en": "AL FUTAH",
+    "latitude": 24.6417,
+    "longitude": 46.7106,
+    "code": 221,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الدرعية",
+    "name_en": "AL DIRIYAH",
+    "latitude": 24.7572,
+    "longitude": 46.5618,
+    "code": 222,
+    "city_code": 14
+  },
+  {
+    "name_ar": "اليرموك",
+    "name_en": "AL YARMUK",
+    "latitude": 24.8082,
+    "longitude": 46.7829,
+    "code": 223,
+    "city_code": 14
+  },
+  {
+    "name_ar": "عرقة",
+    "name_en": "IRQAH",
+    "latitude": 24.687,
+    "longitude": 46.5872,
+    "code": 224,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المرسلات",
+    "name_en": "AL MURSALAT",
+    "latitude": 24.7489,
+    "longitude": 46.69,
+    "code": 225,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الرائد",
+    "name_en": "AR RAID",
+    "latitude": 24.707,
+    "longitude": 46.639,
+    "code": 226,
+    "city_code": 14
+  },
+  {
+    "name_ar": "ام الحمام الغربي",
+    "name_en": "UMM AL HAMAM AL GHARBI",
+    "latitude": 24.6897,
+    "longitude": 46.6448,
+    "code": 227,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المعذر الشمالي",
+    "name_en": "AL MADHAR ASH SHAMALI",
+    "latitude": 24.6912,
+    "longitude": 46.6668,
+    "code": 228,
+    "city_code": 14
+  },
+  {
+    "name_ar": "القرى",
+    "name_en": "AL QURA",
+    "latitude": 24.6282,
+    "longitude": 46.7157,
+    "code": 229,
+    "city_code": 14
+  },
+  {
+    "name_ar": "النخيل",
+    "name_en": "AN NAKHIL",
+    "latitude": 24.7433,
+    "longitude": 46.6251,
+    "code": 230,
+    "city_code": 14
+  },
+  {
+    "name_ar": "اشبيلية",
+    "name_en": "ISHBILIYAH",
+    "latitude": 24.7925,
+    "longitude": 46.7921,
+    "code": 231,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الخالدية",
+    "name_en": "AL KHALDIYAH",
+    "latitude": 24.7582,
+    "longitude": 46.5712,
+    "code": 232,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الناصرية",
+    "name_en": "AN NASIRIYAH",
+    "latitude": 24.6509,
+    "longitude": 46.6806,
+    "code": 233,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الرفيعة",
+    "name_en": "AR RAFIAH",
+    "latitude": 24.6399,
+    "longitude": 46.6617,
+    "code": 234,
+    "city_code": 14
+  },
+  {
+    "name_ar": "غرناطة",
+    "name_en": "GHIRNATAH",
+    "latitude": 24.792,
+    "longitude": 46.7444,
+    "code": 235,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المنصورة",
+    "name_en": "AL MANSURAH",
+    "latitude": 24.6089,
+    "longitude": 46.7451,
+    "code": 236,
+    "city_code": 14
+  },
+  {
+    "name_ar": "العزيزية",
+    "name_en": "AL AZIZIYAH",
+    "latitude": 24.5877,
+    "longitude": 46.7702,
+    "code": 237,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الدار البيضاء",
+    "name_en": "AD DAR AL BAIDA",
+    "latitude": 24.5655,
+    "longitude": 46.7919,
+    "code": 238,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المدينة الصناعية الجديدة",
+    "name_en": "NEW INDUSTRIAL AREA",
+    "latitude": 24.5443,
+    "longitude": 46.8996,
+    "code": 239,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الملك فيصل",
+    "name_en": "KING FAISAL DT.",
+    "latitude": 24.7619,
+    "longitude": 46.7751,
+    "code": 240,
+    "city_code": 14
+  },
+  {
+    "name_ar": "العقيق",
+    "name_en": "AL AQIQ",
+    "latitude": 24.7737,
+    "longitude": 46.6301,
+    "code": 241,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الورود",
+    "name_en": "AL WURUD",
+    "latitude": 24.7245,
+    "longitude": 46.6786,
+    "code": 242,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الملك فهد",
+    "name_en": "KING FAHD DT.",
+    "latitude": 24.7407,
+    "longitude": 46.6704,
+    "code": 243,
+    "city_code": 14
+  },
+  {
+    "name_ar": "غبيرة",
+    "name_en": "GHUBAIRAH",
+    "latitude": 24.6204,
+    "longitude": 46.7359,
+    "code": 244,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الطريف الجديدة",
+    "name_en": "AT TRAIF AL JADIDAH",
+    "latitude": 24.7451,
+    "longitude": 46.5745,
+    "code": 245,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الفيصلية",
+    "name_en": "AL FAYSALIYAH",
+    "latitude": 24.7459,
+    "longitude": 46.5812,
+    "code": 246,
+    "city_code": 14
+  },
+  {
+    "name_ar": "ام الحمام الشرقي",
+    "name_en": "UMM AL HAMAM ASH SHARQI",
+    "latitude": 24.6833,
+    "longitude": 46.6595,
+    "code": 247,
+    "city_code": 14
+  },
+  {
+    "name_ar": "طويق",
+    "name_en": "TUWAIQ",
+    "latitude": 24.5703,
+    "longitude": 46.542,
+    "code": 248,
+    "city_code": 14
+  },
+  {
+    "name_ar": "ديراب",
+    "name_en": "DIRAB",
+    "latitude": 24.5076,
+    "longitude": 46.614,
+    "code": 249,
+    "city_code": 14
+  },
+  {
+    "name_ar": "احد",
+    "name_en": "UHAD",
+    "latitude": 24.4856,
+    "longitude": 46.6351,
+    "code": 250,
+    "city_code": 14
+  },
+  {
+    "name_ar": "نمار",
+    "name_en": "NAMAR",
+    "latitude": 24.575,
+    "longitude": 46.6875,
+    "code": 251,
+    "city_code": 14
+  },
+  {
+    "name_ar": "ظهرة نمار",
+    "name_en": "DHAHRAT NAMAR",
+    "latitude": 24.5574,
+    "longitude": 46.614,
+    "code": 252,
+    "city_code": 14
+  },
+  {
+    "name_ar": "السلي",
+    "name_en": "AS SALI",
+    "latitude": 24.6333,
+    "longitude": 46.8623,
+    "code": 253,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الفاخرية",
+    "name_en": "AL FAKHRIYAH",
+    "latitude": 24.6415,
+    "longitude": 46.6827,
+    "code": 254,
+    "city_code": 14
+  },
+  {
+    "name_ar": "منفوحة الجديدة",
+    "name_en": "MANFUHAH AL JADIDAH",
+    "latitude": 24.6129,
+    "longitude": 46.7185,
+    "code": 255,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المونسية",
+    "name_en": "AL MUNSIYAH",
+    "latitude": 24.8323,
+    "longitude": 46.7677,
+    "code": 256,
+    "city_code": 14
+  },
+  {
+    "name_ar": "العريجاء",
+    "name_en": "AL URAIJA",
+    "latitude": 24.6238,
+    "longitude": 46.6572,
+    "code": 257,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الفيحاء",
+    "name_en": "AL FAIHA",
+    "latitude": 24.682,
+    "longitude": 46.8115,
+    "code": 258,
+    "city_code": 14
+  },
+  {
+    "name_ar": "السعادة",
+    "name_en": "AS SAADAH",
+    "latitude": 24.6961,
+    "longitude": 46.8392,
+    "code": 259,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الجزيرة",
+    "name_en": "AL JAZIRAH",
+    "latitude": 24.6652,
+    "longitude": 46.7965,
+    "code": 260,
+    "city_code": 14
+  },
+  {
+    "name_ar": "بدر",
+    "name_en": "BADR",
+    "latitude": 24.5203,
+    "longitude": 46.7276,
+    "code": 261,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المصانع",
+    "name_en": "AL MASANI",
+    "latitude": 24.5497,
+    "longitude": 46.7504,
+    "code": 262,
+    "city_code": 14
+  },
+  {
+    "name_ar": "البديعة",
+    "name_en": "AL BADIAH",
+    "latitude": 24.6172,
+    "longitude": 46.6806,
+    "code": 263,
+    "city_code": 14
+  },
+  {
+    "name_ar": "اليمامة",
+    "name_en": "AL YAMAMAH",
+    "latitude": 24.5955,
+    "longitude": 46.7168,
+    "code": 264,
+    "city_code": 14
+  },
+  {
+    "name_ar": "سلطانة",
+    "name_en": "SULTANAH",
+    "latitude": 24.6054,
+    "longitude": 46.6893,
+    "code": 265,
+    "city_code": 14
+  },
+  {
+    "name_ar": "النسيم الشرقي",
+    "name_en": "AN NASIM ASH SHARQI",
+    "latitude": 24.7388,
+    "longitude": 46.8456,
+    "code": 266,
+    "city_code": 14
+  },
+  {
+    "name_ar": "صياح",
+    "name_en": "SIYAH",
+    "latitude": 24.6081,
+    "longitude": 46.7025,
+    "code": 267,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الربيع",
+    "name_en": "AR RABI",
+    "latitude": 24.7955,
+    "longitude": 46.6614,
+    "code": 268,
+    "city_code": 14
+  },
+  {
+    "name_ar": "هجرة لبن",
+    "name_en": "HIJRAT LABAN",
+    "latitude": 24.6303,
+    "longitude": 46.6109,
+    "code": 269,
+    "city_code": 14
+  },
+  {
+    "name_ar": "العريجاء الغربية",
+    "name_en": "AL URAIJA AL GHARBIYAH",
+    "latitude": 24.5941,
+    "longitude": 46.6007,
+    "code": 270,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الشميسي",
+    "name_en": "ASH SHIMAISI",
+    "latitude": 24.6249,
+    "longitude": 46.7004,
+    "code": 271,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الزهراء",
+    "name_en": "AZ ZAHRA",
+    "latitude": 24.6864,
+    "longitude": 46.7303,
+    "code": 272,
+    "city_code": 14
+  },
+  {
+    "name_ar": "العريجاء الوسطى",
+    "name_en": "AL URAIJA AL WUSTA",
+    "latitude": 24.6071,
+    "longitude": 46.6358,
+    "code": 273,
+    "city_code": 14
+  },
+  {
+    "name_ar": "ظهرة لبن",
+    "name_en": "DHAHRAT LABAN",
+    "latitude": 24.6283,
+    "longitude": 46.5389,
+    "code": 274,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الفيصلية",
+    "name_en": "AL FAISALIYAH",
+    "latitude": 24.636,
+    "longitude": 46.7808,
+    "code": 275,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الفاروق",
+    "name_en": "AL FARUQ",
+    "latitude": 24.6539,
+    "longitude": 46.7732,
+    "code": 276,
+    "city_code": 14
+  },
+  {
+    "name_ar": "القادسية",
+    "name_en": "AL QADISIYAH",
+    "latitude": 24.8215,
+    "longitude": 46.8249,
+    "code": 277,
+    "city_code": 14
+  },
+  {
+    "name_ar": "جبرة",
+    "name_en": "JABRAH",
+    "latitude": 24.6252,
+    "longitude": 46.7191,
+    "code": 278,
+    "city_code": 14
+  },
+  {
+    "name_ar": "البطحاء",
+    "name_en": "AL BATHA",
+    "latitude": 24.6218,
+    "longitude": 46.7201,
+    "code": 279,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المعكال",
+    "name_en": "AL MIKAL",
+    "latitude": 24.6226,
+    "longitude": 46.7146,
+    "code": 280,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الدوبية",
+    "name_en": "AD DUBIYAH",
+    "latitude": 24.6213,
+    "longitude": 46.712,
+    "code": 281,
+    "city_code": 14
+  },
+  {
+    "name_ar": "العريجاء",
+    "name_en": "AL URAIJA",
+    "latitude": 24.7638,
+    "longitude": 46.509,
+    "code": 282,
+    "city_code": 14
+  },
+  {
+    "name_ar": "حطين",
+    "name_en": "HITTIN",
+    "latitude": 24.7622,
+    "longitude": 46.6008,
+    "code": 283,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الصناعية",
+    "name_en": "AS SINAIYAH",
+    "latitude": 24.6425,
+    "longitude": 46.7472,
+    "code": 284,
+    "city_code": 14
+  },
+  {
+    "name_ar": "سمحان",
+    "name_en": "SAMHAN",
+    "latitude": 24.7408,
+    "longitude": 46.5694,
+    "code": 285,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الطريف",
+    "name_en": "AT TRAIF",
+    "latitude": 24.7337,
+    "longitude": 46.5752,
+    "code": 286,
+    "city_code": 14
+  },
+  {
+    "name_ar": "البجيري",
+    "name_en": "AL BUJAYRI",
+    "latitude": 24.7372,
+    "longitude": 46.5755,
+    "code": 287,
+    "city_code": 14
+  },
+  {
+    "name_ar": "السويدي",
+    "name_en": "AS SUWAIDI",
+    "latitude": 24.5924,
+    "longitude": 46.6733,
+    "code": 288,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الحزم",
+    "name_en": "AL HAZM",
+    "latitude": 24.5436,
+    "longitude": 46.6506,
+    "code": 289,
+    "city_code": 14
+  },
+  {
+    "name_ar": "عتيقة",
+    "name_en": "UTAIQAH",
+    "latitude": 24.5995,
+    "longitude": 46.708,
+    "code": 290,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المربع",
+    "name_en": "AL MURABBA",
+    "latitude": 24.6603,
+    "longitude": 46.708,
+    "code": 291,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المريح",
+    "name_en": "AL MARIH",
+    "latitude": 24.7344,
+    "longitude": 46.5778,
+    "code": 292,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الياسمين",
+    "name_en": "AL YASMIN",
+    "latitude": 24.8228,
+    "longitude": 46.6439,
+    "code": 293,
+    "city_code": 14
+  },
+  {
+    "name_ar": "مطار",
+    "name_en": "AIRPORT",
+    "latitude": 25.2848,
+    "longitude": 49.4893,
+    "code": 573,
+    "city_code": 36
+  },
+  {
+    "name_ar": "محاسن ارامكو",
+    "name_en": "MAHASIN ARAMCO",
+    "latitude": 25.4148,
+    "longitude": 49.5357,
+    "code": 574,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الرفعة الشمالية",
+    "name_en": "AR RAFAH ASH SHAMALIYYAH",
+    "latitude": 25.3775,
+    "longitude": 49.5913,
+    "code": 575,
+    "city_code": 36
+  },
+  {
+    "name_ar": "مناطق زراعية",
+    "name_en": "AGRICUTURAL LAND",
+    "latitude": 25.3861,
+    "longitude": 49.6754,
+    "code": 576,
+    "city_code": 36
+  },
+  {
+    "name_ar": "جامعة الملك فيصل",
+    "name_en": "KING FAISAL UNIVERSITY",
+    "latitude": 25.3336,
+    "longitude": 49.6012,
+    "code": 577,
+    "city_code": 36
+  },
+  {
+    "name_ar": "النسيم",
+    "name_en": "AN NASIM",
+    "latitude": 25.33,
+    "longitude": 49.6101,
+    "code": 578,
+    "city_code": 36
+  },
+  {
+    "name_ar": "المزروعية",
+    "name_en": "AL MAZRUIYYAH",
+    "latitude": 25.3698,
+    "longitude": 49.5776,
+    "code": 579,
+    "city_code": 36
+  },
+  {
+    "name_ar": "جواثا",
+    "name_en": "JWATHA",
+    "latitude": 25.4423,
+    "longitude": 49.6603,
+    "code": 580,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الخرس",
+    "name_en": "AL KHARS",
+    "latitude": 25.4421,
+    "longitude": 49.5757,
+    "code": 581,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الشروفية",
+    "name_en": "ASH SHURUFIYYAH",
+    "latitude": 25.4239,
+    "longitude": 49.5786,
+    "code": 582,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الحزم",
+    "name_en": "AL HAZM",
+    "latitude": 25.4195,
+    "longitude": 49.58,
+    "code": 583,
+    "city_code": 36
+  },
+  {
+    "name_ar": "مدينة المبرز",
+    "name_en": "MADINAT AL MUBARRAZ",
+    "latitude": 25.4196,
+    "longitude": 49.5923,
+    "code": 584,
+    "city_code": 36
+  },
+  {
+    "name_ar": "محمد العيسى",
+    "name_en": "MUHAMMAD AL ISA",
+    "latitude": 25.355,
+    "longitude": 49.6177,
+    "code": 585,
+    "city_code": 36
+  },
+  {
+    "name_ar": "البصيرة",
+    "name_en": "AL BASIRAH",
+    "latitude": 25.369,
+    "longitude": 49.61,
+    "code": 586,
+    "city_code": 36
+  },
+  {
+    "name_ar": "القديمات",
+    "name_en": "AL QUDAYMAT",
+    "latitude": 25.4152,
+    "longitude": 49.5908,
+    "code": 587,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الخالدية",
+    "name_en": "AL KHALIDIYYAH",
+    "latitude": 25.3365,
+    "longitude": 49.5878,
+    "code": 588,
+    "city_code": 36
+  },
+  {
+    "name_ar": "البندرية",
+    "name_en": "AL BANDARIYYAH",
+    "latitude": 25.3408,
+    "longitude": 49.5718,
+    "code": 589,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الصالحية",
+    "name_en": "AS SALIHIYYAH",
+    "latitude": 25.3731,
+    "longitude": 49.5979,
+    "code": 590,
+    "city_code": 36
+  },
+  {
+    "name_ar": "العزيزية",
+    "name_en": "AL AZIZIYYAH",
+    "latitude": 25.329,
+    "longitude": 49.5707,
+    "code": 591,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الجامعيين",
+    "name_en": "AL JAMIIYYIN",
+    "latitude": 25.3164,
+    "longitude": 49.5915,
+    "code": 592,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الاسكان العام",
+    "name_en": "AL ISKAN AL AM",
+    "latitude": 25.3268,
+    "longitude": 49.5933,
+    "code": 593,
+    "city_code": 36
+  },
+  {
+    "name_ar": "جنوب منسوبي التعليم",
+    "name_en": "JANUB MANSUBI AT TALIM",
+    "latitude": 25.302,
+    "longitude": 49.5998,
+    "code": 594,
+    "city_code": 36
+  },
+  {
+    "name_ar": "المثلث",
+    "name_en": "AL MUTHALLATH",
+    "latitude": 25.3503,
+    "longitude": 49.6009,
+    "code": 595,
+    "city_code": 36
+  },
+  {
+    "name_ar": "العتبان",
+    "name_en": "AL UTBAN",
+    "latitude": 25.4157,
+    "longitude": 49.5832,
+    "code": 596,
+    "city_code": 36
+  },
+  {
+    "name_ar": "مدينة العيون",
+    "name_en": "AL MADINAT AL UYUN",
+    "latitude": 25.6132,
+    "longitude": 49.5548,
+    "code": 597,
+    "city_code": 36
+  },
+  {
+    "name_ar": "النايفية",
+    "name_en": "AN NAYFIYYAH",
+    "latitude": 25.3309,
+    "longitude": 49.5509,
+    "code": 598,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الزهرة",
+    "name_en": "AZ ZAHRAH",
+    "latitude": 25.3255,
+    "longitude": 49.584,
+    "code": 599,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الفاضلية",
+    "name_en": "AL FADILIYYAH",
+    "latitude": 25.3882,
+    "longitude": 49.5935,
+    "code": 600,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الواحة",
+    "name_en": "AL WAHAH",
+    "latitude": 25.329,
+    "longitude": 49.6237,
+    "code": 601,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الطرف",
+    "name_en": "AT TARF",
+    "latitude": 25.3542,
+    "longitude": 49.722,
+    "code": 602,
+    "city_code": 36
+  },
+  {
+    "name_ar": "مخطط علي الخرس واحمد الشهاب",
+    "name_en": "ALI AL KHARS & AHMAD ASH SHIHAB PLAN",
+    "latitude": 25.4497,
+    "longitude": 49.5567,
+    "code": 603,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الاندلس",
+    "name_en": "AL ANDALUS",
+    "latitude": 25.4012,
+    "longitude": 49.6035,
+    "code": 604,
+    "city_code": 36
+  },
+  {
+    "name_ar": "المنيزلة",
+    "name_en": "AL MINAYZILAH",
+    "latitude": 25.3794,
+    "longitude": 49.6696,
+    "code": 605,
+    "city_code": 36
+  },
+  {
+    "name_ar": "المزروع",
+    "name_en": "AL MAZRU",
+    "latitude": 25.3412,
+    "longitude": 49.6114,
+    "code": 606,
+    "city_code": 36
+  },
+  {
+    "name_ar": "القادسية",
+    "name_en": "AL QADISIYYAH",
+    "latitude": 25.4125,
+    "longitude": 49.5681,
+    "code": 607,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الرفعة الجنوبية",
+    "name_en": "AR RAFAH AL JANUBIYYAH",
+    "latitude": 25.3719,
+    "longitude": 49.5895,
+    "code": 608,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الروضة",
+    "name_en": "AR RAWDAH",
+    "latitude": 25.3578,
+    "longitude": 49.6048,
+    "code": 609,
+    "city_code": 36
+  },
+  {
+    "name_ar": "مخطط الراجحي",
+    "name_en": "AL RAJIHI PLAN",
+    "latitude": 25.4333,
+    "longitude": 49.5512,
+    "code": 610,
+    "city_code": 36
+  },
+  {
+    "name_ar": "محاسن البلدية",
+    "name_en": "MAHASIN AL BALADIYYAH",
+    "latitude": 25.4119,
+    "longitude": 49.5535,
+    "code": 611,
+    "city_code": 36
+  },
+  {
+    "name_ar": "مدينة الجفر",
+    "name_en": "MADINAT AL JAFR",
+    "latitude": 25.38,
+    "longitude": 49.7219,
+    "code": 612,
+    "city_code": 36
+  },
+  {
+    "name_ar": "المطيرفي",
+    "name_en": "AL MUTAYRIFI",
+    "latitude": 25.4795,
+    "longitude": 49.5563,
+    "code": 613,
+    "city_code": 36
+  },
+  {
+    "name_ar": "السلمانية الشمالية",
+    "name_en": "AS SALMANIYYAH ASH SHAMALIYYAH",
+    "latitude": 25.3648,
+    "longitude": 49.5476,
+    "code": 614,
+    "city_code": 36
+  },
+  {
+    "name_ar": "المعلمين الغربية",
+    "name_en": "AL MUALLIMIN AL GHARBIYYAH",
+    "latitude": 25.3686,
+    "longitude": 49.5634,
+    "code": 615,
+    "city_code": 36
+  },
+  {
+    "name_ar": "مدينة العمران",
+    "name_en": "MADINAT AL UMRAN",
+    "latitude": 25.4145,
+    "longitude": 49.7162,
+    "code": 616,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الجشة",
+    "name_en": "AL JISHSHAH",
+    "latitude": 25.3874,
+    "longitude": 49.752,
+    "code": 617,
+    "city_code": 36
+  },
+  {
+    "name_ar": "النزهة",
+    "name_en": "AN NUZHAH",
+    "latitude": 25.4546,
+    "longitude": 49.6013,
+    "code": 618,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الصيهد",
+    "name_en": "AS SAYHAD",
+    "latitude": 25.3674,
+    "longitude": 49.5578,
+    "code": 619,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الراية",
+    "name_en": "AR RAYAH",
+    "latitude": 26.3955,
+    "longitude": 44.0022,
+    "code": 620,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الربيع",
+    "name_en": "AR RABI",
+    "latitude": 26.3417,
+    "longitude": 43.9826,
+    "code": 621,
+    "city_code": 21
+  },
+  {
+    "name_ar": "العريمضي",
+    "name_en": "AL URAYMDI",
+    "latitude": 26.2986,
+    "longitude": 43.9164,
+    "code": 622,
+    "city_code": 21
+  },
+  {
+    "name_ar": "المروة",
+    "name_en": "AL MARWAH",
+    "latitude": 26.2378,
+    "longitude": 44.0516,
+    "code": 623,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الوسيطا",
+    "name_en": "AL WUSAYTA",
+    "latitude": 26.3438,
+    "longitude": 44.0387,
+    "code": 624,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الروضة",
+    "name_en": "AR RAWDAH",
+    "latitude": 26.381,
+    "longitude": 43.9196,
+    "code": 625,
+    "city_code": 21
+  },
+  {
+    "name_ar": "النقع",
+    "name_en": "AN NAQ",
+    "latitude": 26.3659,
+    "longitude": 43.9977,
+    "code": 626,
+    "city_code": 21
+  },
+  {
+    "name_ar": " النفل",
+    "name_en": "AN NAFAL",
+    "latitude": 26.3791,
+    "longitude": 44.0216,
+    "code": 627,
+    "city_code": 21
+  },
+  {
+    "name_ar": "السالمية",
+    "name_en": "AS SALIMIYYAH",
+    "latitude": 26.2837,
+    "longitude": 43.9914,
+    "code": 628,
+    "city_code": 21
+  },
+  {
+    "name_ar": "السادة",
+    "name_en": "AS SADAH",
+    "latitude": 26.3211,
+    "longitude": 43.9853,
+    "code": 629,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الشفق",
+    "name_en": "ASH SHAFAQ",
+    "latitude": 26.3404,
+    "longitude": 43.8653,
+    "code": 630,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الصباخ",
+    "name_en": "AS SABBAKH",
+    "latitude": 26.3049,
+    "longitude": 43.9812,
+    "code": 631,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الخليج",
+    "name_en": "AL KHALIJ",
+    "latitude": 26.3026,
+    "longitude": 43.9725,
+    "code": 632,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الصفراء",
+    "name_en": "AS SAFRA",
+    "latitude": 26.3661,
+    "longitude": 43.9548,
+    "code": 633,
+    "city_code": 21
+  },
+  {
+    "name_ar": "خضيراء",
+    "name_en": "KHUDAYRA",
+    "latitude": 26.2974,
+    "longitude": 44.0181,
+    "code": 634,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الزرقاء",
+    "name_en": "AZ ZARQA",
+    "latitude": 26.345,
+    "longitude": 43.9218,
+    "code": 635,
+    "city_code": 21
+  },
+  {
+    "name_ar": "اللسيب",
+    "name_en": "AL LASIB",
+    "latitude": 26.261,
+    "longitude": 43.9346,
+    "code": 636,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الجردة",
+    "name_en": "AL JARDAH",
+    "latitude": 26.324,
+    "longitude": 43.9724,
+    "code": 637,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الحزم",
+    "name_en": "AL HAZM",
+    "latitude": 26.4315,
+    "longitude": 43.9197,
+    "code": 638,
+    "city_code": 21
+  },
+  {
+    "name_ar": "المنتزه",
+    "name_en": "AL MUNTAZAH",
+    "latitude": 26.3576,
+    "longitude": 43.9423,
+    "code": 639,
+    "city_code": 21
+  },
+  {
+    "name_ar": "النور",
+    "name_en": "AN NUR",
+    "latitude": 26.3475,
+    "longitude": 43.9674,
+    "code": 640,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الأندلس",
+    "name_en": "AL ANDALUS",
+    "latitude": 26.1817,
+    "longitude": 43.9772,
+    "code": 641,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الشماس",
+    "name_en": "ASH SHAMMAS",
+    "latitude": 26.3326,
+    "longitude": 43.9626,
+    "code": 642,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الخبيب",
+    "name_en": "AL KHABIB",
+    "latitude": 26.3352,
+    "longitude": 43.9732,
+    "code": 643,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الربوة",
+    "name_en": "AR RABWAH",
+    "latitude": 26.3586,
+    "longitude": 43.9796,
+    "code": 644,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الفايزية",
+    "name_en": "AL FAYZIYYAH",
+    "latitude": 26.3736,
+    "longitude": 43.9739,
+    "code": 645,
+    "city_code": 21
+  },
+  {
+    "name_ar": "المرقب",
+    "name_en": "AL MARQAB",
+    "latitude": 26.3414,
+    "longitude": 43.9571,
+    "code": 646,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الوادي",
+    "name_en": "AL WADI",
+    "latitude": 26.183,
+    "longitude": 44.0321,
+    "code": 647,
+    "city_code": 21
+  },
+  {
+    "name_ar": "المريديسية",
+    "name_en": "AL MURAYDISIYYAH",
+    "latitude": 26.3092,
+    "longitude": 43.9269,
+    "code": 648,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الرحاب",
+    "name_en": "AR RIHAB",
+    "latitude": 26.4226,
+    "longitude": 43.8977,
+    "code": 649,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الجزيرة",
+    "name_en": "AL JAZIRAH",
+    "latitude": 26.4083,
+    "longitude": 43.876,
+    "code": 650,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الفاروق",
+    "name_en": "AL FARUQ",
+    "latitude": 26.4422,
+    "longitude": 43.9499,
+    "code": 651,
+    "city_code": 21
+  },
+  {
+    "name_ar": "القاع البارد",
+    "name_en": "AL QA AL BARID",
+    "latitude": 26.3505,
+    "longitude": 44.0215,
+    "code": 652,
+    "city_code": 21
+  },
+  {
+    "name_ar": "التعليم",
+    "name_en": "AL TALIM",
+    "latitude": 26.3263,
+    "longitude": 43.9791,
+    "code": 653,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الشقة",
+    "name_en": "ASH SHUQA",
+    "latitude": 26.3757,
+    "longitude": 43.8482,
+    "code": 654,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الرمال",
+    "name_en": "AR RIMAL",
+    "latitude": 26.2289,
+    "longitude": 43.9555,
+    "code": 655,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الاخضر",
+    "name_en": "AL AKHDAR",
+    "latitude": 26.3905,
+    "longitude": 43.9725,
+    "code": 656,
+    "city_code": 21
+  },
+  {
+    "name_ar": " الريان",
+    "name_en": "AR RAYYAN",
+    "latitude": 26.3967,
+    "longitude": 43.9086,
+    "code": 657,
+    "city_code": 21
+  },
+  {
+    "name_ar": "العجيبة",
+    "name_en": "AL UJAYBAH",
+    "latitude": 26.3262,
+    "longitude": 43.9682,
+    "code": 658,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الرفيعة",
+    "name_en": "AR RAFIAH",
+    "latitude": 26.339,
+    "longitude": 43.9969,
+    "code": 659,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الغدير",
+    "name_en": "AL GHADIR",
+    "latitude": 26.2705,
+    "longitude": 44.0407,
+    "code": 660,
+    "city_code": 21
+  },
+  {
+    "name_ar": "واسط",
+    "name_en": "WASIT",
+    "latitude": 26.2974,
+    "longitude": 43.9576,
+    "code": 661,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الهلال",
+    "name_en": "AL HILAL",
+    "latitude": 26.3245,
+    "longitude": 43.9643,
+    "code": 662,
+    "city_code": 21
+  },
+  {
+    "name_ar": " الصالحية",
+    "name_en": "AS SALHIYAH",
+    "latitude": 26.3276,
+    "longitude": 43.9868,
+    "code": 663,
+    "city_code": 21
+  },
+  {
+    "name_ar": "السلام",
+    "name_en": "AS SALAM",
+    "latitude": 26.3028,
+    "longitude": 43.9955,
+    "code": 664,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الحمر",
+    "name_en": "AL HAMR",
+    "latitude": 26.3429,
+    "longitude": 43.8989,
+    "code": 665,
+    "city_code": 21
+  },
+  {
+    "name_ar": "المنار",
+    "name_en": "AL MANAR",
+    "latitude": 26.355,
+    "longitude": 43.9311,
+    "code": 666,
+    "city_code": 21
+  },
+  {
+    "name_ar": "النخيل",
+    "name_en": "AN NAKHIL",
+    "latitude": 26.3681,
+    "longitude": 43.9021,
+    "code": 667,
+    "city_code": 21
+  },
+  {
+    "name_ar": " الخزامى",
+    "name_en": "AL KHUZAMA",
+    "latitude": 26.414,
+    "longitude": 43.9928,
+    "code": 668,
+    "city_code": 21
+  },
+  {
+    "name_ar": "القصيعة",
+    "name_en": "AL QUSAYAH",
+    "latitude": 26.2606,
+    "longitude": 43.9647,
+    "code": 669,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الجنوب",
+    "name_en": "AL JANUB",
+    "latitude": 26.3169,
+    "longitude": 43.9765,
+    "code": 670,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الروابي",
+    "name_en": "AR RAWABI",
+    "latitude": 26.2912,
+    "longitude": 44.0484,
+    "code": 671,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الورود",
+    "name_en": "AL WURUD",
+    "latitude": 26.4132,
+    "longitude": 43.9644,
+    "code": 672,
+    "city_code": 21
+  },
+  {
+    "name_ar": "خب الثنيان",
+    "name_en": " KHUB ATH THINAYAN",
+    "latitude": 26.3302,
+    "longitude": 43.9306,
+    "code": 673,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الموطا",
+    "name_en": "AL MAWTA",
+    "latitude": 26.317,
+    "longitude": 43.9613,
+    "code": 674,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الإسكان",
+    "name_en": "AL ISKAN",
+    "latitude": 26.3854,
+    "longitude": 43.9407,
+    "code": 675,
+    "city_code": 21
+  },
+  {
+    "name_ar": "خب البريدي",
+    "name_en": "KHUB AL BURAYDI",
+    "latitude": 26.3135,
+    "longitude": 43.9394,
+    "code": 676,
+    "city_code": 21
+  },
+  {
+    "name_ar": "البساتين",
+    "name_en": "AL BASATIN",
+    "latitude": 26.3198,
+    "longitude": 44.0197,
+    "code": 677,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الضاحي",
+    "name_en": "AD DAHI",
+    "latitude": 26.3104,
+    "longitude": 44.0464,
+    "code": 678,
+    "city_code": 21
+  },
+  {
+    "name_ar": "رواق",
+    "name_en": "RAWAQ",
+    "latitude": 26.2597,
+    "longitude": 44.0092,
+    "code": 679,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الشروق",
+    "name_en": "ASH SHURUQ",
+    "latitude": 26.3283,
+    "longitude": 44.0441,
+    "code": 680,
+    "city_code": 21
+  },
+  {
+    "name_ar": "النهضة",
+    "name_en": "AN NAHDAH",
+    "latitude": 26.4078,
+    "longitude": 43.9326,
+    "code": 681,
+    "city_code": 21
+  },
+  {
+    "name_ar": "القادسية",
+    "name_en": "AL QADISIYAH",
+    "latitude": 26.3344,
+    "longitude": 43.9526,
+    "code": 682,
+    "city_code": 21
+  },
+  {
+    "name_ar": "النسيم",
+    "name_en": "AN NASIM",
+    "latitude": 26.3232,
+    "longitude": 44.0027,
+    "code": 683,
+    "city_code": 21
+  },
+  {
+    "name_ar": "اليرموك",
+    "name_en": "AL YARMUK",
+    "latitude": 26.2264,
+    "longitude": 44.0061,
+    "code": 684,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الأفق",
+    "name_en": "AL UFUQ",
+    "latitude": 26.4002,
+    "longitude": 43.9528,
+    "code": 685,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الخضر",
+    "name_en": "AL KHADAR",
+    "latitude": 26.2503,
+    "longitude": 43.9947,
+    "code": 686,
+    "city_code": 21
+  },
+  {
+    "name_ar": "المروج",
+    "name_en": "AL MURUJ",
+    "latitude": 26.274,
+    "longitude": 43.9806,
+    "code": 687,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الصفا",
+    "name_en": "AS SAFA",
+    "latitude": 26.3299,
+    "longitude": 43.943,
+    "code": 688,
+    "city_code": 21
+  },
+  {
+    "name_ar": "الزور",
+    "name_en": "AZ ZOUR",
+    "latitude": 26.595,
+    "longitude": 50.0772,
+    "code": 689,
+    "city_code": 37
+  },
+  {
+    "name_ar": "سنابس",
+    "name_en": "SANABIS",
+    "latitude": 26.5811,
+    "longitude": 50.0839,
+    "code": 690,
+    "city_code": 37
+  },
+  {
+    "name_ar": "دارين",
+    "name_en": "DARIN",
+    "latitude": 26.5448,
+    "longitude": 50.0764,
+    "code": 691,
+    "city_code": 37
+  },
+  {
+    "name_ar": "الروضة",
+    "name_en": "AR RAWDAH",
+    "latitude": 26.5772,
+    "longitude": 50.0415,
+    "code": 692,
+    "city_code": 37
+  },
+  {
+    "name_ar": "الصناعية",
+    "name_en": "AS SINAIYYAH",
+    "latitude": 26.5855,
+    "longitude": 50.0373,
+    "code": 693,
+    "city_code": 37
+  },
+  {
+    "name_ar": "الفتح",
+    "name_en": "AL FATH",
+    "latitude": 26.5529,
+    "longitude": 50.0457,
+    "code": 694,
+    "city_code": 37
+  },
+  {
+    "name_ar": "الكرامة",
+    "name_en": "AL KARAMAH",
+    "latitude": 26.5794,
+    "longitude": 50.0787,
+    "code": 695,
+    "city_code": 37
+  },
+  {
+    "name_ar": "الاندلس",
+    "name_en": "AL ANDALUS",
+    "latitude": 26.5556,
+    "longitude": 50.0782,
+    "code": 696,
+    "city_code": 37
+  },
+  {
+    "name_ar": "المرجان",
+    "name_en": "AL MURJAN",
+    "latitude": 26.5514,
+    "longitude": 50.0635,
+    "code": 697,
+    "city_code": 37
+  },
+  {
+    "name_ar": "الترجي",
+    "name_en": "AT TARAJJI",
+    "latitude": 26.5658,
+    "longitude": 50.0605,
+    "code": 698,
+    "city_code": 37
+  },
+  {
+    "name_ar": "الشاطئ",
+    "name_en": "ASH SHATI",
+    "latitude": 26.5652,
+    "longitude": 50.0445,
+    "code": 699,
+    "city_code": 37
+  },
+  {
+    "name_ar": "الرضا",
+    "name_en": "AR RIDA",
+    "latitude": 26.5645,
+    "longitude": 50.0305,
+    "code": 700,
+    "city_code": 37
+  },
+  {
+    "name_ar": "تاروت",
+    "name_en": "TARUT",
+    "latitude": 26.5712,
+    "longitude": 50.0715,
+    "code": 701,
+    "city_code": 37
+  },
+  {
+    "name_ar": "الرحمة",
+    "name_en": "AR RAHAMAH",
+    "latitude": 26.5689,
+    "longitude": 50.0862,
+    "code": 702,
+    "city_code": 37
+  },
+  {
+    "name_ar": "الواحة",
+    "name_en": "AL WAHAH",
+    "latitude": 26.5759,
+    "longitude": 50.0265,
+    "code": 703,
+    "city_code": 37
+  },
+  {
+    "name_ar": "الجامعيين",
+    "name_en": "AL JAMIIYYIN",
+    "latitude": 26.5875,
+    "longitude": 50.0539,
+    "code": 704,
+    "city_code": 37
+  },
+  {
+    "name_ar": "الربيعة",
+    "name_en": "AR RABIYYAH",
+    "latitude": 26.5685,
+    "longitude": 50.0818,
+    "code": 705,
+    "city_code": 37
+  },
+  {
+    "name_ar": "الروضة",
+    "name_en": "AR RAWDAH",
+    "latitude": 28.4065,
+    "longitude": 36.5231,
+    "code": 706,
+    "city_code": 41
+  },
+  {
+    "name_ar": "سلطانة",
+    "name_en": "SULTANAH",
+    "latitude": 28.4024,
+    "longitude": 36.5875,
+    "code": 707,
+    "city_code": 41
+  },
+  {
+    "name_ar": "السلام",
+    "name_en": "AS SALAM",
+    "latitude": 28.4097,
+    "longitude": 36.6102,
+    "code": 708,
+    "city_code": 41
+  },
+  {
+    "name_ar": "المنتزه",
+    "name_en": "AL MUNTAZAH",
+    "latitude": 28.37,
+    "longitude": 36.5618,
+    "code": 709,
+    "city_code": 41
+  },
+  {
+    "name_ar": "العليا",
+    "name_en": "AL ULAYA",
+    "latitude": 28.3834,
+    "longitude": 36.5848,
+    "code": 710,
+    "city_code": 41
+  },
+  {
+    "name_ar": "الفيصليةالجنوبية",
+    "name_en": "AL FAYSALIYYAH AL JANUBIYYAH",
+    "latitude": 28.3929,
+    "longitude": 36.5805,
+    "code": 711,
+    "city_code": 41
+  },
+  {
+    "name_ar": "المهرجان",
+    "name_en": "AL MAHRAJAN",
+    "latitude": 28.402,
+    "longitude": 36.566,
+    "code": 712,
+    "city_code": 41
+  },
+  {
+    "name_ar": "المروج",
+    "name_en": "AL MURUJ",
+    "latitude": 28.4183,
+    "longitude": 36.5861,
+    "code": 713,
+    "city_code": 41
+  },
+  {
+    "name_ar": "ابو سبعة",
+    "name_en": "ABU SABAH",
+    "latitude": 28.3659,
+    "longitude": 36.5397,
+    "code": 714,
+    "city_code": 41
+  },
+  {
+    "name_ar": "كريم",
+    "name_en": "KARIM",
+    "latitude": 28.3717,
+    "longitude": 36.5439,
+    "code": 715,
+    "city_code": 41
+  },
+  {
+    "name_ar": "النهضة",
+    "name_en": "AN NAHDAH",
+    "latitude": 28.3932,
+    "longitude": 36.5358,
+    "code": 716,
+    "city_code": 41
+  },
+  {
+    "name_ar": "المصيف",
+    "name_en": "AL MASIF",
+    "latitude": 28.4486,
+    "longitude": 36.5317,
+    "code": 717,
+    "city_code": 41
+  },
+  {
+    "name_ar": "الدرعية",
+    "name_en": "AD DIRIYAH",
+    "latitude": 24.7338,
+    "longitude": 46.5828,
+    "code": 294,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الملقا",
+    "name_en": "AL MALQA",
+    "latitude": 24.7991,
+    "longitude": 46.5977,
+    "code": 295,
+    "city_code": 14
+  },
+  {
+    "name_ar": "القيروان",
+    "name_en": "AL QIRAWAN",
+    "latitude": 24.8835,
+    "longitude": 46.5517,
+    "code": 296,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الريان",
+    "name_en": "AR RAYYAN",
+    "latitude": 24.7123,
+    "longitude": 46.7781,
+    "code": 297,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الروابي",
+    "name_en": "AR RAWABI",
+    "latitude": 24.6954,
+    "longitude": 46.7904,
+    "code": 298,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الاسكان",
+    "name_en": "AL ISKAN",
+    "latitude": 24.5747,
+    "longitude": 46.8485,
+    "code": 299,
+    "city_code": 14
+  },
+  {
+    "name_ar": "النرجس",
+    "name_en": "AN NARJIS",
+    "latitude": 24.8764,
+    "longitude": 46.6512,
+    "code": 300,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الدريهمية",
+    "name_en": "AD DURAIHIMIYAH",
+    "latitude": 24.5898,
+    "longitude": 46.6964,
+    "code": 301,
+    "city_code": 14
+  },
+  {
+    "name_ar": "العليا",
+    "name_en": "AL ULAYA",
+    "latitude": 24.6932,
+    "longitude": 46.6845,
+    "code": 302,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الصفا",
+    "name_en": "AS SAFA",
+    "latitude": 24.6671,
+    "longitude": 46.7656,
+    "code": 303,
+    "city_code": 14
+  },
+  {
+    "name_ar": "العارض",
+    "name_en": "AL ARID",
+    "latitude": 24.8872,
+    "longitude": 46.6063,
+    "code": 304,
+    "city_code": 14
+  },
+  {
+    "name_ar": "جامعة الامام محمد بن سعود الاسلامية",
+    "name_en": "AL IMAM MOHD IBN SAUD ISLAMIC UNIVERSITY",
+    "latitude": 24.8132,
+    "longitude": 46.7027,
+    "code": 305,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الفلاح",
+    "name_en": "AL FALAH",
+    "latitude": 24.7971,
+    "longitude": 46.7092,
+    "code": 306,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الندى",
+    "name_en": "AN NADA",
+    "latitude": 24.8058,
+    "longitude": 46.683,
+    "code": 307,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الصحافة",
+    "name_en": "AS SAHAFAH",
+    "latitude": 24.8,
+    "longitude": 46.6391,
+    "code": 308,
+    "city_code": 14
+  },
+  {
+    "name_ar": "السليمانية",
+    "name_en": "AS SULAYMANIYAH",
+    "latitude": 24.7008,
+    "longitude": 46.7024,
+    "code": 309,
+    "city_code": 14
+  },
+  {
+    "name_ar": "النموذجية",
+    "name_en": "AN NAMUDHAJIYAH",
+    "latitude": 24.6569,
+    "longitude": 46.6947,
+    "code": 310,
+    "city_code": 14
+  },
+  {
+    "name_ar": "العمل",
+    "name_en": "AL AMAL",
+    "latitude": 24.646,
+    "longitude": 46.7227,
+    "code": 311,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الزهرة",
+    "name_en": "AZ ZAHRAH",
+    "latitude": 24.5787,
+    "longitude": 46.6459,
+    "code": 312,
+    "city_code": 14
+  },
+  {
+    "name_ar": "شبرا",
+    "name_en": "SHUBRA",
+    "latitude": 24.5774,
+    "longitude": 46.6695,
+    "code": 313,
+    "city_code": 14
+  },
+  {
+    "name_ar": "عكاظ",
+    "name_en": "UQADH",
+    "latitude": 24.5128,
+    "longitude": 46.6672,
+    "code": 314,
+    "city_code": 14
+  },
+  {
+    "name_ar": "مطار الملك خالد",
+    "name_en": "KING KHALID AIRPORT",
+    "latitude": 24.8943,
+    "longitude": 46.7286,
+    "code": 315,
+    "city_code": 14
+  },
+  {
+    "name_ar": "قرطبة",
+    "name_en": "QURTUBAH",
+    "latitude": 24.8155,
+    "longitude": 46.7339,
+    "code": 316,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المروة",
+    "name_en": "AL MARWAH",
+    "latitude": 24.5407,
+    "longitude": 46.676,
+    "code": 317,
+    "city_code": 14
+  },
+  {
+    "name_ar": "خشم العان",
+    "name_en": "KHASHM AL AN",
+    "latitude": 24.7009,
+    "longitude": 46.9164,
+    "code": 318,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الروقية",
+    "name_en": "AR RUQIYAH",
+    "latitude": 24.741,
+    "longitude": 46.564,
+    "code": 319,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المناخ",
+    "name_en": "AL MANAKH",
+    "latitude": 24.6093,
+    "longitude": 46.8013,
+    "code": 320,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الجرادية",
+    "name_en": "AL JARADIYAH",
+    "latitude": 24.6171,
+    "longitude": 46.6978,
+    "code": 321,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المحمدية",
+    "name_en": "AL MUHAMMADIYAH",
+    "latitude": 24.7327,
+    "longitude": 46.6503,
+    "code": 322,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الشفا",
+    "name_en": "ASH SHIFA",
+    "latitude": 24.566,
+    "longitude": 46.7003,
+    "code": 323,
+    "city_code": 14
+  },
+  {
+    "name_ar": "ام سليم",
+    "name_en": "UMM SALIM",
+    "latitude": 24.6339,
+    "longitude": 46.6984,
+    "code": 324,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المصفاة",
+    "name_en": "AL MISFAT",
+    "latitude": 24.5241,
+    "longitude": 46.8703,
+    "code": 325,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المنصورية",
+    "name_en": "MANSURIYAH",
+    "latitude": 24.5208,
+    "longitude": 46.7971,
+    "code": 326,
+    "city_code": 14
+  },
+  {
+    "name_ar": "طيبة",
+    "name_en": "TAYBAH",
+    "latitude": 24.5439,
+    "longitude": 46.8302,
+    "code": 327,
+    "city_code": 14
+  },
+  {
+    "name_ar": "الرماية",
+    "name_en": "AR RIMAYAH",
+    "latitude": 24.7696,
+    "longitude": 46.8717,
+    "code": 328,
+    "city_code": 14
+  },
+  {
+    "name_ar": "النظيم",
+    "name_en": "AN NADHIM",
+    "latitude": 24.803,
+    "longitude": 46.8922,
+    "code": 329,
+    "city_code": 14
+  },
+  {
+    "name_ar": "المعيزلة",
+    "name_en": "AL MAIZILAH",
+    "latitude": 24.7936,
+    "longitude": 46.8398,
+    "code": 330,
+    "city_code": 14
+  },
+  {
+    "name_ar": "ظهرة البديعة",
+    "name_en": "DHAHRAT AL BADIAH",
+    "latitude": 24.5981,
+    "longitude": 46.6508,
+    "code": 331,
+    "city_code": 14
+  },
+  {
+    "name_ar": "السفارات",
+    "name_en": "AS SAFARAT",
+    "latitude": 24.6794,
+    "longitude": 46.6213,
+    "code": 332,
+    "city_code": 14
+  },
+  {
+    "name_ar": "حوايا",
+    "name_en": "HAWAYA",
+    "latitude": 21.265,
+    "longitude": 40.4128,
+    "code": 333,
+    "city_code": 55
+  },
+  {
+    "name_ar": "شهار",
+    "name_en": "SHIHAR",
+    "latitude": 21.2507,
+    "longitude": 40.413,
+    "code": 334,
+    "city_code": 55
+  },
+  {
+    "name_ar": "السداد",
+    "name_en": "AS SADAD",
+    "latitude": 21.2316,
+    "longitude": 40.4328,
+    "code": 335,
+    "city_code": 55
+  },
+  {
+    "name_ar": "العزيزية",
+    "name_en": "AL AZIZIYYAH",
+    "latitude": 21.2797,
+    "longitude": 40.4081,
+    "code": 336,
+    "city_code": 55
+  },
+  {
+    "name_ar": "الوشحاء",
+    "name_en": "AL WASHHA",
+    "latitude": 21.2506,
+    "longitude": 40.4506,
+    "code": 337,
+    "city_code": 55
+  },
+  {
+    "name_ar": "الفيصلية",
+    "name_en": "AL FAISALIYYAH",
+    "latitude": 21.3048,
+    "longitude": 40.4243,
+    "code": 338,
+    "city_code": 55
+  },
+  {
+    "name_ar": "العقيق",
+    "name_en": "AL AQIQ",
+    "latitude": 21.2873,
+    "longitude": 40.4088,
+    "code": 339,
+    "city_code": 55
+  },
+  {
+    "name_ar": "الخالدية",
+    "name_en": "AL KHALIDIYYAH",
+    "latitude": 21.288,
+    "longitude": 40.3849,
+    "code": 340,
+    "city_code": 55
+  },
+  {
+    "name_ar": "المنطقة المركزية",
+    "name_en": "AL MANTIQAH AL MARKAZIYYAH",
+    "latitude": 21.2735,
+    "longitude": 40.4075,
+    "code": 341,
+    "city_code": 55
+  },
+  {
+    "name_ar": "شبرا",
+    "name_en": "SHUBRA",
+    "latitude": 21.2823,
+    "longitude": 40.4154,
+    "code": 342,
+    "city_code": 55
+  },
+  {
+    "name_ar": "الشهداء الجنوبية",
+    "name_en": "ASH SHUHADA AL JANUBIYYAH",
+    "latitude": 21.2592,
+    "longitude": 40.4234,
+    "code": 343,
+    "city_code": 55
+  },
+  {
+    "name_ar": "قروى",
+    "name_en": "QURWA",
+    "latitude": 21.275,
+    "longitude": 40.3809,
+    "code": 344,
+    "city_code": 55
+  },
+  {
+    "name_ar": "نخب",
+    "name_en": "NAKHB",
+    "latitude": 21.2658,
+    "longitude": 40.4417,
+    "code": 345,
+    "city_code": 55
+  },
+  {
+    "name_ar": "الشهداء الشمالية",
+    "name_en": "ASH SHUHADA ASH SHAMALIYYAH",
+    "latitude": 21.2693,
+    "longitude": 40.4242,
+    "code": 346,
+    "city_code": 55
+  },
+  {
+    "name_ar": "جبرة",
+    "name_en": "JABRAH",
+    "latitude": 21.3,
+    "longitude": 40.4311,
+    "code": 347,
+    "city_code": 55
+  },
+  {
+    "name_ar": "الشرقية",
+    "name_en": "ASH SHARQIYYAH",
+    "latitude": 21.2746,
+    "longitude": 40.417,
+    "code": 348,
+    "city_code": 55
+  },
+  {
+    "name_ar": "النزهة",
+    "name_en": "AN NUZHAH",
+    "latitude": 21.2526,
+    "longitude": 40.4197,
+    "code": 349,
+    "city_code": 55
+  },
+  {
+    "name_ar": "ام العراد",
+    "name_en": "UMM AL ARAD",
+    "latitude": 21.2415,
+    "longitude": 40.4081,
+    "code": 350,
+    "city_code": 55
+  },
+  {
+    "name_ar": "عودة",
+    "name_en": "AWDAH",
+    "latitude": 21.2379,
+    "longitude": 40.3939,
+    "code": 351,
+    "city_code": 55
+  },
+  {
+    "name_ar": "مسره",
+    "name_en": "MASARRAH",
+    "latitude": 21.2992,
+    "longitude": 40.4063,
+    "code": 352,
+    "city_code": 55
+  },
+  {
+    "name_ar": "السلامة",
+    "name_en": "AS SALAMAH",
+    "latitude": 21.2674,
+    "longitude": 40.4027,
+    "code": 353,
+    "city_code": 55
+  },
+  {
+    "name_ar": "القمرية",
+    "name_en": "AL QUMARIYYAH",
+    "latitude": 21.2803,
+    "longitude": 40.4287,
+    "code": 354,
+    "city_code": 55
+  },
+  {
+    "name_ar": "القطبية",
+    "name_en": "AL QUTBIYYAH",
+    "latitude": 21.2856,
+    "longitude": 40.4382,
+    "code": 355,
+    "city_code": 55
+  },
+  {
+    "name_ar": "الريان",
+    "name_en": "AR RAYYAN",
+    "latitude": 21.2845,
+    "longitude": 40.4226,
+    "code": 356,
+    "city_code": 55
+  },
+  {
+    "name_ar": "المثناه",
+    "name_en": "AL MATHNAH",
+    "latitude": 21.2592,
+    "longitude": 40.3824,
+    "code": 357,
+    "city_code": 55
+  },
+  {
+    "name_ar": "معشي",
+    "name_en": "MAASHI",
+    "latitude": 21.285,
+    "longitude": 40.401,
+    "code": 358,
+    "city_code": 55
+  },
+  {
+    "name_ar": "الدوحة الشمالية",
+    "name_en": "AD DAWHAH ASH SHAMALIYYAH",
+    "latitude": 26.3361,
+    "longitude": 50.1672,
+    "code": 359,
+    "city_code": 33
+  },
+  {
+    "name_ar": "الدوحة الجنوبية",
+    "name_en": "AD DAWHAH AL JANUBIYYAH",
+    "latitude": 26.3233,
+    "longitude": 50.166,
+    "code": 360,
+    "city_code": 33
+  },
+  {
+    "name_ar": "الشلال",
+    "name_en": "ASH SHALLAL",
+    "latitude": 26.3273,
+    "longitude": 50.15,
+    "code": 361,
+    "city_code": 33
+  },
+  {
+    "name_ar": "تهامة",
+    "name_en": "TIHAMAH",
+    "latitude": 26.3437,
+    "longitude": 50.131,
+    "code": 362,
+    "city_code": 33
+  },
+  {
+    "name_ar": "السحاب",
+    "name_en": "AS SAHAB",
+    "latitude": 26.3489,
+    "longitude": 50.1507,
+    "code": 363,
+    "city_code": 33
+  },
+  {
+    "name_ar": "الدانة الشمالية",
+    "name_en": "AD DANAH ASH SHAMALIYYAH",
+    "latitude": 26.3365,
+    "longitude": 50.1436,
+    "code": 364,
+    "city_code": 33
+  },
+  {
+    "name_ar": "الرحاب",
+    "name_en": "AR RIHAB",
+    "latitude": 26.5615,
+    "longitude": 49.9993,
+    "code": 365,
+    "city_code": 35
+  },
+  {
+    "name_ar": "العوامية",
+    "name_en": "AL AWAMIYYAH",
+    "latitude": 26.5877,
+    "longitude": 49.9826,
+    "code": 366,
+    "city_code": 35
+  },
+  {
+    "name_ar": "الناصرة",
+    "name_en": "AN NASIRA",
+    "latitude": 26.5753,
+    "longitude": 50.0104,
+    "code": 367,
+    "city_code": 35
+  },
+  {
+    "name_ar": "الوسادة",
+    "name_en": "AL WASADAH",
+    "latitude": 26.5634,
+    "longitude": 50.002,
+    "code": 368,
+    "city_code": 35
+  },
+  {
+    "name_ar": "البحارة",
+    "name_en": "AL BAHHARAH",
+    "latitude": 26.5676,
+    "longitude": 49.9961,
+    "code": 369,
+    "city_code": 35
+  },
+  {
+    "name_ar": "الحسين",
+    "name_en": "AL HUSAYN",
+    "latitude": 26.5755,
+    "longitude": 49.9982,
+    "code": 370,
+    "city_code": 35
+  },
+  {
+    "name_ar": "الجمعية",
+    "name_en": "AL JAMIYYAH",
+    "latitude": 26.5848,
+    "longitude": 49.9769,
+    "code": 371,
+    "city_code": 35
+  },
+  {
+    "name_ar": "الريف",
+    "name_en": "AR RIF",
+    "latitude": 26.5959,
+    "longitude": 49.9791,
+    "code": 372,
+    "city_code": 35
+  },
+  {
+    "name_ar": "الكوثر",
+    "name_en": "AL KAWTHAR",
+    "latitude": 26.5571,
+    "longitude": 50.0059,
+    "code": 373,
+    "city_code": 35
+  },
+  {
+    "name_ar": "النرجس",
+    "name_en": "AN NARJIS",
+    "latitude": 26.5879,
+    "longitude": 49.991,
+    "code": 374,
+    "city_code": 35
+  },
+  {
+    "name_ar": "حلة محيش",
+    "name_en": "HALAT MAHISH",
+    "latitude": 26.534,
+    "longitude": 49.9977,
+    "code": 375,
+    "city_code": 35
+  },
+  {
+    "name_ar": "منطقة المستودعات",
+    "name_en": "WAREHOUSE AREA",
+    "latitude": 26.5412,
+    "longitude": 50.0188,
+    "code": 376,
+    "city_code": 35
+  },
+  {
+    "name_ar": "المجيدية",
+    "name_en": "AL MAJIDIYYAH",
+    "latitude": 26.5433,
+    "longitude": 50.0248,
+    "code": 377,
+    "city_code": 35
+  },
+  {
+    "name_ar": "الجارودية",
+    "name_en": "AL JARUDIYYAH",
+    "latitude": 26.5365,
+    "longitude": 49.9871,
+    "code": 378,
+    "city_code": 35
+  },
+  {
+    "name_ar": "الخويلدية",
+    "name_en": "AL KHUWAYLDIYYAH",
+    "latitude": 26.5501,
+    "longitude": 49.9901,
+    "code": 379,
+    "city_code": 35
+  },
+  {
+    "name_ar": "اليمامة",
+    "name_en": "AL YAMAMAH",
+    "latitude": 26.5974,
+    "longitude": 49.9858,
+    "code": 380,
+    "city_code": 35
+  },
+  {
+    "name_ar": "الخامسة",
+    "name_en": "AL KHAMISAH",
+    "latitude": 26.5568,
+    "longitude": 50.0177,
+    "code": 381,
+    "city_code": 35
+  },
+  {
+    "name_ar": "القلعة",
+    "name_en": "AL QALAH",
+    "latitude": 26.5642,
+    "longitude": 50.0072,
+    "code": 382,
+    "city_code": 35
+  },
+  {
+    "name_ar": "القديح",
+    "name_en": "AL QADIH",
+    "latitude": 26.57,
+    "longitude": 49.9894,
+    "code": 383,
+    "city_code": 35
+  },
+  {
+    "name_ar": "الخزامى",
+    "name_en": "AL KHUZAMA",
+    "latitude": 26.5654,
+    "longitude": 50.0173,
+    "code": 384,
+    "city_code": 35
+  },
+  {
+    "name_ar": "الشريعة",
+    "name_en": "ASH SHARIAH",
+    "latitude": 26.5511,
+    "longitude": 50.0079,
+    "code": 385,
+    "city_code": 35
+  },
+  {
+    "name_ar": "الدبابية",
+    "name_en": "AD DABABIYYAH",
+    "latitude": 26.5497,
+    "longitude": 50.003,
+    "code": 386,
+    "city_code": 35
+  },
+  {
+    "name_ar": "الجزيرة",
+    "name_en": "AL JAZIRAH",
+    "latitude": 26.5569,
+    "longitude": 50.0121,
+    "code": 387,
+    "city_code": 35
+  },
+  {
+    "name_ar": "التوبى",
+    "name_en": "AT TAWBA",
+    "latitude": 26.5567,
+    "longitude": 49.9951,
+    "code": 388,
+    "city_code": 35
+  },
+  {
+    "name_ar": "بو سحبل",
+    "name_en": "BU SAHBAL",
+    "latitude": 25.4619,
+    "longitude": 49.6176,
+    "code": 389,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الشعبة",
+    "name_en": "ASH SHUBAH",
+    "latitude": 25.4126,
+    "longitude": 49.596,
+    "code": 390,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "المعلمين الشرقية",
+    "name_en": "AL MUALLIMIN ASH SHARQIYYAH",
+    "latitude": 25.3663,
+    "longitude": 49.5771,
+    "code": 391,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "اسكان الحرس الوطني",
+    "name_en": "ISKAN AL HARAS AL WATANI",
+    "latitude": 25.448,
+    "longitude": 49.52,
+    "code": 392,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "اليحيى",
+    "name_en": "AL YAHYA",
+    "latitude": 25.4312,
+    "longitude": 49.5777,
+    "code": 393,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "جنوب الهفوف",
+    "name_en": "JANUB AL HAFUF",
+    "latitude": 25.3109,
+    "longitude": 49.5585,
+    "code": 394,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "السياسب",
+    "name_en": "AL SAYASIB",
+    "latitude": 25.4111,
+    "longitude": 49.5856,
+    "code": 395,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "وسط المدينة",
+    "name_en": "Town Center",
+    "latitude": 25.3998,
+    "longitude": 49.579,
+    "code": 396,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الكوت النعاثل",
+    "name_en": "AL KAWT AN NAATHIL",
+    "latitude": 25.3762,
+    "longitude": 49.5813,
+    "code": 397,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الشعبى",
+    "name_en": "ASH SHUBA",
+    "latitude": 25.4739,
+    "longitude": 49.6173,
+    "code": 398,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الشهابية",
+    "name_en": "ASH SHIHABIYYAH",
+    "latitude": 25.3614,
+    "longitude": 49.6145,
+    "code": 399,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "السلمانية الجنوبية",
+    "name_en": "AS SALMANIYYAH AL JANUBIYYAH",
+    "latitude": 25.3505,
+    "longitude": 49.5504,
+    "code": 400,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الرقيقة",
+    "name_en": "AR RUQAYQAH",
+    "latitude": 25.356,
+    "longitude": 49.5736,
+    "code": 401,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "العويمرية",
+    "name_en": "AL UWAIMIRIYYAH",
+    "latitude": 25.3543,
+    "longitude": 49.5854,
+    "code": 402,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "المحمدية",
+    "name_en": "AL MUHAMMADIYYAH",
+    "latitude": 25.376,
+    "longitude": 49.5599,
+    "code": 403,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الراشدية",
+    "name_en": "AR RASHIDIYAH",
+    "latitude": 25.4464,
+    "longitude": 49.5887,
+    "code": 404,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "عبد اللطيف العيسى",
+    "name_en": "ABDUL LATIF AL ISA",
+    "latitude": 25.3498,
+    "longitude": 49.6251,
+    "code": 405,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الملك فهد",
+    "name_en": "KING FAHD DISTRICT",
+    "latitude": 25.3573,
+    "longitude": 49.6332,
+    "code": 406,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "مطار",
+    "name_en": "AIRPORT",
+    "latitude": 25.2848,
+    "longitude": 49.4893,
+    "code": 407,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "محاسن ارامكو",
+    "name_en": "MAHASIN ARAMCO",
+    "latitude": 25.4148,
+    "longitude": 49.5357,
+    "code": 408,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الرفعة الشمالية",
+    "name_en": "AR RAFAH ASH SHAMALIYYAH",
+    "latitude": 25.3775,
+    "longitude": 49.5913,
+    "code": 409,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "مناطق زراعية",
+    "name_en": "AGRICUTURAL LAND",
+    "latitude": 25.3861,
+    "longitude": 49.6754,
+    "code": 410,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "جامعة الملك فيصل",
+    "name_en": "KING FAISAL UNIVERSITY",
+    "latitude": 25.3336,
+    "longitude": 49.6012,
+    "code": 411,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "النسيم",
+    "name_en": "AN NASIM",
+    "latitude": 25.33,
+    "longitude": 49.6101,
+    "code": 412,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "المزروعية",
+    "name_en": "AL MAZRUIYYAH",
+    "latitude": 25.3698,
+    "longitude": 49.5776,
+    "code": 413,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "جواثا",
+    "name_en": "JWATHA",
+    "latitude": 25.4423,
+    "longitude": 49.6603,
+    "code": 414,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الخرس",
+    "name_en": "AL KHARS",
+    "latitude": 25.4421,
+    "longitude": 49.5757,
+    "code": 415,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الشروفية",
+    "name_en": "ASH SHURUFIYYAH",
+    "latitude": 25.4239,
+    "longitude": 49.5786,
+    "code": 416,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الحزم",
+    "name_en": "AL HAZM",
+    "latitude": 25.4195,
+    "longitude": 49.58,
+    "code": 417,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "مدينة المبرز",
+    "name_en": "MADINAT AL MUBARRAZ",
+    "latitude": 25.4196,
+    "longitude": 49.5923,
+    "code": 418,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "محمد العيسى",
+    "name_en": "MUHAMMAD AL ISA",
+    "latitude": 25.355,
+    "longitude": 49.6177,
+    "code": 419,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "البصيرة",
+    "name_en": "AL BASIRAH",
+    "latitude": 25.369,
+    "longitude": 49.61,
+    "code": 420,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "القديمات",
+    "name_en": "AL QUDAYMAT",
+    "latitude": 25.4152,
+    "longitude": 49.5908,
+    "code": 421,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الخالدية",
+    "name_en": "AL KHALIDIYYAH",
+    "latitude": 25.3365,
+    "longitude": 49.5878,
+    "code": 422,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "البندرية",
+    "name_en": "AL BANDARIYYAH",
+    "latitude": 25.3408,
+    "longitude": 49.5718,
+    "code": 423,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الصالحية",
+    "name_en": "AS SALIHIYYAH",
+    "latitude": 25.3731,
+    "longitude": 49.5979,
+    "code": 424,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "العزيزية",
+    "name_en": "AL AZIZIYYAH",
+    "latitude": 25.329,
+    "longitude": 49.5707,
+    "code": 425,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الجامعيين",
+    "name_en": "AL JAMIIYYIN",
+    "latitude": 25.3164,
+    "longitude": 49.5915,
+    "code": 426,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الاسكان العام",
+    "name_en": "AL ISKAN AL AM",
+    "latitude": 25.3268,
+    "longitude": 49.5933,
+    "code": 427,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "جنوب منسوبي التعليم",
+    "name_en": "JANUB MANSUBI AT TALIM",
+    "latitude": 25.302,
+    "longitude": 49.5998,
+    "code": 428,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "المثلث",
+    "name_en": "AL MUTHALLATH",
+    "latitude": 25.3503,
+    "longitude": 49.6009,
+    "code": 429,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "العتبان",
+    "name_en": "AL UTBAN",
+    "latitude": 25.4157,
+    "longitude": 49.5832,
+    "code": 430,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "مدينة العيون",
+    "name_en": "AL MADINAT AL UYUN",
+    "latitude": 25.6132,
+    "longitude": 49.5548,
+    "code": 431,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "النايفية",
+    "name_en": "AN NAYFIYYAH",
+    "latitude": 25.3309,
+    "longitude": 49.5509,
+    "code": 432,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الزهرة",
+    "name_en": "AZ ZAHRAH",
+    "latitude": 25.3255,
+    "longitude": 49.584,
+    "code": 433,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الفاضلية",
+    "name_en": "AL FADILIYYAH",
+    "latitude": 25.3882,
+    "longitude": 49.5935,
+    "code": 434,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الواحة",
+    "name_en": "AL WAHAH",
+    "latitude": 25.329,
+    "longitude": 49.6237,
+    "code": 435,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الطرف",
+    "name_en": "AT TARF",
+    "latitude": 25.3542,
+    "longitude": 49.722,
+    "code": 436,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "مخطط علي الخرس واحمد الشهاب",
+    "name_en": "ALI AL KHARS & AHMAD ASH SHIHAB PLAN",
+    "latitude": 25.4497,
+    "longitude": 49.5567,
+    "code": 437,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الاندلس",
+    "name_en": "AL ANDALUS",
+    "latitude": 25.4012,
+    "longitude": 49.6035,
+    "code": 438,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "المنيزلة",
+    "name_en": "AL MINAYZILAH",
+    "latitude": 25.3794,
+    "longitude": 49.6696,
+    "code": 439,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "المزروع",
+    "name_en": "AL MAZRU",
+    "latitude": 25.3412,
+    "longitude": 49.6114,
+    "code": 440,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "القادسية",
+    "name_en": "AL QADISIYYAH",
+    "latitude": 25.4125,
+    "longitude": 49.5681,
+    "code": 441,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الرفعة الجنوبية",
+    "name_en": "AR RAFAH AL JANUBIYYAH",
+    "latitude": 25.3719,
+    "longitude": 49.5895,
+    "code": 442,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الروضة",
+    "name_en": "AR RAWDAH",
+    "latitude": 25.3578,
+    "longitude": 49.6048,
+    "code": 443,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "مخطط الراجحي",
+    "name_en": "AL RAJIHI PLAN",
+    "latitude": 25.4333,
+    "longitude": 49.5512,
+    "code": 444,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "محاسن البلدية",
+    "name_en": "MAHASIN AL BALADIYYAH",
+    "latitude": 25.4119,
+    "longitude": 49.5535,
+    "code": 445,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "مدينة الجفر",
+    "name_en": "MADINAT AL JAFR",
+    "latitude": 25.38,
+    "longitude": 49.7219,
+    "code": 446,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "المطيرفي",
+    "name_en": "AL MUTAYRIFI",
+    "latitude": 25.4795,
+    "longitude": 49.5563,
+    "code": 447,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "السلمانية الشمالية",
+    "name_en": "AS SALMANIYYAH ASH SHAMALIYYAH",
+    "latitude": 25.3648,
+    "longitude": 49.5476,
+    "code": 448,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "المعلمين الغربية",
+    "name_en": "AL MUALLIMIN AL GHARBIYYAH",
+    "latitude": 25.3686,
+    "longitude": 49.5634,
+    "code": 449,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "مدينة العمران",
+    "name_en": "MADINAT AL UMRAN",
+    "latitude": 25.4145,
+    "longitude": 49.7162,
+    "code": 450,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الجشة",
+    "name_en": "AL JISHSHAH",
+    "latitude": 25.3874,
+    "longitude": 49.752,
+    "code": 451,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "النزهة",
+    "name_en": "AN NUZHAH",
+    "latitude": 25.4546,
+    "longitude": 49.6013,
+    "code": 452,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الصيهد",
+    "name_en": "AS SAYHAD  ",
+    "latitude": 25.3674,
+    "longitude": 49.5578,
+    "code": 453,
+    "city_code": 1666
+  },
+  {
+    "name_ar": "الاندلس",
+    "name_en": "AL ANDALUS",
+    "latitude": 25.9209,
+    "longitude": 45.3721,
+    "code": 454,
+    "city_code": 1689
+  },
+  {
+    "name_ar": "الملك عبد الله",
+    "name_en": "KING ABDULLAH DIST",
+    "latitude": 25.9112,
+    "longitude": 45.3906,
+    "code": 455,
+    "city_code": 1689
+  },
+  {
+    "name_ar": "الرفيعة",
+    "name_en": "AR RAFIAH",
+    "latitude": 25.9243,
+    "longitude": 45.3285,
+    "code": 456,
+    "city_code": 1689
+  },
+  {
+    "name_ar": "البصرة",
+    "name_en": "AL BASARAH",
+    "latitude": 25.9464,
+    "longitude": 45.3608,
+    "code": 457,
+    "city_code": 1689
+  },
+  {
+    "name_ar": "حى الامير سلمان",
+    "name_en": "AMIR SALMAN DIST",
+    "latitude": 25.8914,
+    "longitude": 45.3623,
+    "code": 458,
+    "city_code": 1689
+  },
+  {
+    "name_ar": "الفيحاء",
+    "name_en": "AL FAIHA",
+    "latitude": 25.9053,
+    "longitude": 45.3526,
+    "code": 459,
+    "city_code": 1689
+  },
+  {
+    "name_ar": "الملك عبد العزيز",
+    "name_en": "KING ABDUL AZIZ DIST",
+    "latitude": 25.9056,
+    "longitude": 45.3625,
+    "code": 460,
+    "city_code": 1689
+  },
+  {
+    "name_ar": "المطار",
+    "name_en": "AIRPORT DIST",
+    "latitude": 25.9162,
+    "longitude": 45.3811,
+    "code": 461,
+    "city_code": 1689
+  },
+  {
+    "name_ar": "الملك فهد",
+    "name_en": "KING FAHD DIST",
+    "latitude": 25.8982,
+    "longitude": 45.346,
+    "code": 462,
+    "city_code": 1689
+  },
+  {
+    "name_ar": "الجامعيين",
+    "name_en": "AL JAMIIYYIN",
+    "latitude": 25.9048,
+    "longitude": 45.3737,
+    "code": 463,
+    "city_code": 1689
+  },
+  {
+    "name_ar": "اليرموك",
+    "name_en": "AL YARMUK",
+    "latitude": 25.9174,
+    "longitude": 45.3586,
+    "code": 464,
+    "city_code": 1689
+  },
+  {
+    "name_ar": "المرقب",
+    "name_en": "AL MARQAB",
+    "latitude": 25.9067,
+    "longitude": 45.3363,
+    "code": 465,
+    "city_code": 1689
+  },
+  {
+    "name_ar": "الروضة",
+    "name_en": "AR RAWDAH",
+    "latitude": 25.9494,
+    "longitude": 45.3505,
+    "code": 466,
+    "city_code": 1689
+  },
+  {
+    "name_ar": "المروج",
+    "name_en": " ",
+    "latitude": 25.8992,
+    "longitude": 45.3678,
+    "code": 467,
+    "city_code": 1689
+  },
+  {
+    "name_ar": "بني حارثة",
+    "name_en": "BANI HARITHAH",
+    "latitude": 24.4919,
+    "longitude": 39.6268,
+    "code": 468,
+    "city_code": 26
+  },
+  {
+    "name_ar": "العهن",
+    "name_en": "AL IHN",
+    "latitude": 24.4325,
+    "longitude": 39.6374,
+    "code": 469,
+    "city_code": 26
+  },
+  {
+    "name_ar": "السكة الحديد",
+    "name_en": "AS SIKKAH AL HADID",
+    "latitude": 24.4534,
+    "longitude": 39.484,
+    "code": 470,
+    "city_code": 26
+  },
+  {
+    "name_ar": "بني خدرة",
+    "name_en": "BANI KHIDRAH",
+    "latitude": 24.4642,
+    "longitude": 39.6118,
+    "code": 471,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الحديقة",
+    "name_en": "AL HADIQAH",
+    "latitude": 24.417,
+    "longitude": 39.6091,
+    "code": 472,
+    "city_code": 26
+  },
+  {
+    "name_ar": "شوران",
+    "name_en": "SHURAN",
+    "latitude": 24.3946,
+    "longitude": 39.6229,
+    "code": 473,
+    "city_code": 26
+  },
+  {
+    "name_ar": "السكب",
+    "name_en": "AS SAKB",
+    "latitude": 24.3566,
+    "longitude": 39.5771,
+    "code": 474,
+    "city_code": 26
+  },
+  {
+    "name_ar": "جبل احد",
+    "name_en": "JABAL UHD",
+    "latitude": 24.5221,
+    "longitude": 39.6197,
+    "code": 475,
+    "city_code": 26
+  },
+  {
+    "name_ar": "القلعة",
+    "name_en": "AL QALAH",
+    "latitude": 24.5107,
+    "longitude": 39.6532,
+    "code": 476,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الدويخلة",
+    "name_en": "AD DUWAIKHILAH",
+    "latitude": 24.5044,
+    "longitude": 39.6741,
+    "code": 477,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الشافية",
+    "name_en": "ASH SHAFIYAH",
+    "latitude": 24.5384,
+    "longitude": 39.6451,
+    "code": 478,
+    "city_code": 26
+  },
+  {
+    "name_ar": "ورقان",
+    "name_en": "WARQAN",
+    "latitude": 24.382,
+    "longitude": 39.519,
+    "code": 479,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الحرم",
+    "name_en": "AL HARAM",
+    "latitude": 24.4684,
+    "longitude": 39.6127,
+    "code": 480,
+    "city_code": 26
+  },
+  {
+    "name_ar": "بني عبد الاشهل",
+    "name_en": "BANI ABDUL ASHHAL",
+    "latitude": 24.4806,
+    "longitude": 39.62,
+    "code": 481,
+    "city_code": 26
+  },
+  {
+    "name_ar": "ام خالد",
+    "name_en": "UMM KHALID",
+    "latitude": 24.4312,
+    "longitude": 39.5412,
+    "code": 482,
+    "city_code": 26
+  },
+  {
+    "name_ar": "مسجد الدرع",
+    "name_en": "MASJID AD DAR",
+    "latitude": 24.4912,
+    "longitude": 39.6094,
+    "code": 483,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الفتح",
+    "name_en": "AL FATH",
+    "latitude": 24.4787,
+    "longitude": 39.5949,
+    "code": 484,
+    "city_code": 26
+  },
+  {
+    "name_ar": "العنابس",
+    "name_en": "AL ANABIS",
+    "latitude": 24.4727,
+    "longitude": 39.5865,
+    "code": 485,
+    "city_code": 26
+  },
+  {
+    "name_ar": "العريض",
+    "name_en": "AL ARIDH",
+    "latitude": 24.4793,
+    "longitude": 39.643,
+    "code": 486,
+    "city_code": 26
+  },
+  {
+    "name_ar": "المطار",
+    "name_en": "AL MATAR",
+    "latitude": 24.5608,
+    "longitude": 39.6804,
+    "code": 487,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الهدراء",
+    "name_en": "AL HADRA",
+    "latitude": 24.441,
+    "longitude": 39.6987,
+    "code": 488,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الاسكان",
+    "name_en": "AL ISKAN",
+    "latitude": 24.4581,
+    "longitude": 39.6472,
+    "code": 489,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الظاهرة",
+    "name_en": "ADH DHAHIRAH",
+    "latitude": 24.4461,
+    "longitude": 39.5995,
+    "code": 490,
+    "city_code": 26
+  },
+  {
+    "name_ar": "حثم",
+    "name_en": "HATHM",
+    "latitude": 24.4638,
+    "longitude": 39.681,
+    "code": 491,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الشهباء",
+    "name_en": "ASH SHAHBA",
+    "latitude": 24.389,
+    "longitude": 39.5508,
+    "code": 492,
+    "city_code": 26
+  },
+  {
+    "name_ar": "كتانة",
+    "name_en": "KITTANAH",
+    "latitude": 24.5553,
+    "longitude": 39.5545,
+    "code": 493,
+    "city_code": 26
+  },
+  {
+    "name_ar": "السلام",
+    "name_en": "AS SALAM",
+    "latitude": 24.4746,
+    "longitude": 39.5242,
+    "code": 494,
+    "city_code": 26
+  },
+  {
+    "name_ar": "بئر عثمان",
+    "name_en": "BIR UTHMAN",
+    "latitude": 24.4942,
+    "longitude": 39.582,
+    "code": 495,
+    "city_code": 26
+  },
+  {
+    "name_ar": "العيون",
+    "name_en": "AL UYUN",
+    "latitude": 24.5182,
+    "longitude": 39.5898,
+    "code": 496,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الملك فهد",
+    "name_en": "KING FAHD DT.",
+    "latitude": 24.5036,
+    "longitude": 39.6952,
+    "code": 497,
+    "city_code": 26
+  },
+  {
+    "name_ar": "النقاء",
+    "name_en": "AN NAQA",
+    "latitude": 24.465,
+    "longitude": 39.6039,
+    "code": 498,
+    "city_code": 26
+  },
+  {
+    "name_ar": "النقس",
+    "name_en": "AN NAQS",
+    "latitude": 24.5586,
+    "longitude": 39.6408,
+    "code": 499,
+    "city_code": 26
+  },
+  {
+    "name_ar": "خاخ",
+    "name_en": "KHAKH",
+    "latitude": 24.3631,
+    "longitude": 39.5433,
+    "code": 500,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الدويمة",
+    "name_en": "AD DUWAIMAH",
+    "latitude": 24.4452,
+    "longitude": 39.6097,
+    "code": 501,
+    "city_code": 26
+  },
+  {
+    "name_ar": "مهزور",
+    "name_en": "MAHZUR",
+    "latitude": 24.4406,
+    "longitude": 39.6527,
+    "code": 502,
+    "city_code": 26
+  },
+  {
+    "name_ar": "مذينب",
+    "name_en": "MUDHAINIB",
+    "latitude": 24.4368,
+    "longitude": 39.6722,
+    "code": 503,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الوبرة",
+    "name_en": "AL WABRA",
+    "latitude": 24.4588,
+    "longitude": 39.582,
+    "code": 504,
+    "city_code": 26
+  },
+  {
+    "name_ar": "السد",
+    "name_en": "AS SAD",
+    "latitude": 24.4066,
+    "longitude": 39.6392,
+    "code": 505,
+    "city_code": 26
+  },
+  {
+    "name_ar": "طيبة",
+    "name_en": "TAYBA",
+    "latitude": 24.4946,
+    "longitude": 39.5371,
+    "code": 506,
+    "city_code": 26
+  },
+  {
+    "name_ar": "النخيل",
+    "name_en": "AN NAKHIL",
+    "latitude": 24.5251,
+    "longitude": 39.5519,
+    "code": 507,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الدفاع",
+    "name_en": "AD DIFA",
+    "latitude": 24.4455,
+    "longitude": 39.5211,
+    "code": 508,
+    "city_code": 26
+  },
+  {
+    "name_ar": "القصواء",
+    "name_en": "AL QASWA",
+    "latitude": 24.4293,
+    "longitude": 39.5894,
+    "code": 509,
+    "city_code": 26
+  },
+  {
+    "name_ar": "العصبة",
+    "name_en": "AL USBAH",
+    "latitude": 24.4308,
+    "longitude": 39.6117,
+    "code": 510,
+    "city_code": 26
+  },
+  {
+    "name_ar": "العزيزية",
+    "name_en": "AL AZIZIYYAH",
+    "latitude": 24.4196,
+    "longitude": 39.5014,
+    "code": 511,
+    "city_code": 26
+  },
+  {
+    "name_ar": "عروة",
+    "name_en": "URWAH",
+    "latitude": 24.443,
+    "longitude": 39.587,
+    "code": 512,
+    "city_code": 26
+  },
+  {
+    "name_ar": "بني معاوية",
+    "name_en": "BANI MUAWIYAH",
+    "latitude": 24.4737,
+    "longitude": 39.6254,
+    "code": 513,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الرمانة",
+    "name_en": "AR RUMMANAH",
+    "latitude": 24.3951,
+    "longitude": 39.6823,
+    "code": 514,
+    "city_code": 26
+  },
+  {
+    "name_ar": "المنطقة الصناعية",
+    "name_en": "INDUSTRIAL AREA",
+    "latitude": 24.3787,
+    "longitude": 39.4875,
+    "code": 515,
+    "city_code": 26
+  },
+  {
+    "name_ar": "بني ظفر",
+    "name_en": "BANI DHAFAR",
+    "latitude": 24.4609,
+    "longitude": 39.6298,
+    "code": 516,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الشريبات",
+    "name_en": "ASH SHURAYBAT",
+    "latitude": 24.4482,
+    "longitude": 39.6379,
+    "code": 517,
+    "city_code": 26
+  },
+  {
+    "name_ar": "قربان",
+    "name_en": "QURBAN",
+    "latitude": 24.454,
+    "longitude": 39.6214,
+    "code": 518,
+    "city_code": 26
+  },
+  {
+    "name_ar": "ابو كبير",
+    "name_en": "ABU KABIR",
+    "latitude": 24.392,
+    "longitude": 39.5347,
+    "code": 519,
+    "city_code": 26
+  },
+  {
+    "name_ar": "ابو بريقاء",
+    "name_en": "ABU BURAYQA",
+    "latitude": 24.4172,
+    "longitude": 39.5649,
+    "code": 520,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الجابرة",
+    "name_en": "AL JABIRAH",
+    "latitude": 24.4089,
+    "longitude": 39.5844,
+    "code": 521,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الخاتم",
+    "name_en": "AL KHATIM",
+    "latitude": 24.4304,
+    "longitude": 39.6248,
+    "code": 522,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الجمعة",
+    "name_en": "AL JUMUAH",
+    "latitude": 24.4502,
+    "longitude": 39.6158,
+    "code": 523,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الغراء",
+    "name_en": "AL GHARRA",
+    "latitude": 24.4058,
+    "longitude": 39.6683,
+    "code": 524,
+    "city_code": 26
+  },
+  {
+    "name_ar": "ذو الحليفة",
+    "name_en": "DHU AL HULAYFAH",
+    "latitude": 24.4287,
+    "longitude": 39.5621,
+    "code": 525,
+    "city_code": 26
+  },
+  {
+    "name_ar": "المبعوث",
+    "name_en": "AL MABUTH",
+    "latitude": 24.4818,
+    "longitude": 39.6768,
+    "code": 526,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الجصة",
+    "name_en": "AL JASSAH",
+    "latitude": 24.3605,
+    "longitude": 39.6136,
+    "code": 527,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الروابي",
+    "name_en": "AR RAWABI",
+    "latitude": 24.4168,
+    "longitude": 39.6561,
+    "code": 528,
+    "city_code": 26
+  },
+  {
+    "name_ar": "شظاة",
+    "name_en": "SHIDHAT",
+    "latitude": 24.4933,
+    "longitude": 39.6554,
+    "code": 529,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الغابة",
+    "name_en": "AL GHABAH",
+    "latitude": 24.5614,
+    "longitude": 39.6068,
+    "code": 530,
+    "city_code": 26
+  },
+  {
+    "name_ar": "وعيرة",
+    "name_en": "WAIRAH",
+    "latitude": 24.552,
+    "longitude": 39.6677,
+    "code": 531,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الرانوناء",
+    "name_en": "AR RANUNA",
+    "latitude": 24.396,
+    "longitude": 39.6005,
+    "code": 532,
+    "city_code": 26
+  },
+  {
+    "name_ar": "عين الخيف",
+    "name_en": "AYN AL KHIF",
+    "latitude": 24.4314,
+    "longitude": 39.687,
+    "code": 533,
+    "city_code": 26
+  },
+  {
+    "name_ar": "بني بياضة",
+    "name_en": "BANI BAYADAH",
+    "latitude": 24.3811,
+    "longitude": 39.5915,
+    "code": 534,
+    "city_code": 26
+  },
+  {
+    "name_ar": "نبلاء",
+    "name_en": "NUBALA",
+    "latitude": 24.3815,
+    "longitude": 39.6628,
+    "code": 535,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الجامعة",
+    "name_en": "AL JAMIAH",
+    "latitude": 24.4813,
+    "longitude": 39.5614,
+    "code": 536,
+    "city_code": 26
+  },
+  {
+    "name_ar": "البلقاء",
+    "name_en": "AL BALQA",
+    "latitude": 24.5381,
+    "longitude": 39.4505,
+    "code": 537,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الحفيا",
+    "name_en": "AL HAFYA",
+    "latitude": 24.5363,
+    "longitude": 39.5239,
+    "code": 538,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الدار",
+    "name_en": "AD DAR",
+    "latitude": 24.5319,
+    "longitude": 39.636,
+    "code": 539,
+    "city_code": 26
+  },
+  {
+    "name_ar": "السقيا",
+    "name_en": "AS SUQYA",
+    "latitude": 24.4634,
+    "longitude": 39.5971,
+    "code": 540,
+    "city_code": 26
+  },
+  {
+    "name_ar": "البركة",
+    "name_en": "AL BARAKAH",
+    "latitude": 24.5139,
+    "longitude": 39.5729,
+    "code": 541,
+    "city_code": 26
+  },
+  {
+    "name_ar": "المناخة",
+    "name_en": "AL MANAKHAH",
+    "latitude": 24.4698,
+    "longitude": 39.6043,
+    "code": 542,
+    "city_code": 26
+  },
+  {
+    "name_ar": "السيح",
+    "name_en": "AS SIH",
+    "latitude": 24.4707,
+    "longitude": 39.5953,
+    "code": 543,
+    "city_code": 26
+  },
+  {
+    "name_ar": "رهط",
+    "name_en": "RAHAT",
+    "latitude": 24.3692,
+    "longitude": 39.6391,
+    "code": 544,
+    "city_code": 26
+  },
+  {
+    "name_ar": "المصانع",
+    "name_en": "AL MASANI",
+    "latitude": 24.4802,
+    "longitude": 39.6092,
+    "code": 545,
+    "city_code": 26
+  },
+  {
+    "name_ar": "بضاعة",
+    "name_en": "BADAAH",
+    "latitude": 24.4724,
+    "longitude": 39.6095,
+    "code": 546,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الزهرة",
+    "name_en": "AZ ZAHRAH",
+    "latitude": 24.5329,
+    "longitude": 39.5675,
+    "code": 547,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الصادقية",
+    "name_en": "AS SADIQIYYAH",
+    "latitude": 24.5589,
+    "longitude": 39.581,
+    "code": 548,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الجماوات",
+    "name_en": "AL JAMAWAT",
+    "latitude": 24.4664,
+    "longitude": 39.5623,
+    "code": 549,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الراية",
+    "name_en": "AR RAYAH",
+    "latitude": 24.4881,
+    "longitude": 39.5972,
+    "code": 550,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الخالدية",
+    "name_en": "AL KHALIDIYYAH",
+    "latitude": 24.4612,
+    "longitude": 39.6593,
+    "code": 551,
+    "city_code": 26
+  },
+  {
+    "name_ar": "الاصيفرين",
+    "name_en": "AL USAYFIRIN",
+    "latitude": 24.4611,
+    "longitude": 39.5896,
+    "code": 552,
+    "city_code": 26
+  },
+  {
+    "name_ar": "المغيسلة",
+    "name_en": "AL MUGHAISILAH",
+    "latitude": 24.4562,
+    "longitude": 39.6037,
+    "code": 553,
+    "city_code": 26
+  },
+  {
+    "name_ar": "القبلتين",
+    "name_en": "AL QIBLATAYN",
+    "latitude": 24.4782,
+    "longitude": 39.576,
+    "code": 554,
+    "city_code": 26
+  },
+  {
+    "name_ar": "بو سحبل",
+    "name_en": "BU SAHBAL",
+    "latitude": 25.4619,
+    "longitude": 49.6176,
+    "code": 555,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الشعبة",
+    "name_en": "ASH SHUBAH",
+    "latitude": 25.4126,
+    "longitude": 49.596,
+    "code": 556,
+    "city_code": 36
+  },
+  {
+    "name_ar": "المعلمين الشرقية",
+    "name_en": "AL MUALLIMIN ASH SHARQIYYAH",
+    "latitude": 25.3663,
+    "longitude": 49.5771,
+    "code": 557,
+    "city_code": 36
+  },
+  {
+    "name_ar": "اسكان الحرس الوطني",
+    "name_en": "ISKAN AL HARAS AL WATANI",
+    "latitude": 25.448,
+    "longitude": 49.52,
+    "code": 558,
+    "city_code": 36
+  },
+  {
+    "name_ar": "اليحيى",
+    "name_en": "AL YAHYA",
+    "latitude": 25.4312,
+    "longitude": 49.5777,
+    "code": 559,
+    "city_code": 36
+  },
+  {
+    "name_ar": "جنوب الهفوف",
+    "name_en": "JANUB AL HAFUF",
+    "latitude": 25.3109,
+    "longitude": 49.5585,
+    "code": 560,
+    "city_code": 36
+  },
+  {
+    "name_ar": "السياسب",
+    "name_en": "AL SAYASIB",
+    "latitude": 25.4111,
+    "longitude": 49.5856,
+    "code": 561,
+    "city_code": 36
+  },
+  {
+    "name_ar": "وسط المدينة",
+    "name_en": "Town Center",
+    "latitude": 25.3998,
+    "longitude": 49.579,
+    "code": 562,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الكوت النعاثل",
+    "name_en": "AL KAWT AN NAATHIL",
+    "latitude": 25.3762,
+    "longitude": 49.5813,
+    "code": 563,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الشعبى",
+    "name_en": "ASH SHUBA",
+    "latitude": 25.4739,
+    "longitude": 49.6173,
+    "code": 564,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الشهابية",
+    "name_en": "ASH SHIHABIYYAH",
+    "latitude": 25.3614,
+    "longitude": 49.6145,
+    "code": 565,
+    "city_code": 36
+  },
+  {
+    "name_ar": "السلمانية الجنوبية",
+    "name_en": "AS SALMANIYYAH AL JANUBIYYAH",
+    "latitude": 25.3505,
+    "longitude": 49.5504,
+    "code": 566,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الرقيقة",
+    "name_en": "AR RUQAYQAH",
+    "latitude": 25.356,
+    "longitude": 49.5736,
+    "code": 567,
+    "city_code": 36
+  },
+  {
+    "name_ar": "العويمرية",
+    "name_en": "AL UWAIMIRIYYAH",
+    "latitude": 25.3543,
+    "longitude": 49.5854,
+    "code": 568,
+    "city_code": 36
+  },
+  {
+    "name_ar": "المحمدية",
+    "name_en": "AL MUHAMMADIYYAH",
+    "latitude": 25.376,
+    "longitude": 49.5599,
+    "code": 569,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الراشدية",
+    "name_en": "AR RASHIDIYAH",
+    "latitude": 25.4464,
+    "longitude": 49.5887,
+    "code": 570,
+    "city_code": 36
+  },
+  {
+    "name_ar": "عبد اللطيف العيسى",
+    "name_en": "ABDUL LATIF AL ISA",
+    "latitude": 25.3498,
+    "longitude": 49.6251,
+    "code": 571,
+    "city_code": 36
+  },
+  {
+    "name_ar": "الملك فهد",
+    "name_en": "KING FAHD DISTRICT",
+    "latitude": 25.3573,
+    "longitude": 49.6332,
+    "code": 572,
+    "city_code": 36
+  },
+  {
+    "name_ar": "شمسان",
+    "name_en": "SHAMSAN",
+    "latitude": 18.2286,
+    "longitude": 42.5066,
+    "code": 1,
+    "city_code": 50
+  },
+  {
+    "name_ar": "النزهة",
+    "name_en": "AN NUZHAH",
+    "latitude": 18.2111,
+    "longitude": 42.5133,
+    "code": 2,
+    "city_code": 50
+  },
+  {
+    "name_ar": "الشفاء",
+    "name_en": "ASH SHIFA",
+    "latitude": 18.2056,
+    "longitude": 42.4977,
+    "code": 3,
+    "city_code": 50
+  },
+  {
+    "name_ar": "الشرفية",
+    "name_en": "AS SHARAFIYAH",
+    "latitude": 18.2478,
+    "longitude": 42.5182,
+    "code": 4,
+    "city_code": 50
+  },
+  {
+    "name_ar": "السروات",
+    "name_en": "AS SARAWAT",
+    "latitude": 18.199,
+    "longitude": 42.4882,
+    "code": 5,
+    "city_code": 50
+  },
+  {
+    "name_ar": "المروج",
+    "name_en": "AL MURUJ",
+    "latitude": 18.2194,
+    "longitude": 42.5547,
+    "code": 6,
+    "city_code": 50
+  },
+  {
+    "name_ar": "الوردتين",
+    "name_en": "AL WARDATAIN",
+    "latitude": 18.2285,
+    "longitude": 42.4949,
+    "code": 7,
+    "city_code": 50
+  },
+  {
+    "name_ar": "ابهاء الجديدة",
+    "name_en": "ABHA AL JADIDAH",
+    "latitude": 18.2136,
+    "longitude": 42.4774,
+    "code": 8,
+    "city_code": 50
+  },
+  {
+    "name_ar": "القابل",
+    "name_en": "AL QABIL",
+    "latitude": 18.2238,
+    "longitude": 42.4979,
+    "code": 9,
+    "city_code": 50
+  },
+  {
+    "name_ar": "الفيصلية",
+    "name_en": "AL FAISALIYAH",
+    "latitude": 18.2221,
+    "longitude": 42.493,
+    "code": 10,
+    "city_code": 50
+  },
+  {
+    "name_ar": "الخشع",
+    "name_en": "AL KHASHA",
+    "latitude": 18.2137,
+    "longitude": 42.5056,
+    "code": 11,
+    "city_code": 50
+  },
+  {
+    "name_ar": "المنهل",
+    "name_en": "AL MANHAL",
+    "latitude": 18.2237,
+    "longitude": 42.5153,
+    "code": 12,
+    "city_code": 50
+  },
+  {
+    "name_ar": "ذرة",
+    "name_en": "DHURAH",
+    "latitude": 18.2056,
+    "longitude": 42.5074,
+    "code": 13,
+    "city_code": 50
+  },
+  {
+    "name_ar": "السد",
+    "name_en": "AS SADD",
+    "latitude": 18.2168,
+    "longitude": 42.4917,
+    "code": 14,
+    "city_code": 50
+  },
+  {
+    "name_ar": "الاندلس",
+    "name_en": "AL ANDALUS",
+    "latitude": 18.2142,
+    "longitude": 42.5187,
+    "code": 15,
+    "city_code": 50
+  },
+  {
+    "name_ar": "العرين",
+    "name_en": "AL ARIN",
+    "latitude": 18.2359,
+    "longitude": 42.5408,
+    "code": 16,
+    "city_code": 50
+  },
+  {
+    "name_ar": "القرى",
+    "name_en": "AL QURA",
+    "latitude": 18.2429,
+    "longitude": 42.4887,
+    "code": 17,
+    "city_code": 50
+  },
+  {
+    "name_ar": "الخالدية",
+    "name_en": "AL KHALIDIYAH",
+    "latitude": 18.2273,
+    "longitude": 42.4776,
+    "code": 18,
+    "city_code": 50
+  },
+  {
+    "name_ar": "الضباب",
+    "name_en": "AD DABAB",
+    "latitude": 18.1975,
+    "longitude": 42.5088,
+    "code": 19,
+    "city_code": 50
+  },
+  {
+    "name_ar": "الربوة",
+    "name_en": "AL RABWAH",
+    "latitude": 18.2039,
+    "longitude": 42.5273,
+    "code": 20,
+    "city_code": 50
+  },
+  {
+    "name_ar": "الوصايف",
+    "name_en": "AL WASAYIF",
+    "latitude": 18.2338,
+    "longitude": 42.4847,
+    "code": 21,
+    "city_code": 50
+  },
+  {
+    "name_ar": "النسيم",
+    "name_en": "AN NASIM",
+    "latitude": 18.2011,
+    "longitude": 42.5429,
+    "code": 22,
+    "city_code": 50
+  },
+  {
+    "name_ar": "النصب",
+    "name_en": "AN NASAB",
+    "latitude": 18.2192,
+    "longitude": 42.5067,
+    "code": 23,
+    "city_code": 50
+  },
+  {
+    "name_ar": "وسط المدينة",
+    "name_en": "TOWN CENTER",
+    "latitude": 18.2173,
+    "longitude": 42.4997,
+    "code": 24,
+    "city_code": 50
+  },
+  {
+    "name_ar": "العزيزية",
+    "name_en": "AL AZIZIYAH",
+    "latitude": 18.2112,
+    "longitude": 42.5012,
+    "code": 25,
+    "city_code": 50
+  },
+  {
+    "name_ar": "المفتاحة",
+    "name_en": "AL MUFTAHAH",
+    "latitude": 18.2119,
+    "longitude": 42.4939,
+    "code": 26,
+    "city_code": 50
+  },
+  {
+    "name_ar": "النهضة",
+    "name_en": "AN NAHDAH",
+    "latitude": 18.1828,
+    "longitude": 42.8452,
+    "code": 27,
+    "city_code": 51
+  },
+  {
+    "name_ar": "الخالدية",
+    "name_en": "AL KHALDIYYAH",
+    "latitude": 18.1693,
+    "longitude": 42.8316,
+    "code": 28,
+    "city_code": 51
+  },
+  {
+    "name_ar": "الزيتون",
+    "name_en": "AZ ZAYTUN",
+    "latitude": 18.1814,
+    "longitude": 42.8551,
+    "code": 29,
+    "city_code": 51
+  },
+  {
+    "name_ar": "صفوان",
+    "name_en": "SAFWAN",
+    "latitude": 18.2094,
+    "longitude": 42.8186,
+    "code": 30,
+    "city_code": 51
+  },
+  {
+    "name_ar": "الصالحية",
+    "name_en": "AL SALHIYAH",
+    "latitude": 18.2137,
+    "longitude": 42.8394,
+    "code": 31,
+    "city_code": 51
+  },
+  {
+    "name_ar": "العزيزية",
+    "name_en": "AL AZIZIYYAH",
+    "latitude": 18.172,
+    "longitude": 42.8177,
+    "code": 32,
+    "city_code": 51
+  },
+  {
+    "name_ar": "الخليج",
+    "name_en": "AL KHALIJ",
+    "latitude": 18.1841,
+    "longitude": 42.8147,
+    "code": 33,
+    "city_code": 51
+  },
+  {
+    "name_ar": "الورود",
+    "name_en": "AL WURUD",
+    "latitude": 18.1656,
+    "longitude": 42.8496,
+    "code": 34,
+    "city_code": 51
+  },
+  {
+    "name_ar": "السلامة",
+    "name_en": "AS SALAMAH",
+    "latitude": 18.1935,
+    "longitude": 42.8286,
+    "code": 35,
+    "city_code": 51
+  },
+  {
+    "name_ar": "وسط البلد",
+    "name_en": "DOWN TOWN",
+    "latitude": 18.1749,
+    "longitude": 42.8371,
+    "code": 36,
+    "city_code": 51
+  },
+  {
+    "name_ar": "المصيف",
+    "name_en": "AL MASIF",
+    "latitude": 18.211,
+    "longitude": 42.8273,
+    "code": 37,
+    "city_code": 51
+  },
+  {
+    "name_ar": "الزهور",
+    "name_en": "AZ ZUHUR",
+    "latitude": 18.15,
+    "longitude": 42.8442,
+    "code": 38,
+    "city_code": 51
+  },
+  {
+    "name_ar": "رغدان",
+    "name_en": " RAGHADAN",
+    "latitude": 20.0335,
+    "longitude": 41.4475,
+    "code": 39,
+    "city_code": 1
+  },
+  {
+    "name_ar": "شهبة",
+    "name_en": "SHUHBAH",
+    "latitude": 20.0239,
+    "longitude": 41.4652,
+    "code": 40,
+    "city_code": 1
+  },
+  {
+    "name_ar": "الباهر",
+    "name_en": "AL BAHIR",
+    "latitude": 20.0147,
+    "longitude": 41.4611,
+    "code": 41,
+    "city_code": 1
+  },
+  {
+    "name_ar": "الراعب",
+    "name_en": "AL RAIB",
+    "latitude": 20.0122,
+    "longitude": 41.4737,
+    "code": 42,
+    "city_code": 1
+  },
+  {
+    "name_ar": "الحاوية",
+    "name_en": "AL HAWIYAH",
+    "latitude": 20.0157,
+    "longitude": 41.4669,
+    "code": 43,
+    "city_code": 1
+  },
+  {
+    "name_ar": "الزرقاء",
+    "name_en": "AZ ZARQA",
+    "latitude": 20.0146,
+    "longitude": 41.4519,
+    "code": 44,
+    "city_code": 1
+  },
+  {
+    "name_ar": "الحازم",
+    "name_en": "AL HAZIM",
+    "latitude": 20.0254,
+    "longitude": 41.4442,
+    "code": 45,
+    "city_code": 1
+  },
+  {
+    "name_ar": "وسط المدينة",
+    "name_en": "TOWEN CENTER",
+    "latitude": 20.0071,
+    "longitude": 41.4619,
+    "code": 46,
+    "city_code": 1
+  },
+  {
+    "name_ar": "الظفير",
+    "name_en": "ADH DHAFIR",
+    "latitude": 20.0053,
+    "longitude": 41.4736,
+    "code": 47,
+    "city_code": 1
+  },
+  {
+    "name_ar": "اللؤلؤ",
+    "name_en": "AL LULU",
+    "latitude": 27.0895,
+    "longitude": 49.5789,
+    "code": 48,
+    "city_code": 30
+  },
+  {
+    "name_ar": "الجبيل البلد",
+    "name_en": "JUBAIL CITY CENTER",
+    "latitude": 27.01,
+    "longitude": 49.6607,
+    "code": 49,
+    "city_code": 30
+  },
+  {
+    "name_ar": "المنطقة الصناعية",
+    "name_en": "INDUSTRIAL AREA",
+    "latitude": 27.0344,
+    "longitude": 49.5648,
+    "code": 50,
+    "city_code": 30
+  },
+  {
+    "name_ar": "مكة",
+    "name_en": "MAKKAH",
+    "latitude": 27.1483,
+    "longitude": 49.5553,
+    "code": 51,
+    "city_code": 30
+  },
+  {
+    "name_ar": "نجد",
+    "name_en": "NAJD",
+    "latitude": 27.1425,
+    "longitude": 49.547,
+    "code": 52,
+    "city_code": 30
+  },
+  {
+    "name_ar": "المنطقة الصناعية الثانية",
+    "name_en": "INDUSTRIAL AREA NO.2",
+    "latitude": 27.0604,
+    "longitude": 49.5344,
+    "code": 53,
+    "city_code": 30
+  },
+  {
+    "name_ar": "دارين",
+    "name_en": "DARIN",
+    "latitude": 27.1702,
+    "longitude": 49.5751,
+    "code": 54,
+    "city_code": 30
+  },
+  {
+    "name_ar": "منطقة العريفي",
+    "name_en": "AL URAYFI AREA",
+    "latitude": 27.0065,
+    "longitude": 49.6239,
+    "code": 55,
+    "city_code": 30
+  },
+  {
+    "name_ar": "مخطط غرب المزارع",
+    "name_en": "GHARB AL MAZARI SUBDIVISION",
+    "latitude": 27.0202,
+    "longitude": 49.6287,
+    "code": 56,
+    "city_code": 30
+  },
+  {
+    "name_ar": "مخطط السروات",
+    "name_en": "AS SARAWAT SUBDIVISION",
+    "latitude": 27.0156,
+    "longitude": 49.6349,
+    "code": 57,
+    "city_code": 30
+  },
+  {
+    "name_ar": "الفاروق",
+    "name_en": "AL FARUQ",
+    "latitude": 27.1279,
+    "longitude": 49.5254,
+    "code": 58,
+    "city_code": 30
+  },
+  {
+    "name_ar": "الحويلات",
+    "name_en": "AL HUWAYLAT",
+    "latitude": 27.0981,
+    "longitude": 49.5741,
+    "code": 59,
+    "city_code": 30
+  },
+  {
+    "name_ar": "الشاطئ",
+    "name_en": "ASH SHATI",
+    "latitude": 27.0816,
+    "longitude": 49.5864,
+    "code": 60,
+    "city_code": 30
+  },
+  {
+    "name_ar": "الحجاز",
+    "name_en": "AL HIJAZ",
+    "latitude": 27.1573,
+    "longitude": 49.5639,
+    "code": 61,
+    "city_code": 30
+  },
+  {
+    "name_ar": "الخليج",
+    "name_en": "AL KHALIJ",
+    "latitude": 27.1141,
+    "longitude": 49.5672,
+    "code": 62,
+    "city_code": 30
+  },
+  {
+    "name_ar": "الاندلس",
+    "name_en": "AL ANDALUS",
+    "latitude": 27.1383,
+    "longitude": 49.5353,
+    "code": 63,
+    "city_code": 30
+  },
+  {
+    "name_ar": "الفيحاء",
+    "name_en": "AL FAYHA",
+    "latitude": 27.1194,
+    "longitude": 49.549,
+    "code": 64,
+    "city_code": 30
+  },
+  {
+    "name_ar": "الفردوس",
+    "name_en": "AL FARDUS",
+    "latitude": 27.112,
+    "longitude": 49.539,
+    "code": 65,
+    "city_code": 30
+  },
+  {
+    "name_ar": "ينبع",
+    "name_en": "YANBU",
+    "latitude": 27.0749,
+    "longitude": 49.5936,
+    "code": 66,
+    "city_code": 30
+  },
+  {
+    "name_ar": "مخطط الدخل المحدود",
+    "name_en": "AD DAKHAL AL MAHDUD SUBDIVISION",
+    "latitude": 26.9851,
+    "longitude": 49.6607,
+    "code": 67,
+    "city_code": 30
+  },
+  {
+    "name_ar": "المنطقة الصناعية الاولى",
+    "name_en": "INDUSTRIAL AREA NO.1",
+    "latitude": 27.0786,
+    "longitude": 49.5563,
+    "code": 68,
+    "city_code": 30
+  },
+  {
+    "name_ar": "الاحساء",
+    "name_en": "AL IHSA",
+    "latitude": 27.1259,
+    "longitude": 49.5585,
+    "code": 69,
+    "city_code": 30
+  },
+  {
+    "name_ar": "مخطط عبداللطيف جميل",
+    "name_en": "ABDULLATIF JAMIL SUBDIVISION",
+    "latitude": 27.0168,
+    "longitude": 49.6378,
+    "code": 70,
+    "city_code": 30
+  },
+  {
+    "name_ar": "سدير",
+    "name_en": "SUDAYR",
+    "latitude": 27.1355,
+    "longitude": 49.5656,
+    "code": 71,
+    "city_code": 30
+  },
+  {
+    "name_ar": "القدس",
+    "name_en": "AL QUDS",
+    "latitude": 27.1285,
+    "longitude": 49.5401,
+    "code": 72,
+    "city_code": 30
+  },
+  {
+    "name_ar": "المنطقة الصناعية الثالثة",
+    "name_en": "INDUSTRIAL AREA NO.3",
+    "latitude": 27.0396,
+    "longitude": 49.5085,
+    "code": 73,
+    "city_code": 30
+  },
+  {
+    "name_ar": "الحزام الاخضر",
+    "name_en": "AL HIZAM AL AKHDAR",
+    "latitude": 26.3078,
+    "longitude": 50.2006,
+    "code": 74,
+    "city_code": 31
+  },
+  {
+    "name_ar": "السليمانية",
+    "name_en": "AS SULAIMANIYAH",
+    "latitude": 26.3321,
+    "longitude": 50.2079,
+    "code": 75,
+    "city_code": 31
+  },
+  {
+    "name_ar": "الربيع",
+    "name_en": "AR RABI",
+    "latitude": 26.3233,
+    "longitude": 50.1847,
+    "code": 76,
+    "city_code": 31
+  },
+  {
+    "name_ar": "الحزام الذهبي",
+    "name_en": "AL HIZAM ADH DHAHABI",
+    "latitude": 26.3173,
+    "longitude": 50.2011,
+    "code": 77,
+    "city_code": 31
+  },
+  {
+    "name_ar": "الندى",
+    "name_en": "AN NADA",
+    "latitude": 26.2975,
+    "longitude": 50.1782,
+    "code": 78,
+    "city_code": 31
+  },
+  {
+    "name_ar": "العقربية",
+    "name_en": "AL AQRABIYYAH",
+    "latitude": 26.2965,
+    "longitude": 50.1927,
+    "code": 79,
+    "city_code": 31
+  },
+  {
+    "name_ar": "البستان",
+    "name_en": "AL BUSTAN",
+    "latitude": 26.3211,
+    "longitude": 50.2122,
+    "code": 80,
+    "city_code": 31
+  },
+  {
+    "name_ar": "البندرية",
+    "name_en": "AL BANDARIYAH",
+    "latitude": 26.3082,
+    "longitude": 50.2141,
+    "code": 81,
+    "city_code": 31
+  },
+  {
+    "name_ar": "الجوهرة",
+    "name_en": "AL JAWHARAH",
+    "latitude": 26.3291,
+    "longitude": 50.196,
+    "code": 82,
+    "city_code": 31
+  },
+  {
+    "name_ar": "الشروق",
+    "name_en": "ASH SHURUQ",
+    "latitude": 26.3117,
+    "longitude": 50.22,
+    "code": 83,
+    "city_code": 31
+  },
+  {
+    "name_ar": "الراكة",
+    "name_en": "AR RAKAH",
+    "latitude": 26.3513,
+    "longitude": 50.2015,
+    "code": 84,
+    "city_code": 31
+  },
+  {
+    "name_ar": "الواحة",
+    "name_en": "AL WAHAH",
+    "latitude": 26.21,
+    "longitude": 50.1825,
+    "code": 85,
+    "city_code": 31
+  },
+  {
+    "name_ar": "النور",
+    "name_en": "AN NUR",
+    "latitude": 26.2927,
+    "longitude": 50.2037,
+    "code": 86,
+    "city_code": 31
+  },
+  {
+    "name_ar": "الخبر الشمالية",
+    "name_en": "AL KHUBAR ASH SHAMALIYYAH",
+    "latitude": 26.2905,
+    "longitude": 50.2159,
+    "code": 87,
+    "city_code": 31
+  },
+  {
+    "name_ar": "الاطلال",
+    "name_en": "AL ATLAL",
+    "latitude": 26.3423,
+    "longitude": 50.1876,
+    "code": 88,
+    "city_code": 31
+  },
+  {
+    "name_ar": "الجسر",
+    "name_en": "AL JASR",
+    "latitude": 26.2101,
+    "longitude": 50.2091,
+    "code": 89,
+    "city_code": 31
+  },
+  {
+    "name_ar": "ابن سينا",
+    "name_en": "IBN SINA",
+    "latitude": 26.2437,
+    "longitude": 50.2086,
+    "code": 90,
+    "city_code": 31
+  },
+  {
+    "name_ar": "الاسكان",
+    "name_en": "AL ISKAN",
+    "latitude": 26.2579,
+    "longitude": 50.2111,
+    "code": 91,
+    "city_code": 31
+  },
+  {
+    "name_ar": "السعادة",
+    "name_en": "AS SAADAH",
+    "latitude": 26.2554,
+    "longitude": 50.1983,
+    "code": 92,
+    "city_code": 31
+  },
+  {
+    "name_ar": "الكورنيش",
+    "name_en": "AL KURNAISH",
+    "latitude": 26.3248,
+    "longitude": 50.2223,
+    "code": 93,
+    "city_code": 31
+  },
+  {
+    "name_ar": "الخزامى",
+    "name_en": "AL KHUZAMA",
+    "latitude": 26.2095,
+    "longitude": 50.193,
+    "code": 94,
+    "city_code": 31
+  },
+  {
+    "name_ar": "الكوثر",
+    "name_en": "AL KAWTHAR",
+    "latitude": 26.1958,
+    "longitude": 50.208,
+    "code": 95,
+    "city_code": 31
+  },
+  {
+    "name_ar": "الثريا",
+    "name_en": "ATH THURAYYA",
+    "latitude": 26.2278,
+    "longitude": 50.2074,
+    "code": 96,
+    "city_code": 31
+  },
+  {
+    "name_ar": "التحلية",
+    "name_en": "AT TAHLIYYAH",
+    "latitude": 26.1781,
+    "longitude": 50.1981,
+    "code": 97,
+    "city_code": 31
+  },
+  {
+    "name_ar": "الهدى",
+    "name_en": "AL HADA",
+    "latitude": 26.3104,
+    "longitude": 50.1843,
+    "code": 98,
+    "city_code": 31
+  },
+  {
+    "name_ar": "الغدير",
+    "name_en": "AL GHADIR",
+    "latitude": 26.2737,
+    "longitude": 50.2055,
+    "code": 99,
+    "city_code": 31
+  },
+  {
+    "name_ar": "الخبر الجنوبية",
+    "name_en": "AL KHUBAR AL JANUBIYYAH",
+    "latitude": 26.2738,
+    "longitude": 50.2155,
+    "code": 100,
+    "city_code": 31
+  },
+  {
+    "name_ar": "المرجان",
+    "name_en": "AL MURJAN",
+    "latitude": 26.1931,
+    "longitude": 50.1786,
+    "code": 101,
+    "city_code": 31
+  },
+  {
+    "name_ar": "الثقبة",
+    "name_en": "ATH THUQBAH",
+    "latitude": 26.2741,
+    "longitude": 50.1919,
+    "code": 102,
+    "city_code": 31
+  },
+  {
+    "name_ar": "الريان",
+    "name_en": "AR RAYYAN",
+    "latitude": 26.2241,
+    "longitude": 50.1869,
+    "code": 103,
+    "city_code": 31
+  },
+  {
+    "name_ar": "النخيل",
+    "name_en": "AN NAKHIL",
+    "latitude": 26.4397,
+    "longitude": 50.0891,
+    "code": 104,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الدواسر",
+    "name_en": "AD DAWASIR",
+    "latitude": 26.4452,
+    "longitude": 50.102,
+    "code": 105,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الخليج",
+    "name_en": "AL KHALIJ",
+    "latitude": 26.4462,
+    "longitude": 50.0881,
+    "code": 106,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الرياض",
+    "name_en": "AR RIYAD",
+    "latitude": 26.3544,
+    "longitude": 50.1308,
+    "code": 107,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الدانة",
+    "name_en": "AD DANAH",
+    "latitude": 26.4528,
+    "longitude": 50.1025,
+    "code": 108,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الحرس الوطني",
+    "name_en": "AL HARAS AL WATANI",
+    "latitude": 26.3646,
+    "longitude": 50.1634,
+    "code": 109,
+    "city_code": 32
+  },
+  {
+    "name_ar": "القدس",
+    "name_en": "AL QUDS",
+    "latitude": 26.451,
+    "longitude": 50.1132,
+    "code": 110,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الامل",
+    "name_en": "AL AMAL",
+    "latitude": 26.3816,
+    "longitude": 50.0661,
+    "code": 111,
+    "city_code": 32
+  },
+  {
+    "name_ar": "مطار الملك فهد الدولي",
+    "name_en": "KING FAHD INTERNATIONAL A",
+    "latitude": 26.4807,
+    "longitude": 49.8177,
+    "code": 112,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الشاطئ",
+    "name_en": "ASH SHATI",
+    "latitude": 26.4715,
+    "longitude": 50.1287,
+    "code": 113,
+    "city_code": 32
+  },
+  {
+    "name_ar": "العزيزية",
+    "name_en": "AL AZIZIYYAH",
+    "latitude": 26.4617,
+    "longitude": 50.0698,
+    "code": 114,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الرحاب",
+    "name_en": "AR RIHAB",
+    "latitude": 26.4444,
+    "longitude": 50.1254,
+    "code": 115,
+    "city_code": 32
+  },
+  {
+    "name_ar": "العمامرة",
+    "name_en": "AL AMAMIRAH",
+    "latitude": 26.4443,
+    "longitude": 50.1129,
+    "code": 116,
+    "city_code": 32
+  },
+  {
+    "name_ar": "اليمامة",
+    "name_en": "AL YAMAMAH",
+    "latitude": 26.3797,
+    "longitude": 50.0343,
+    "code": 117,
+    "city_code": 32
+  },
+  {
+    "name_ar": "المدينة الصناعية الثانية",
+    "name_en": "INDUSTRIAL CITY 2",
+    "latitude": 26.2494,
+    "longitude": 49.9849,
+    "code": 118,
+    "city_code": 32
+  },
+  {
+    "name_ar": "العنود",
+    "name_en": "AL ANUD",
+    "latitude": 26.447,
+    "longitude": 50.0715,
+    "code": 119,
+    "city_code": 32
+  },
+  {
+    "name_ar": "قصر الخليج",
+    "name_en": "QASR AL KHALIJ",
+    "latitude": 26.3637,
+    "longitude": 50.1349,
+    "code": 120,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الشلال",
+    "name_en": "ASH SHALLAL",
+    "latitude": 26.4765,
+    "longitude": 50.1201,
+    "code": 121,
+    "city_code": 32
+  },
+  {
+    "name_ar": "العدامة",
+    "name_en": "AL ADAMAH",
+    "latitude": 26.4349,
+    "longitude": 50.1018,
+    "code": 122,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الزهور",
+    "name_en": "AZ ZUHUR",
+    "latitude": 26.4543,
+    "longitude": 50.0889,
+    "code": 123,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الخالدية",
+    "name_en": "AL KHALIDIYYAH",
+    "latitude": 26.4026,
+    "longitude": 50.1629,
+    "code": 124,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الناصرية",
+    "name_en": "AN NASARIYYAH",
+    "latitude": 26.4228,
+    "longitude": 50.1249,
+    "code": 125,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الروابي",
+    "name_en": "AR RAWABI",
+    "latitude": 26.4132,
+    "longitude": 50.0429,
+    "code": 126,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الميناء",
+    "name_en": "AL MINA",
+    "latitude": 26.4199,
+    "longitude": 50.1937,
+    "code": 127,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الاندلس",
+    "name_en": "AL ANDALUS",
+    "latitude": 26.3827,
+    "longitude": 50.1731,
+    "code": 128,
+    "city_code": 32
+  },
+  {
+    "name_ar": "المنتزه",
+    "name_en": "AL MUNTAZAH",
+    "latitude": 26.3773,
+    "longitude": 50.1305,
+    "code": 129,
+    "city_code": 32
+  },
+  {
+    "name_ar": "منتزه الملك فهد",
+    "name_en": "MUNTAZAH AL MALIK FAHD",
+    "latitude": 26.3922,
+    "longitude": 50.1257,
+    "code": 130,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الجامعيين",
+    "name_en": "AL JAMIIYYIN",
+    "latitude": 26.3945,
+    "longitude": 50.0987,
+    "code": 131,
+    "city_code": 32
+  },
+  {
+    "name_ar": "النورس",
+    "name_en": "AN NAWRAS",
+    "latitude": 26.4037,
+    "longitude": 50.0259,
+    "code": 132,
+    "city_code": 32
+  },
+  {
+    "name_ar": "النزهة",
+    "name_en": "AN NUZHA",
+    "latitude": 26.3648,
+    "longitude": 50.0614,
+    "code": 133,
+    "city_code": 32
+  },
+  {
+    "name_ar": "فيصلية الشرق",
+    "name_en": "FAISALIYYAT ASH SHARQ",
+    "latitude": 26.3667,
+    "longitude": 50.0413,
+    "code": 134,
+    "city_code": 32
+  },
+  {
+    "name_ar": "السلام",
+    "name_en": "AS SALAM",
+    "latitude": 26.4183,
+    "longitude": 50.0692,
+    "code": 135,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الشهداء",
+    "name_en": "ASH SHUHADA",
+    "latitude": 26.3693,
+    "longitude": 50.1917,
+    "code": 136,
+    "city_code": 32
+  },
+  {
+    "name_ar": "احد",
+    "name_en": "UHUD",
+    "latitude": 26.4321,
+    "longitude": 50.1248,
+    "code": 137,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الاشراق",
+    "name_en": "AL ISHRAQ",
+    "latitude": 26.4527,
+    "longitude": 50.0456,
+    "code": 138,
+    "city_code": 32
+  },
+  {
+    "name_ar": "ابن خلدون",
+    "name_en": "IBN KHALDUN",
+    "latitude": 26.4196,
+    "longitude": 50.0973,
+    "code": 139,
+    "city_code": 32
+  },
+  {
+    "name_ar": "المنطقة الصناعية",
+    "name_en": "INDUSTRIAL AREA",
+    "latitude": 26.3965,
+    "longitude": 50.1385,
+    "code": 140,
+    "city_code": 32
+  },
+  {
+    "name_ar": "النهضة",
+    "name_en": "AN NAHDAH",
+    "latitude": 26.3786,
+    "longitude": 50.1421,
+    "code": 141,
+    "city_code": 32
+  },
+  {
+    "name_ar": "القزاز",
+    "name_en": "AL QAZZAZ",
+    "latitude": 26.4351,
+    "longitude": 50.0921,
+    "code": 142,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الفيصلية",
+    "name_en": "AL FAISALIYYAH",
+    "latitude": 26.3937,
+    "longitude": 50.0588,
+    "code": 143,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الضباب",
+    "name_en": "AD DABAB",
+    "latitude": 26.4221,
+    "longitude": 50.0543,
+    "code": 144,
+    "city_code": 32
+  },
+  {
+    "name_ar": "المريكبات",
+    "name_en": "AL MURAIKABAT",
+    "latitude": 26.4115,
+    "longitude": 50.1043,
+    "code": 145,
+    "city_code": 32
+  },
+  {
+    "name_ar": "الصالحية",
+    "name_en": "AS SALIHIYYAH",
+    "latitude": 28.3999,
+    "longitude": 36.5472,
+    "code": 718,
+    "city_code": 41
+  },
+  {
+    "name_ar": "رحيل",
+    "name_en": "RAHIL",
+    "latitude": 28.379,
+    "longitude": 36.5515,
+    "code": 719,
+    "city_code": 41
+  },
+  {
+    "name_ar": "القادسية",
+    "name_en": "AL QADSIYYAH",
+    "latitude": 28.4333,
+    "longitude": 36.5059,
+    "code": 720,
+    "city_code": 41
+  },
+  {
+    "name_ar": "مخطط الراجحي",
+    "name_en": "AR RAJIHI SUBDIVISION",
+    "latitude": 28.4166,
+    "longitude": 36.5319,
+    "code": 721,
+    "city_code": 41
+  },
+  {
+    "name_ar": "المنشية الجديدة",
+    "name_en": "AL MUNSHIYAH AL JADIDAH",
+    "latitude": 28.3815,
+    "longitude": 36.5687,
+    "code": 722,
+    "city_code": 41
+  },
+  {
+    "name_ar": "الصناعية",
+    "name_en": "AS SANAIYYAH",
+    "latitude": 28.3849,
+    "longitude": 36.5471,
+    "code": 723,
+    "city_code": 41
+  },
+  {
+    "name_ar": "السعادة",
+    "name_en": "AS SAADAH",
+    "latitude": 28.39,
+    "longitude": 36.55,
+    "code": 724,
+    "city_code": 41
+  },
+  {
+    "name_ar": "المروج - ب",
+    "name_en": "AL MURUJ - B",
+    "latitude": 28.4159,
+    "longitude": 36.5676,
+    "code": 725,
+    "city_code": 41
+  },
+  {
+    "name_ar": "الهضيبة",
+    "name_en": "AL HUDAYBAH",
+    "latitude": 28.3713,
+    "longitude": 36.5714,
+    "code": 726,
+    "city_code": 41
+  },
+  {
+    "name_ar": "الشيخ",
+    "name_en": "ASH SHAYKH",
+    "latitude": 28.3699,
+    "longitude": 36.5514,
+    "code": 727,
+    "city_code": 41
+  },
+  {
+    "name_ar": "السلمان",
+    "name_en": "AS SALMAN",
+    "latitude": 28.389,
+    "longitude": 36.577,
+    "code": 728,
+    "city_code": 41
+  },
+  {
+    "name_ar": "منطقة العسكرية",
+    "name_en": "MILITARY AREA",
+    "latitude": 28.3252,
+    "longitude": 36.5963,
+    "code": 729,
+    "city_code": 41
+  },
+  {
+    "name_ar": "العزيزية الجديدة",
+    "name_en": "AL AZIZIYYAH AL JADIDAH",
+    "latitude": 28.3843,
+    "longitude": 36.5729,
+    "code": 730,
+    "city_code": 41
+  },
+  {
+    "name_ar": "منطقة الزراعية",
+    "name_en": "CULTIVATED AREA",
+    "latitude": 28.4517,
+    "longitude": 36.6135,
+    "code": 731,
+    "city_code": 41
+  },
+  {
+    "name_ar": "المنشية القديمة",
+    "name_en": "AL MUNSHIYAH AL QADIMAH",
+    "latitude": 28.381,
+    "longitude": 36.5622,
+    "code": 732,
+    "city_code": 41
+  },
+  {
+    "name_ar": "العوايشة",
+    "name_en": "AL AWAYSHAH",
+    "latitude": 28.3852,
+    "longitude": 36.5567,
+    "code": 733,
+    "city_code": 41
+  },
+  {
+    "name_ar": "الورود",
+    "name_en": "AL WURUD",
+    "latitude": 28.4133,
+    "longitude": 36.579,
+    "code": 734,
+    "city_code": 41
+  },
+  {
+    "name_ar": "العزيزية القديمة",
+    "name_en": "AL AZIZIYYAH AL QADIMAH",
+    "latitude": 28.3932,
+    "longitude": 36.5633,
+    "code": 735,
+    "city_code": 41
+  },
+  {
+    "name_ar": "الخالدية",
+    "name_en": "AL KHALDIYYAH",
+    "latitude": 28.3771,
+    "longitude": 36.5619,
+    "code": 736,
+    "city_code": 41
+  },
+  {
+    "name_ar": "الفيصلية الشمالية",
+    "name_en": "AL FAYSALIYYAH ASH SHAMALIYYAH",
+    "latitude": 28.4058,
+    "longitude": 36.552,
+    "code": 737,
+    "city_code": 41
+  },
+  {
+    "name_ar": "البساتين",
+    "name_en": "AL BASATIN",
+    "latitude": 28.3679,
+    "longitude": 36.5578,
+    "code": 738,
+    "city_code": 41
+  },
+  {
+    "name_ar": "الرويعيات",
+    "name_en": "AR RUWAYIYYAT",
+    "latitude": 28.3628,
+    "longitude": 36.5458,
+    "code": 739,
+    "city_code": 41
+  },
+  {
+    "name_ar": "مخطط الرابية",
+    "name_en": "AR RABIYAH SUBDIVISION",
+    "latitude": 28.4654,
+    "longitude": 36.5535,
+    "code": 740,
+    "city_code": 41
+  },
+  {
+    "name_ar": "السليمانية",
+    "name_en": "AS SULAYMANIYYAH",
+    "latitude": 28.4059,
+    "longitude": 36.5732,
+    "code": 741,
+    "city_code": 41
+  },
+  {
+    "name_ar": "مطار",
+    "name_en": "AIRPORT",
+    "latitude": 28.36,
+    "longitude": 36.639,
+    "code": 742,
+    "city_code": 41
+  },
+  {
+    "name_ar": "السامر",
+    "name_en": "AS SAMIR",
+    "latitude": 21.5819,
+    "longitude": 39.2452,
+    "code": 743,
+    "city_code": 57
+  },
+  {
+    "name_ar": "السبيل",
+    "name_en": "AS SABIL",
+    "latitude": 21.4806,
+    "longitude": 39.2015,
+    "code": 744,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الهنداوية",
+    "name_en": "AL HINDAWIYAH",
+    "latitude": 21.4734,
+    "longitude": 39.1869,
+    "code": 745,
+    "city_code": 57
+  },
+  {
+    "name_ar": "المنار",
+    "name_en": "AL MANAR",
+    "latitude": 21.6024,
+    "longitude": 39.2357,
+    "code": 746,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الصفا",
+    "name_en": "AS SAFA",
+    "latitude": 21.5847,
+    "longitude": 39.2125,
+    "code": 747,
+    "city_code": 57
+  },
+  {
+    "name_ar": "المروة",
+    "name_en": "AL MARWAH",
+    "latitude": 21.6184,
+    "longitude": 39.2014,
+    "code": 748,
+    "city_code": 57
+  },
+  {
+    "name_ar": "النزهة",
+    "name_en": "AL NUZHA",
+    "latitude": 21.6251,
+    "longitude": 39.1669,
+    "code": 749,
+    "city_code": 57
+  },
+  {
+    "name_ar": "المنتزة",
+    "name_en": "AL MONTAZAH",
+    "latitude": 21.5949,
+    "longitude": 39.2802,
+    "code": 750,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الصناعية",
+    "name_en": "AS SINAIYAH",
+    "latitude": 21.3998,
+    "longitude": 39.239,
+    "code": 751,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الربوة",
+    "name_en": "AR RABWAH",
+    "latitude": 21.6012,
+    "longitude": 39.1822,
+    "code": 752,
+    "city_code": 57
+  },
+  {
+    "name_ar": "البوادي",
+    "name_en": "AL BAWADI",
+    "latitude": 21.5987,
+    "longitude": 39.166,
+    "code": 753,
+    "city_code": 57
+  },
+  {
+    "name_ar": "ابحر الجنوبية",
+    "name_en": "ABHUR AL JANUBIYAH",
+    "latitude": 21.7356,
+    "longitude": 39.1308,
+    "code": 754,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الصحيفة",
+    "name_en": "AS SAHIFAH",
+    "latitude": 21.4875,
+    "longitude": 39.1956,
+    "code": 755,
+    "city_code": 57
+  },
+  {
+    "name_ar": "العمارية",
+    "name_en": "AL AMMARIYAH",
+    "latitude": 21.4918,
+    "longitude": 39.1934,
+    "code": 756,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الفروسية",
+    "name_en": "AL FURUSYAH",
+    "latitude": 21.825,
+    "longitude": 39.2059,
+    "code": 757,
+    "city_code": 57
+  },
+  {
+    "name_ar": "البشائر",
+    "name_en": "AL BASHAIR",
+    "latitude": 21.8041,
+    "longitude": 39.1749,
+    "code": 758,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الشروق",
+    "name_en": "ASH SHURUQ",
+    "latitude": 21.5637,
+    "longitude": 39.2775,
+    "code": 759,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الامير عبد المجيد",
+    "name_en": "AL AMIR ABDULMAJID",
+    "latitude": 21.421,
+    "longitude": 39.2741,
+    "code": 760,
+    "city_code": 57
+  },
+  {
+    "name_ar": "مطار الملك عبد العزيز",
+    "name_en": "KING ABDULAZIZ AIRPORT",
+    "latitude": 21.6934,
+    "longitude": 39.1658,
+    "code": 761,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الصالحية",
+    "name_en": "AS SALHYAH",
+    "latitude": 21.7632,
+    "longitude": 39.2238,
+    "code": 762,
+    "city_code": 57
+  },
+  {
+    "name_ar": "ام حبلين",
+    "name_en": "UMM  HABLAYN",
+    "latitude": 21.7117,
+    "longitude": 39.2386,
+    "code": 763,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الاصالة",
+    "name_en": "AL ASALAH",
+    "latitude": 21.7784,
+    "longitude": 39.1555,
+    "code": 764,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الفلاح",
+    "name_en": "AL FALAH",
+    "latitude": 21.7812,
+    "longitude": 39.1892,
+    "code": 765,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الكندرة",
+    "name_en": "AL KANDARAH",
+    "latitude": 21.4927,
+    "longitude": 39.2023,
+    "code": 766,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الثغر",
+    "name_en": "AL THAGUR",
+    "latitude": 21.48,
+    "longitude": 39.228,
+    "code": 767,
+    "city_code": 57
+  },
+  {
+    "name_ar": "النزلة الشرقية",
+    "name_en": "AL NAZLAH AL SHARQEYYAH",
+    "latitude": 21.4728,
+    "longitude": 39.2206,
+    "code": 768,
+    "city_code": 57
+  },
+  {
+    "name_ar": "النزلة اليمانية",
+    "name_en": "AL NAZLAH AL YAMANEYYAH",
+    "latitude": 21.469,
+    "longitude": 39.2103,
+    "code": 769,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الرحمانية",
+    "name_en": "AR RAHMANYAH",
+    "latitude": 21.7926,
+    "longitude": 39.2169,
+    "code": 770,
+    "city_code": 57
+  },
+  {
+    "name_ar": "غليل",
+    "name_en": "GHULAIL",
+    "latitude": 21.4531,
+    "longitude": 39.2054,
+    "code": 771,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الجوهرة",
+    "name_en": "AL JAWHARAH",
+    "latitude": 21.4316,
+    "longitude": 39.2516,
+    "code": 772,
+    "city_code": 57
+  },
+  {
+    "name_ar": "المليساء",
+    "name_en": "AL MULYSAA",
+    "latitude": 21.2644,
+    "longitude": 39.2128,
+    "code": 773,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الاجواد",
+    "name_en": "AL AJWAD",
+    "latitude": 21.6034,
+    "longitude": 39.2575,
+    "code": 774,
+    "city_code": 57
+  },
+  {
+    "name_ar": "العدل",
+    "name_en": "AL ADIL",
+    "latitude": 21.4449,
+    "longitude": 39.2923,
+    "code": 775,
+    "city_code": 57
+  },
+  {
+    "name_ar": "بترومين",
+    "name_en": "PETROMIN",
+    "latitude": 21.4457,
+    "longitude": 39.1835,
+    "code": 776,
+    "city_code": 57
+  },
+  {
+    "name_ar": "المحجر",
+    "name_en": "AL MAHJAR",
+    "latitude": 21.4275,
+    "longitude": 39.203,
+    "code": 777,
+    "city_code": 57
+  },
+  {
+    "name_ar": "مدائن الفهد",
+    "name_en": "MADAIN AL FAHD",
+    "latitude": 21.4595,
+    "longitude": 39.2387,
+    "code": 778,
+    "city_code": 57
+  },
+  {
+    "name_ar": "السروات",
+    "name_en": "AS SARAWAT",
+    "latitude": 21.3508,
+    "longitude": 39.213,
+    "code": 779,
+    "city_code": 57
+  },
+  {
+    "name_ar": "التعاون",
+    "name_en": "AL TAAWUN",
+    "latitude": 21.351,
+    "longitude": 39.2699,
+    "code": 780,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الفضيلة",
+    "name_en": "AL FADIILAH",
+    "latitude": 21.3068,
+    "longitude": 39.2787,
+    "code": 781,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الوادي",
+    "name_en": "AL WADI",
+    "latitude": 21.3081,
+    "longitude": 39.1721,
+    "code": 782,
+    "city_code": 57
+  },
+  {
+    "name_ar": "القوزين",
+    "name_en": "AL QUUZIN",
+    "latitude": 21.2626,
+    "longitude": 39.1703,
+    "code": 783,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الروابي",
+    "name_en": "AR RAWABI",
+    "latitude": 21.47,
+    "longitude": 39.2682,
+    "code": 784,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الكوثر",
+    "name_en": "AL KAWTHAR",
+    "latitude": 21.7267,
+    "longitude": 39.2069,
+    "code": 785,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الريان",
+    "name_en": "AR RAYYAN",
+    "latitude": 21.6855,
+    "longitude": 39.2097,
+    "code": 786,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الياقوت",
+    "name_en": "AL YAQUT",
+    "latitude": 21.7829,
+    "longitude": 39.0799,
+    "code": 787,
+    "city_code": 57
+  },
+  {
+    "name_ar": "البساتين",
+    "name_en": "AL BASATIN",
+    "latitude": 21.6844,
+    "longitude": 39.1162,
+    "code": 788,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الوزيرية",
+    "name_en": "AL WAZIRIYAH",
+    "latitude": 21.4443,
+    "longitude": 39.2321,
+    "code": 789,
+    "city_code": 57
+  },
+  {
+    "name_ar": "السليمانية",
+    "name_en": "AS SULAYMANIYAH",
+    "latitude": 21.5062,
+    "longitude": 39.2485,
+    "code": 790,
+    "city_code": 57
+  },
+  {
+    "name_ar": "النسيم",
+    "name_en": "AN NASIM",
+    "latitude": 21.519,
+    "longitude": 39.231,
+    "code": 791,
+    "city_code": 57
+  },
+  {
+    "name_ar": "بني مالك",
+    "name_en": "BANI MALIK",
+    "latitude": 21.532,
+    "longitude": 39.2189,
+    "code": 792,
+    "city_code": 57
+  },
+  {
+    "name_ar": "مشرفة",
+    "name_en": "MISHRIFAH",
+    "latitude": 21.5392,
+    "longitude": 39.1973,
+    "code": 793,
+    "city_code": 57
+  },
+  {
+    "name_ar": "العزيزية",
+    "name_en": "AL AZIZIYAH",
+    "latitude": 21.5529,
+    "longitude": 39.1946,
+    "code": 794,
+    "city_code": 57
+  },
+  {
+    "name_ar": "المنتزهات",
+    "name_en": "AL Muntazahat",
+    "latitude": 21.4683,
+    "longitude": 39.2906,
+    "code": 795,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الواحة",
+    "name_en": "AL WAHAH",
+    "latitude": 21.5562,
+    "longitude": 39.2447,
+    "code": 796,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الفضل",
+    "name_en": "AL FADL",
+    "latitude": 21.4334,
+    "longitude": 39.327,
+    "code": 797,
+    "city_code": 57
+  },
+  {
+    "name_ar": "المحمدية",
+    "name_en": "AL MUHAMMADIYAH",
+    "latitude": 21.6493,
+    "longitude": 39.1238,
+    "code": 798,
+    "city_code": 57
+  },
+  {
+    "name_ar": "النهضة",
+    "name_en": "AN NAHDAH",
+    "latitude": 21.6196,
+    "longitude": 39.1272,
+    "code": 799,
+    "city_code": 57
+  },
+  {
+    "name_ar": "النعيم",
+    "name_en": "AN NAIM",
+    "latitude": 21.6278,
+    "longitude": 39.1439,
+    "code": 800,
+    "city_code": 57
+  },
+  {
+    "name_ar": "السلامة",
+    "name_en": "AS SALAMAH",
+    "latitude": 21.5938,
+    "longitude": 39.1519,
+    "code": 801,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الزهراء",
+    "name_en": "AZ ZAHRA",
+    "latitude": 21.5918,
+    "longitude": 39.1337,
+    "code": 802,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الخالدية",
+    "name_en": "AL KHALIDIYAH",
+    "latitude": 21.5602,
+    "longitude": 39.1345,
+    "code": 803,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الرحاب",
+    "name_en": "AL RIHAB",
+    "latitude": 21.5521,
+    "longitude": 39.2247,
+    "code": 804,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الشرفية",
+    "name_en": "ASH SHARAFIYAH",
+    "latitude": 21.517,
+    "longitude": 39.1872,
+    "code": 805,
+    "city_code": 57
+  },
+  {
+    "name_ar": "ابحر الشمالية",
+    "name_en": "ABHUR ASH SHAMALIYAH",
+    "latitude": 21.7445,
+    "longitude": 39.1045,
+    "code": 806,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الروضة",
+    "name_en": "AL RAWDAH",
+    "latitude": 21.564,
+    "longitude": 39.1564,
+    "code": 807,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الفيصلية",
+    "name_en": "AL FAYSALIYAH",
+    "latitude": 21.5718,
+    "longitude": 39.1837,
+    "code": 808,
+    "city_code": 57
+  },
+  {
+    "name_ar": "السنابل",
+    "name_en": "AL SANABIL",
+    "latitude": 21.3896,
+    "longitude": 39.2734,
+    "code": 809,
+    "city_code": 57
+  },
+  {
+    "name_ar": "بريمان",
+    "name_en": "BURYMAN",
+    "latitude": 21.6457,
+    "longitude": 39.2456,
+    "code": 810,
+    "city_code": 57
+  },
+  {
+    "name_ar": "القرينية",
+    "name_en": "AL QRINYAH",
+    "latitude": 21.3067,
+    "longitude": 39.2468,
+    "code": 811,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الرغامة",
+    "name_en": "AR RUGHAMAH",
+    "latitude": 21.5015,
+    "longitude": 39.2882,
+    "code": 812,
+    "city_code": 57
+  },
+  {
+    "name_ar": "ميناء جدة الاسلامى",
+    "name_en": "JEDDAH ISLAMIC SEAPORT",
+    "latitude": 21.4695,
+    "longitude": 39.1669,
+    "code": 813,
+    "city_code": 57
+  },
+  {
+    "name_ar": "اللؤلؤ",
+    "name_en": "AL ALULU",
+    "latitude": 21.7671,
+    "longitude": 39.0614,
+    "code": 814,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الورود",
+    "name_en": "AL WURUD",
+    "latitude": 21.5184,
+    "longitude": 39.2034,
+    "code": 815,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الفيحاء",
+    "name_en": "AL FAYHA",
+    "latitude": 21.4997,
+    "longitude": 39.2181,
+    "code": 816,
+    "city_code": 57
+  },
+  {
+    "name_ar": "جامعة الملك عبد العزيز",
+    "name_en": "KING ABDUL AZIZ UNIVERSITY",
+    "latitude": 21.4935,
+    "longitude": 39.2475,
+    "code": 817,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الجامعة",
+    "name_en": "AL JAMEA|AH",
+    "latitude": 21.4745,
+    "longitude": 39.252,
+    "code": 818,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الامير فواز ",
+    "name_en": "AL AMIR FAWAZ",
+    "latitude": 21.4322,
+    "longitude": 39.2953,
+    "code": 819,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الشفا",
+    "name_en": "AL SHIFAA",
+    "latitude": 21.3817,
+    "longitude": 39.3346,
+    "code": 820,
+    "city_code": 57
+  },
+  {
+    "name_ar": "المرجان",
+    "name_en": "AL MURJAN",
+    "latitude": 21.6864,
+    "longitude": 39.1004,
+    "code": 821,
+    "city_code": 57
+  },
+  {
+    "name_ar": "القريات",
+    "name_en": "AL QURAIYAT",
+    "latitude": 21.4643,
+    "longitude": 39.199,
+    "code": 822,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الشراع",
+    "name_en": "AL SHIRAA",
+    "latitude": 21.7648,
+    "longitude": 39.095,
+    "code": 823,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الحمدانية",
+    "name_en": "AL HAMDANYAH",
+    "latitude": 21.7549,
+    "longitude": 39.1938,
+    "code": 824,
+    "city_code": 57
+  },
+  {
+    "name_ar": "ام السلم",
+    "name_en": "UMM ASALAM",
+    "latitude": 21.4616,
+    "longitude": 39.3221,
+    "code": 825,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الرويس",
+    "name_en": "AR RUWAIS",
+    "latitude": 21.515,
+    "longitude": 39.1713,
+    "code": 826,
+    "city_code": 57
+  },
+  {
+    "name_ar": "قاعدة الملك فيصل البحرية",
+    "name_en": "AL MALEK FAYSAL NAVAL BASE",
+    "latitude": 21.3591,
+    "longitude": 39.1736,
+    "code": 827,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الساحل",
+    "name_en": "ALSAHIL",
+    "latitude": 21.3005,
+    "longitude": 39.1315,
+    "code": 828,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الصوارى",
+    "name_en": "AS SAWARY",
+    "latitude": 21.7996,
+    "longitude": 39.101,
+    "code": 829,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الثعالبة",
+    "name_en": "ATH THAALIBAH",
+    "latitude": 21.4644,
+    "longitude": 39.1862,
+    "code": 830,
+    "city_code": 57
+  },
+  {
+    "name_ar": "طيبة",
+    "name_en": "TIBAH",
+    "latitude": 21.8047,
+    "longitude": 39.1397,
+    "code": 831,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الفردوس",
+    "name_en": "AL FARDAUS",
+    "latitude": 21.7814,
+    "longitude": 39.1181,
+    "code": 832,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الهدى",
+    "name_en": "AL HADA",
+    "latitude": 21.3725,
+    "longitude": 39.3033,
+    "code": 833,
+    "city_code": 57
+  },
+  {
+    "name_ar": "التضامن",
+    "name_en": "AL TADAMUN",
+    "latitude": 21.3408,
+    "longitude": 39.3048,
+    "code": 834,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الكرامة",
+    "name_en": "AL KARAMAH",
+    "latitude": 21.3043,
+    "longitude": 39.3127,
+    "code": 835,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الرحمة",
+    "name_en": "AL RAHMAH",
+    "latitude": 21.2667,
+    "longitude": 39.3086,
+    "code": 836,
+    "city_code": 57
+  },
+  {
+    "name_ar": "البركة",
+    "name_en": "AL BARAKAH",
+    "latitude": 21.265,
+    "longitude": 39.2797,
+    "code": 837,
+    "city_code": 57
+  },
+  {
+    "name_ar": "البلد",
+    "name_en": "AL BALAD",
+    "latitude": 21.4828,
+    "longitude": 39.187,
+    "code": 838,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الشاطئ",
+    "name_en": "ASH SHATI",
+    "latitude": 21.5996,
+    "longitude": 39.1135,
+    "code": 839,
+    "city_code": 57
+  },
+  {
+    "name_ar": "المسرة",
+    "name_en": "AL MASARAH",
+    "latitude": 21.2646,
+    "longitude": 39.2477,
+    "code": 840,
+    "city_code": 57
+  },
+  {
+    "name_ar": "البغدادية الشرقية",
+    "name_en": "AL BAGHDADIYAH ASH SHARQIYAH",
+    "latitude": 21.4989,
+    "longitude": 39.1922,
+    "code": 841,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الزمرد",
+    "name_en": "AL ZUMURUD",
+    "latitude": 21.7989,
+    "longitude": 39.0563,
+    "code": 842,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الاجاويد",
+    "name_en": "AL AJAWID",
+    "latitude": 21.4028,
+    "longitude": 39.3102,
+    "code": 843,
+    "city_code": 57
+  },
+  {
+    "name_ar": "مريخ",
+    "name_en": "MARIKH",
+    "latitude": 21.5366,
+    "longitude": 39.2978,
+    "code": 844,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الاندلس",
+    "name_en": "AL ANDALUS",
+    "latitude": 21.5386,
+    "longitude": 39.1436,
+    "code": 845,
+    "city_code": 57
+  },
+  {
+    "name_ar": "البغدادية الغربية",
+    "name_en": "AL BAGHDADIYAH AL GHARBIYAH",
+    "latitude": 21.4989,
+    "longitude": 39.1768,
+    "code": 846,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الامواج",
+    "name_en": "AL AMWAJ",
+    "latitude": 21.7491,
+    "longitude": 39.0736,
+    "code": 847,
+    "city_code": 57
+  },
+  {
+    "name_ar": "النخيل",
+    "name_en": "ALNAKHIL",
+    "latitude": 21.5302,
+    "longitude": 39.2618,
+    "code": 848,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الفاروق",
+    "name_en": "AL FARUQ",
+    "latitude": 21.4509,
+    "longitude": 39.2691,
+    "code": 849,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الضاحية",
+    "name_en": "AD DAHYAH",
+    "latitude": 21.3072,
+    "longitude": 39.2115,
+    "code": 850,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الخمرة",
+    "name_en": "AL KHUMRAH",
+    "latitude": 21.3525,
+    "longitude": 39.2457,
+    "code": 851,
+    "city_code": 57
+  },
+  {
+    "name_ar": "السرورية",
+    "name_en": "AL SURURIYAH",
+    "latitude": 21.3913,
+    "longitude": 39.2126,
+    "code": 852,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الرياض",
+    "name_en": "AR RIYADH",
+    "latitude": 21.8598,
+    "longitude": 39.1802,
+    "code": 853,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الحمراء",
+    "name_en": "AL HAMRAH",
+    "latitude": 21.5274,
+    "longitude": 39.1641,
+    "code": 854,
+    "city_code": 57
+  },
+  {
+    "name_ar": "الصفا",
+    "name_en": "AS SAFA",
+    "latitude": 16.8841,
+    "longitude": 42.569,
+    "code": 855,
+    "city_code": 46
+  },
+  {
+    "name_ar": "الزهور",
+    "name_en": "AL ZUHUR",
+    "latitude": 16.9053,
+    "longitude": 42.6286,
+    "code": 856,
+    "city_code": 46
+  },
+  {
+    "name_ar": "النور",
+    "name_en": "AN NUR",
+    "latitude": 16.9456,
+    "longitude": 42.6359,
+    "code": 857,
+    "city_code": 46
+  },
+  {
+    "name_ar": "الشاطئ",
+    "name_en": "ASH SHATI",
+    "latitude": 16.9394,
+    "longitude": 42.555,
+    "code": 858,
+    "city_code": 46
+  },
+  {
+    "name_ar": "الشامية",
+    "name_en": "ASH SHAMIYYAH",
+    "latitude": 16.8945,
+    "longitude": 42.5458,
+    "code": 859,
+    "city_code": 46
+  },
+  {
+    "name_ar": "النسيم",
+    "name_en": "AN NASIM",
+    "latitude": 16.9082,
+    "longitude": 42.5959,
+    "code": 860,
+    "city_code": 46
+  },
+  {
+    "name_ar": "القلعة",
+    "name_en": "AL QALA",
+    "latitude": 16.8827,
+    "longitude": 42.5508,
+    "code": 861,
+    "city_code": 46
+  },
+  {
+    "name_ar": "السويس",
+    "name_en": "AS SUWAYS",
+    "latitude": 16.8643,
+    "longitude": 42.5944,
+    "code": 862,
+    "city_code": 46
+  },
+  {
+    "name_ar": "الجبل",
+    "name_en": "AL JABAL",
+    "latitude": 16.8927,
+    "longitude": 42.5526,
+    "code": 863,
+    "city_code": 46
+  },
+  {
+    "name_ar": "الروابي",
+    "name_en": "AR RAWABI",
+    "latitude": 16.9498,
+    "longitude": 42.5887,
+    "code": 864,
+    "city_code": 46
+  },
+  {
+    "name_ar": "البشائر",
+    "name_en": "AL BASHAIR",
+    "latitude": 16.8628,
+    "longitude": 42.6212,
+    "code": 865,
+    "city_code": 46
+  },
+  {
+    "name_ar": "الروضة",
+    "name_en": "AR RAWDAH",
+    "latitude": 16.9151,
+    "longitude": 42.5778,
+    "code": 866,
+    "city_code": 46
+  },
+  {
+    "name_ar": "الميناء",
+    "name_en": "AL MINA",
+    "latitude": 16.891,
+    "longitude": 42.5368,
+    "code": 867,
+    "city_code": 46
+  },
+  {
+    "name_ar": "الآراك",
+    "name_en": "AL ARAK",
+    "latitude": 16.8674,
+    "longitude": 42.6409,
+    "code": 868,
+    "city_code": 46
+  },
+  {
+    "name_ar": "المنطقة الصناعية",
+    "name_en": "INDUSTRIAL AREA",
+    "latitude": 16.8459,
+    "longitude": 42.6022,
+    "code": 869,
+    "city_code": 46
+  },
+  {
+    "name_ar": "المطار",
+    "name_en": "AL MATAR",
+    "latitude": 16.8978,
+    "longitude": 42.5786,
+    "code": 870,
+    "city_code": 46
+  },
+  {
+    "name_ar": "النقرة",
+    "name_en": "AN NAQRAH",
+    "latitude": 27.4739,
+    "longitude": 41.6594,
+    "code": 871,
+    "city_code": 49
+  },
+  {
+    "name_ar": "النسية",
+    "name_en": "AN NASIYAH",
+    "latitude": 27.6269,
+    "longitude": 41.695,
+    "code": 872,
+    "city_code": 49
+  },
+  {
+    "name_ar": "الوسيطاء",
+    "name_en": "AL WUSAYTA",
+    "latitude": 27.5126,
+    "longitude": 41.6724,
+    "code": 873,
+    "city_code": 49
+  },
+  {
+    "name_ar": "السمراء",
+    "name_en": "AS SAMRA",
+    "latitude": 27.4962,
+    "longitude": 41.7198,
+    "code": 874,
+    "city_code": 49
+  },
+  {
+    "name_ar": "المنطقة الصناعية",
+    "name_en": "INDUSTRIAL AREA",
+    "latitude": 27.486,
+    "longitude": 41.7613,
+    "code": 875,
+    "city_code": 49
+  },
+  {
+    "name_ar": "مطار حائل الاقليمي",
+    "name_en": "HAIL REGIONAL AIRPORT",
+    "latitude": 27.4488,
+    "longitude": 41.683,
+    "code": 876,
+    "city_code": 49
+  },
+  {
+    "name_ar": "حدري البلاد",
+    "name_en": "HADRI AL BILAD",
+    "latitude": 27.547,
+    "longitude": 41.7668,
+    "code": 877,
+    "city_code": 49
+  },
+  {
+    "name_ar": "الخريمي",
+    "name_en": "AL KHURAYMI",
+    "latitude": 27.5173,
+    "longitude": 41.7632,
+    "code": 878,
+    "city_code": 49
+  },
+  {
+    "name_ar": "البحيرة",
+    "name_en": "AL BUHAYRAH",
+    "latitude": 27.4844,
+    "longitude": 41.6993,
+    "code": 879,
+    "city_code": 49
+  },
+  {
+    "name_ar": "الخزامى",
+    "name_en": "AL KHUZAMA",
+    "latitude": 27.5802,
+    "longitude": 41.7201,
+    "code": 880,
+    "city_code": 49
+  },
+  {
+    "name_ar": "الخماشية",
+    "name_en": "AL KHAMASHIYYAH",
+    "latitude": 27.4763,
+    "longitude": 41.7154,
+    "code": 881,
+    "city_code": 49
+  },
+  {
+    "name_ar": "صبابة",
+    "name_en": "SABABAH",
+    "latitude": 27.5218,
+    "longitude": 41.6483,
+    "code": 882,
+    "city_code": 49
+  },
+  {
+    "name_ar": "البدنة",
+    "name_en": "AL BADNAH",
+    "latitude": 27.4655,
+    "longitude": 41.7275,
+    "code": 883,
+    "city_code": 49
+  },
+  {
+    "name_ar": "الزهراء",
+    "name_en": "AZ ZAHRA",
+    "latitude": 27.5608,
+    "longitude": 41.7146,
+    "code": 884,
+    "city_code": 49
+  },
+  {
+    "name_ar": "المطار",
+    "name_en": "AL MATAR",
+    "latitude": 27.498,
+    "longitude": 41.6898,
+    "code": 885,
+    "city_code": 49
+  },
+  {
+    "name_ar": "اجا",
+    "name_en": "AJA",
+    "latitude": 27.5627,
+    "longitude": 41.6867,
+    "code": 886,
+    "city_code": 49
+  },
+  {
+    "name_ar": "المزعبر",
+    "name_en": "AL MUZABAR",
+    "latitude": 27.5324,
+    "longitude": 41.7068,
+    "code": 887,
+    "city_code": 49
+  },
+  {
+    "name_ar": "مغيضة",
+    "name_en": "MUGHAYDAH",
+    "latitude": 27.5277,
+    "longitude": 41.7167,
+    "code": 888,
+    "city_code": 49
+  },
+  {
+    "name_ar": "المنتزه الشرقي",
+    "name_en": "AL MUNTAZAH ASH SHARQI",
+    "latitude": 27.5443,
+    "longitude": 41.7135,
+    "code": 889,
+    "city_code": 49
+  },
+  {
+    "name_ar": "سماح",
+    "name_en": "SAMAH",
+    "latitude": 27.519,
+    "longitude": 41.6991,
+    "code": 890,
+    "city_code": 49
+  },
+  {
+    "name_ar": "المحطة",
+    "name_en": "AL MAHATTAH",
+    "latitude": 27.5173,
+    "longitude": 41.6896,
+    "code": 891,
+    "city_code": 49
+  },
+  {
+    "name_ar": "لبدة",
+    "name_en": "LABDAH",
+    "latitude": 27.5197,
+    "longitude": 41.7081,
+    "code": 892,
+    "city_code": 49
+  },
+  {
+    "name_ar": "الزبارة",
+    "name_en": "AZ ZIBARAH",
+    "latitude": 27.5066,
+    "longitude": 41.7064,
+    "code": 893,
+    "city_code": 49
+  },
+  {
+    "name_ar": "السويفلة",
+    "name_en": "AS SUWAYFILAH",
+    "latitude": 27.5887,
+    "longitude": 41.7735,
+    "code": 894,
+    "city_code": 49
+  },
+  {
+    "name_ar": "المنتزه الغربي",
+    "name_en": "AL MUNTAZAH AL GHARBI",
+    "latitude": 27.547,
+    "longitude": 41.6833,
+    "code": 895,
+    "city_code": 49
+  },
+  {
+    "name_ar": "برزان",
+    "name_en": "BARZAN",
+    "latitude": 27.5258,
+    "longitude": 41.7025,
+    "code": 896,
+    "city_code": 49
+  },
+  {
+    "name_ar": "العزيزية",
+    "name_en": "AL AZIZIYYAH",
+    "latitude": 27.5312,
+    "longitude": 41.6779,
+    "code": 897,
+    "city_code": 49
+  },
+  {
+    "name_ar": "المصيف",
+    "name_en": "AL MASYAF",
+    "latitude": 27.5845,
+    "longitude": 41.6901,
+    "code": 898,
+    "city_code": 49
+  },
+  {
+    "name_ar": "المنتزه",
+    "name_en": "AL MUNTAZAH",
+    "latitude": 18.3035,
+    "longitude": 42.7202,
+    "code": 899,
+    "city_code": 53
+  },
+  {
+    "name_ar": "العرق ال شمالي",
+    "name_en": "AL IRQ ASH SHAMALI",
+    "latitude": 18.311,
+    "longitude": 42.7328,
+    "code": 900,
+    "city_code": 53
+  },
+  {
+    "name_ar": "المعمورة",
+    "name_en": "AL MAMURAH",
+    "latitude": 18.3263,
+    "longitude": 42.7217,
+    "code": 901,
+    "city_code": 53
+  },
+  {
+    "name_ar": "النهضة",
+    "name_en": "AN NAHDAH",
+    "latitude": 18.3244,
+    "longitude": 42.742,
+    "code": 902,
+    "city_code": 53
+  },
+  {
+    "name_ar": "الواحة",
+    "name_en": "AL WAHAH",
+    "latitude": 18.3321,
+    "longitude": 42.6972,
+    "code": 903,
+    "city_code": 53
+  },
+  {
+    "name_ar": "طيب الإسم",
+    "name_en": "TAYYIB AL ISM",
+    "latitude": 18.3163,
+    "longitude": 42.7031,
+    "code": 904,
+    "city_code": 53
+  },
+  {
+    "name_ar": "شباعة",
+    "name_en": "SHUBAAH",
+    "latitude": 18.319,
+    "longitude": 42.7251,
+    "code": 905,
+    "city_code": 53
+  },
+  {
+    "name_ar": "قمبر",
+    "name_en": "QAMBAR",
+    "latitude": 18.3102,
+    "longitude": 42.725,
+    "code": 906,
+    "city_code": 53
+  },
+  {
+    "name_ar": "الفتح",
+    "name_en": "AL FATH",
+    "latitude": 18.3224,
+    "longitude": 42.7375,
+    "code": 907,
+    "city_code": 53
+  },
+  {
+    "name_ar": "البوادي",
+    "name_en": "AL BAWADI",
+    "latitude": 18.3017,
+    "longitude": 42.7548,
+    "code": 908,
+    "city_code": 53
+  },
+  {
+    "name_ar": "الدوحة",
+    "name_en": "AD DAWHAH",
+    "latitude": 18.3121,
+    "longitude": 42.7406,
+    "code": 909,
+    "city_code": 53
+  },
+  {
+    "name_ar": "العزيزية",
+    "name_en": "AL AZIZIYAH",
+    "latitude": 18.3122,
+    "longitude": 42.7503,
+    "code": 910,
+    "city_code": 53
+  },
+  {
+    "name_ar": "الخالدية",
+    "name_en": "AL KHALDIYAH",
+    "latitude": 18.3031,
+    "longitude": 42.7269,
+    "code": 911,
+    "city_code": 53
+  },
+  {
+    "name_ar": "الربيع",
+    "name_en": "AR RABI",
+    "latitude": 18.3131,
+    "longitude": 42.6898,
+    "code": 912,
+    "city_code": 53
+  },
+  {
+    "name_ar": "القافلة",
+    "name_en": "ALQAFILAH",
+    "latitude": 18.3148,
+    "longitude": 42.6956,
+    "code": 913,
+    "city_code": 53
+  },
+  {
+    "name_ar": "عتود",
+    "name_en": "ATUD",
+    "latitude": 18.3028,
+    "longitude": 42.7098,
+    "code": 914,
+    "city_code": 53
+  },
+  {
+    "name_ar": "الصقور",
+    "name_en": "AS SUQUR",
+    "latitude": 18.3029,
+    "longitude": 42.763,
+    "code": 915,
+    "city_code": 53
+  },
+  {
+    "name_ar": "ضمك",
+    "name_en": "DAMAK",
+    "latitude": 18.2888,
+    "longitude": 42.728,
+    "code": 916,
+    "city_code": 53
+  },
+  {
+    "name_ar": "الزهور",
+    "name_en": "AZ ZUHUR",
+    "latitude": 18.2943,
+    "longitude": 42.7368,
+    "code": 917,
+    "city_code": 53
+  },
+  {
+    "name_ar": "أم سرور",
+    "name_en": "UMM SARAR",
+    "latitude": 18.2962,
+    "longitude": 42.7427,
+    "code": 918,
+    "city_code": 53
+  },
+  {
+    "name_ar": "السلام",
+    "name_en": "AS SALAM",
+    "latitude": 18.3074,
+    "longitude": 42.7246,
+    "code": 919,
+    "city_code": 53
+  },
+  {
+    "name_ar": "العرق الجنوبي",
+    "name_en": "AL IRQ AL JANUBI",
+    "latitude": 18.3044,
+    "longitude": 42.734,
+    "code": 920,
+    "city_code": 53
+  },
+  {
+    "name_ar": "الخزان",
+    "name_en": "AL KHAZZAN",
+    "latitude": 18.2968,
+    "longitude": 42.7234,
+    "code": 921,
+    "city_code": 53
+  },
+  {
+    "name_ar": "المعزاب",
+    "name_en": "AL MIZAB",
+    "latitude": 18.3116,
+    "longitude": 42.7117,
+    "code": 922,
+    "city_code": 53
+  },
+  {
+    "name_ar": "النسيم",
+    "name_en": "AN NASIM",
+    "latitude": 18.292,
+    "longitude": 42.7604,
+    "code": 923,
+    "city_code": 53
+  },
+  {
+    "name_ar": "المثناة",
+    "name_en": "AL MATHNAH",
+    "latitude": 18.2922,
+    "longitude": 42.7326,
+    "code": 924,
+    "city_code": 53
+  },
+  {
+    "name_ar": "آل هميلة",
+    "name_en": "AL HUMAYLAH",
+    "latitude": 18.3082,
+    "longitude": 42.7167,
+    "code": 925,
+    "city_code": 53
+  },
+  {
+    "name_ar": "الشرفية",
+    "name_en": "ASH SHARAFIYAH",
+    "latitude": 18.3055,
+    "longitude": 42.7439,
+    "code": 926,
+    "city_code": 53
+  },
+  {
+    "name_ar": "النخيل",
+    "name_en": "AN NAKHIL",
+    "latitude": 18.2988,
+    "longitude": 42.7489,
+    "code": 927,
+    "city_code": 53
+  },
+  {
+    "name_ar": "الروضة",
+    "name_en": "AL RAWDAH",
+    "latitude": 18.2971,
+    "longitude": 42.7283,
+    "code": 928,
+    "city_code": 53
+  },
+  {
+    "name_ar": "السد",
+    "name_en": "AS SADD",
+    "latitude": 18.2914,
+    "longitude": 42.7162,
+    "code": 929,
+    "city_code": 53
+  },
+  {
+    "name_ar": "شكر",
+    "name_en": "SHAKAR",
+    "latitude": 18.2886,
+    "longitude": 42.7488,
+    "code": 930,
+    "city_code": 53
+  },
+  {
+    "name_ar": "النزهة",
+    "name_en": "AN NUZHAH",
+    "latitude": 18.2784,
+    "longitude": 42.7371,
+    "code": 931,
+    "city_code": 53
+  },
+  {
+    "name_ar": "الجزيرة",
+    "name_en": "AL JAZIRAH",
+    "latitude": 18.3142,
+    "longitude": 42.7203,
+    "code": 932,
+    "city_code": 53
+  },
+  {
+    "name_ar": "جنوب غرب قارا",
+    "name_en": "SOUTHWESTERN QARA",
+    "latitude": 29.8698,
+    "longitude": 40.2142,
+    "code": 933,
+    "city_code": 6
+  },
+  {
+    "name_ar": "اللقائط",
+    "name_en": "AL LAQAIT",
+    "latitude": 29.994,
+    "longitude": 40.2457,
+    "code": 934,
+    "city_code": 6
+  },
+  {
+    "name_ar": "مخطط الصناعية",
+    "name_en": "AS SINAIYAH SUBDIVISION",
+    "latitude": 29.9645,
+    "longitude": 40.2175,
+    "code": 935,
+    "city_code": 6
+  },
+  {
+    "name_ar": "مخطط العروبة",
+    "name_en": "AL URUBAH SUBDIVISION",
+    "latitude": 30.0082,
+    "longitude": 40.211,
+    "code": 936,
+    "city_code": 6
+  },
+  {
+    "name_ar": "الضلع",
+    "name_en": "AL DIL",
+    "latitude": 29.9899,
+    "longitude": 40.2053,
+    "code": 937,
+    "city_code": 6
+  },
+  {
+    "name_ar": "الشعيب",
+    "name_en": "ASH SHUAIB",
+    "latitude": 29.9878,
+    "longitude": 40.2179,
+    "code": 938,
+    "city_code": 6
+  },
+  {
+    "name_ar": "الطوير",
+    "name_en": "AT TUWAIR",
+    "latitude": 29.9135,
+    "longitude": 40.1969,
+    "code": 939,
+    "city_code": 6
+  },
+  {
+    "name_ar": "مخطط المنح الخاصة",
+    "name_en": "AL MINAH",
+    "latitude": 29.8619,
+    "longitude": 40.219,
+    "code": 940,
+    "city_code": 6
+  },
+  {
+    "name_ar": "قارا",
+    "name_en": "QARA",
+    "latitude": 29.8787,
+    "longitude": 40.2267,
+    "code": 941,
+    "city_code": 6
+  },
+  {
+    "name_ar": "شمال قارا",
+    "name_en": "NORTH QARA",
+    "latitude": 29.8924,
+    "longitude": 40.22,
+    "code": 942,
+    "city_code": 6
+  },
+  {
+    "name_ar": "المحمدية ه",
+    "name_en": "AL MUHAMMADIYAH (E)",
+    "latitude": 29.9346,
+    "longitude": 40.2075,
+    "code": 943,
+    "city_code": 6
+  },
+  {
+    "name_ar": "شمال مقبرة اللقائط",
+    "name_en": "NORTH OF AL LAQAIT CEMETERY",
+    "latitude": 29.9928,
+    "longitude": 40.227,
+    "code": 944,
+    "city_code": 6
+  },
+  {
+    "name_ar": "الروابي",
+    "name_en": "AR RAWABI",
+    "latitude": 29.9804,
+    "longitude": 40.2551,
+    "code": 945,
+    "city_code": 6
+  },
+  {
+    "name_ar": "مخطط كساب المويشير",
+    "name_en": "KASSAB AL MUWAYSHIR",
+    "latitude": 29.9703,
+    "longitude": 40.182,
+    "code": 946,
+    "city_code": 6
+  },
+  {
+    "name_ar": "مخطط السليمانية",
+    "name_en": "AS SULAIMANIYYAH",
+    "latitude": 29.9819,
+    "longitude": 40.1873,
+    "code": 947,
+    "city_code": 6
+  },
+  {
+    "name_ar": "السوق",
+    "name_en": "AS SUQ",
+    "latitude": 29.9856,
+    "longitude": 40.212,
+    "code": 948,
+    "city_code": 6
+  },
+  {
+    "name_ar": "المطر",
+    "name_en": "AL MATR",
+    "latitude": 29.9749,
+    "longitude": 40.2096,
+    "code": 949,
+    "city_code": 6
+  },
+  {
+    "name_ar": "الشلهوب",
+    "name_en": "ASH SHALHUB",
+    "latitude": 29.9655,
+    "longitude": 40.208,
+    "code": 950,
+    "city_code": 6
+  },
+  {
+    "name_ar": "مخطط نيف الدرزي",
+    "name_en": "NAYF DURZI",
+    "latitude": 29.8609,
+    "longitude": 40.2097,
+    "code": 951,
+    "city_code": 6
+  },
+  {
+    "name_ar": "المحمدية د",
+    "name_en": "AL MUHAMMADIYAH (D)",
+    "latitude": 29.9481,
+    "longitude": 40.2108,
+    "code": 952,
+    "city_code": 6
+  },
+  {
+    "name_ar": "مخطط الصديق",
+    "name_en": "AS SIDDIQ SUBDIVSION",
+    "latitude": 29.9746,
+    "longitude": 40.2303,
+    "code": 953,
+    "city_code": 6
+  },
+  {
+    "name_ar": "المحمدية ب",
+    "name_en": "AL MUHAMMADIYAH (B)",
+    "latitude": 29.9478,
+    "longitude": 40.1991,
+    "code": 954,
+    "city_code": 6
+  },
+  {
+    "name_ar": "المعاقلة",
+    "name_en": "AL MUAQILAH",
+    "latitude": 29.9813,
+    "longitude": 40.1996,
+    "code": 955,
+    "city_code": 6
+  },
+  {
+    "name_ar": "المطار",
+    "name_en": "Airport",
+    "latitude": 29.782,
+    "longitude": 40.0924,
+    "code": 956,
+    "city_code": 6
+  },
+  {
+    "name_ar": "مخطط كريم الدرزي",
+    "name_en": "KARIM DURZI SUBDIVSION",
+    "latitude": 29.8501,
+    "longitude": 40.1925,
+    "code": 957,
+    "city_code": 6
+  },
+  {
+    "name_ar": "الربوة",
+    "name_en": "AR RABWAH",
+    "latitude": 29.9499,
+    "longitude": 40.1754,
+    "code": 958,
+    "city_code": 6
+  },
+  {
+    "name_ar": "المحمدية أ",
+    "name_en": "AL MUHAMMADIYAH (A)",
+    "latitude": 29.9539,
+    "longitude": 40.2023,
+    "code": 959,
+    "city_code": 6
+  },
+  {
+    "name_ar": "العزيزية",
+    "name_en": "AL AZIZIYYAH",
+    "latitude": 29.9535,
+    "longitude": 40.1849,
+    "code": 960,
+    "city_code": 6
+  },
+  {
+    "name_ar": "مخطط غرب الاقليمي",
+    "name_en": "WEST REGIONAL ROAD SUBDIVISION",
+    "latitude": 30.0005,
+    "longitude": 40.2171,
+    "code": 961,
+    "city_code": 6
+  },
+  {
+    "name_ar": "المنح الخاصة",
+    "name_en": "AL MINAH AL KHASSAH",
+    "latitude": 29.9435,
+    "longitude": 40.1893,
+    "code": 962,
+    "city_code": 6
+  },
+  {
+    "name_ar": "مخطط القديم",
+    "name_en": "OLD SUBDIVISION",
+    "latitude": 29.9646,
+    "longitude": 40.1959,
+    "code": 963,
+    "city_code": 6
+  },
+  {
+    "name_ar": "المروج",
+    "name_en": "AL MURUJ",
+    "latitude": 29.9782,
+    "longitude": 40.2428,
+    "code": 964,
+    "city_code": 6
+  },
+  {
+    "name_ar": "الروضة",
+    "name_en": "AR RAWDAH",
+    "latitude": 29.9865,
+    "longitude": 40.2533,
+    "code": 965,
+    "city_code": 6
+  },
+  {
+    "name_ar": "مخطط الزهور",
+    "name_en": "AZ ZUHUR SUBDIVISION",
+    "latitude": 29.9215,
+    "longitude": 40.2061,
+    "code": 966,
+    "city_code": 6
+  },
+  {
+    "name_ar": "مخطط الفيصلي",
+    "name_en": "AL FAISALIYYAH SUBDIVISION",
+    "latitude": 29.9286,
+    "longitude": 40.1819,
+    "code": 967,
+    "city_code": 6
+  },
+  {
+    "name_ar": "المحمدية و",
+    "name_en": "AL MUHAMMADIYAH (F)",
+    "latitude": 29.939,
+    "longitude": 40.196,
+    "code": 968,
+    "city_code": 6
+  },
+  {
+    "name_ar": "مخطط الامل",
+    "name_en": "AL AMAL SUBDIVSION",
+    "latitude": 29.8885,
+    "longitude": 40.2126,
+    "code": 969,
+    "city_code": 6
+  },
+  {
+    "name_ar": "المحمدية ن",
+    "name_en": "AL MUHAMMADIYAH (H)",
+    "latitude": 29.9315,
+    "longitude": 40.192,
+    "code": 970,
+    "city_code": 6
+  },
+  {
+    "name_ar": "المحمدية م",
+    "name_en": "AL MUHAMMADIYAH (G)",
+    "latitude": 29.9271,
+    "longitude": 40.1981,
+    "code": 971,
+    "city_code": 6
+  },
+  {
+    "name_ar": "ام الحمام",
+    "name_en": "UMM AL HAMAM",
+    "latitude": 26.5219,
+    "longitude": 50.0003,
+    "code": 972,
+    "city_code": 38
+  },
+  {
+    "name_ar": "التقوى",
+    "name_en": "AL TAQWA",
+    "latitude": 26.5237,
+    "longitude": 50.0264,
+    "code": 973,
+    "city_code": 38
+  },
+  {
+    "name_ar": "الزهور",
+    "name_en": "AZ ZUHUR",
+    "latitude": 26.4706,
+    "longitude": 50.035,
+    "code": 974,
+    "city_code": 38
+  },
+  {
+    "name_ar": "الدانة",
+    "name_en": "AD DANAH",
+    "latitude": 26.4757,
+    "longitude": 50.0389,
+    "code": 975,
+    "city_code": 38
+  },
+  {
+    "name_ar": "السيف",
+    "name_en": "AS SAYF",
+    "latitude": 26.4792,
+    "longitude": 50.0601,
+    "code": 976,
+    "city_code": 38
+  },
+  {
+    "name_ar": "الفردوس",
+    "name_en": "AL FIRDAWS",
+    "latitude": 26.4753,
+    "longitude": 50.0454,
+    "code": 977,
+    "city_code": 38
+  },
+  {
+    "name_ar": "الغدير",
+    "name_en": "AL GHADIR",
+    "latitude": 26.5058,
+    "longitude": 50.0394,
+    "code": 978,
+    "city_code": 38
+  },
+  {
+    "name_ar": "النزهة",
+    "name_en": "AN NUZHAH",
+    "latitude": 26.4938,
+    "longitude": 50.0297,
+    "code": 979,
+    "city_code": 38
+  },
+  {
+    "name_ar": "الامل",
+    "name_en": "AL AMAL",
+    "latitude": 26.4914,
+    "longitude": 50.0512,
+    "code": 980,
+    "city_code": 38
+  },
+  {
+    "name_ar": "النهضة",
+    "name_en": "AN NAHDAH",
+    "latitude": 26.4755,
+    "longitude": 50.0515,
+    "code": 981,
+    "city_code": 38
+  },
+  {
+    "name_ar": "النور",
+    "name_en": "AN NUR",
+    "latitude": 26.4878,
+    "longitude": 50.0388,
+    "code": 982,
+    "city_code": 38
+  },
+  {
+    "name_ar": "البستان",
+    "name_en": "AL BUSTAN",
+    "latitude": 26.5226,
+    "longitude": 50.022,
+    "code": 983,
+    "city_code": 38
+  },
+  {
+    "name_ar": "النورس",
+    "name_en": "AN NAWRAS",
+    "latitude": 26.4681,
+    "longitude": 50.028,
+    "code": 984,
+    "city_code": 38
+  },
+  {
+    "name_ar": "غرناطة",
+    "name_en": "GHIRNATAH",
+    "latitude": 26.463,
+    "longitude": 50.0335,
+    "code": 985,
+    "city_code": 38
+  },
+  {
+    "name_ar": "السلام",
+    "name_en": "AS SALAM",
+    "latitude": 26.4685,
+    "longitude": 50.0424,
+    "code": 986,
+    "city_code": 38
+  },
+  {
+    "name_ar": "الشوق",
+    "name_en": "ASH SHAWQ",
+    "latitude": 26.4886,
+    "longitude": 50.0445,
+    "code": 987,
+    "city_code": 38
+  },
+  {
+    "name_ar": "القرطبة",
+    "name_en": "QURTUBAH",
+    "latitude": 26.5012,
+    "longitude": 50.0352,
+    "code": 988,
+    "city_code": 38
+  },
+  {
+    "name_ar": "الديرة",
+    "name_en": "AD DIRAH",
+    "latitude": 26.4826,
+    "longitude": 50.0366,
+    "code": 989,
+    "city_code": 38
+  },
+  {
+    "name_ar": "احد",
+    "name_en": "UHUD",
+    "latitude": 26.5114,
+    "longitude": 50.0309,
+    "code": 990,
+    "city_code": 38
+  },
+  {
+    "name_ar": "البحر",
+    "name_en": "AL BAHR",
+    "latitude": 26.5258,
+    "longitude": 50.0301,
+    "code": 991,
+    "city_code": 38
+  },
+  {
+    "name_ar": "الاسكان",
+    "name_en": "AL ISKAN",
+    "latitude": 26.5196,
+    "longitude": 49.9761,
+    "code": 992,
+    "city_code": 38
+  },
+  {
+    "name_ar": "النرجس",
+    "name_en": "AN NARJIS",
+    "latitude": 26.5162,
+    "longitude": 50.0287,
+    "code": 993,
+    "city_code": 38
+  },
+  {
+    "name_ar": "النابية",
+    "name_en": "AN NABIYAH",
+    "latitude": 26.4757,
+    "longitude": 50.0064,
+    "code": 994,
+    "city_code": 38
+  },
+  {
+    "name_ar": "الانوار",
+    "name_en": "AL ANWAR",
+    "latitude": 26.528,
+    "longitude": 50.0141,
+    "code": 995,
+    "city_code": 38
+  },
+  {
+    "name_ar": "الملاحة",
+    "name_en": "AL MALLAHAH",
+    "latitude": 26.512,
+    "longitude": 50.0023,
+    "code": 996,
+    "city_code": 38
+  },
+  {
+    "name_ar": "الجش",
+    "name_en": "AL JISH",
+    "latitude": 26.5142,
+    "longitude": 49.9907,
+    "code": 997,
+    "city_code": 38
+  },
+  {
+    "name_ar": "الربوة",
+    "name_en": "AL RABWAH",
+    "latitude": 26.6572,
+    "longitude": 49.9586,
+    "code": 998,
+    "city_code": 39
+  },
+  {
+    "name_ar": "منطقة ام الساهك",
+    "name_en": "UMM AS SAHIK AREA",
+    "latitude": 26.6521,
+    "longitude": 49.9198,
+    "code": 999,
+    "city_code": 39
+  },
+  {
+    "name_ar": "العروبه",
+    "name_en": "AL URUBAH",
+    "latitude": 26.6467,
+    "longitude": 49.9473,
+    "code": 1000,
+    "city_code": 39
+  },
+  {
+    "name_ar": "المروة",
+    "name_en": "AL MARWAH",
+    "latitude": 26.6492,
+    "longitude": 49.9611,
+    "code": 1001,
+    "city_code": 39
+  },
+  {
+    "name_ar": "العمل",
+    "name_en": "AL AMAL",
+    "latitude": 26.6391,
+    "longitude": 49.9579,
+    "code": 1002,
+    "city_code": 39
+  },
+  {
+    "name_ar": "المنار",
+    "name_en": "AL MANAR",
+    "latitude": 26.6618,
+    "longitude": 49.9504,
+    "code": 1003,
+    "city_code": 39
+  },
+  {
+    "name_ar": " منطقة الدريدي",
+    "name_en": "AD DURAYDI AREA",
+    "latitude": 26.6579,
+    "longitude": 49.8981,
+    "code": 1004,
+    "city_code": 39
+  },
+  {
+    "name_ar": "الحزم",
+    "name_en": "AL HAZM",
+    "latitude": 26.6508,
+    "longitude": 49.9533,
+    "code": 1005,
+    "city_code": 39
+  },
+  {
+    "name_ar": "الصفاء",
+    "name_en": "AS SAFAA",
+    "latitude": 26.6421,
+    "longitude": 49.9603,
+    "code": 1006,
+    "city_code": 39
+  },
+  {
+    "name_ar": "منطقة حزم ام الساهك",
+    "name_en": "HAZM UMM AS SAHIK AREA",
+    "latitude": 26.6379,
+    "longitude": 49.9143,
+    "code": 1007,
+    "city_code": 39
+  },
+  {
+    "name_ar": "العزيزية",
+    "name_en": "AL AZIZIYAH",
+    "latitude": 30.9918,
+    "longitude": 41.0196,
+    "code": 1008,
+    "city_code": 8
+  },
+  {
+    "name_ar": "الناصرية",
+    "name_en": "AN NASRIYAH",
+    "latitude": 30.9644,
+    "longitude": 41.0379,
+    "code": 1009,
+    "city_code": 8
+  },
+  {
+    "name_ar": "الريان",
+    "name_en": "AR RAYYAN",
+    "latitude": 30.9754,
+    "longitude": 41.0315,
+    "code": 1010,
+    "city_code": 8
+  },
+  {
+    "name_ar": "المنطقة الصناعية",
+    "name_en": "INDUSTRIAL AREA",
+    "latitude": 30.9683,
+    "longitude": 41.0241,
+    "code": 1011,
+    "city_code": 8
+  },
+  {
+    "name_ar": "المحمدية",
+    "name_en": "AL MUHAMMADIYAH",
+    "latitude": 30.9894,
+    "longitude": 41.0293,
+    "code": 1012,
+    "city_code": 8
+  },
+  {
+    "name_ar": "بدنة",
+    "name_en": "BADANAH",
+    "latitude": 30.9933,
+    "longitude": 41.0039,
+    "code": 1013,
+    "city_code": 8
+  },
+  {
+    "name_ar": "الصالحية",
+    "name_en": "AS SALIHIYAH",
+    "latitude": 30.9786,
+    "longitude": 41.0489,
+    "code": 1014,
+    "city_code": 8
+  },
+  {
+    "name_ar": "الربوه",
+    "name_en": "AR RABWAH",
+    "latitude": 31.0023,
+    "longitude": 41.047,
+    "code": 1015,
+    "city_code": 8
+  },
+  {
+    "name_ar": "مشرف",
+    "name_en": "MUSHRIF",
+    "latitude": 30.9663,
+    "longitude": 41.0054,
+    "code": 1016,
+    "city_code": 8
+  },
+  {
+    "name_ar": "المساعدية",
+    "name_en": "AL MISADIYAH",
+    "latitude": 30.9723,
+    "longitude": 41.0102,
+    "code": 1017,
+    "city_code": 8
+  },
+  {
+    "name_ar": "الروضة",
+    "name_en": "AR RAWDAH",
+    "latitude": 30.9783,
+    "longitude": 41.0222,
+    "code": 1018,
+    "city_code": 8
+  },
+  {
+    "name_ar": "المطار",
+    "name_en": "AL MATAR",
+    "latitude": 30.9832,
+    "longitude": 40.993,
+    "code": 1019,
+    "city_code": 8
+  },
+  {
+    "name_ar": "الخالدية",
+    "name_en": "AL KHALIDIYAH",
+    "latitude": 30.9815,
+    "longitude": 41.0131,
+    "code": 1020,
+    "city_code": 8
+  },
+  {
+    "name_ar": "الفيصلية",
+    "name_en": "AL FAYSALIYAH",
+    "latitude": 30.984,
+    "longitude": 41.038,
+    "code": 1021,
+    "city_code": 8
+  },
+  {
+    "name_ar": "الخالدية",
+    "name_en": "AL KHALIDIYYAH",
+    "latitude": 26.0568,
+    "longitude": 43.9884,
+    "code": 1022,
+    "city_code": 20
+  },
+  {
+    "name_ar": "هلالة",
+    "name_en": "HILALAH",
+    "latitude": 26.1086,
+    "longitude": 43.9799,
+    "code": 1023,
+    "city_code": 20
+  },
+  {
+    "name_ar": "الشريمية",
+    "name_en": "ASH SHURAYMIYYAH",
+    "latitude": 26.0965,
+    "longitude": 43.9788,
+    "code": 1024,
+    "city_code": 20
+  },
+  {
+    "name_ar": "المطار",
+    "name_en": "AL MATAR",
+    "latitude": 26.0787,
+    "longitude": 43.9969,
+    "code": 1025,
+    "city_code": 20
+  },
+  {
+    "name_ar": "الروضة",
+    "name_en": "AR RAWDAH",
+    "latitude": 26.0432,
+    "longitude": 43.9981,
+    "code": 1026,
+    "city_code": 20
+  },
+  {
+    "name_ar": "الفاخرية",
+    "name_en": "AL FAKHRIYYAH",
+    "latitude": 26.0693,
+    "longitude": 43.9807,
+    "code": 1027,
+    "city_code": 20
+  },
+  {
+    "name_ar": "النزهة",
+    "name_en": "AN NUZHAH",
+    "latitude": 26.0683,
+    "longitude": 43.993,
+    "code": 1028,
+    "city_code": 20
+  },
+  {
+    "name_ar": "السحيمية",
+    "name_en": "AS SUHAYMIYYAH",
+    "latitude": 26.0723,
+    "longitude": 43.9634,
+    "code": 1029,
+    "city_code": 20
+  },
+  {
+    "name_ar": "الملك خالد",
+    "name_en": "KING KHALID DIST.",
+    "latitude": 26.0873,
+    "longitude": 44.0399,
+    "code": 1030,
+    "city_code": 20
+  },
+  {
+    "name_ar": "الفيحاء",
+    "name_en": "AL FAYHA",
+    "latitude": 26.0487,
+    "longitude": 43.9866,
+    "code": 1031,
+    "city_code": 20
+  },
+  {
+    "name_ar": "القدس",
+    "name_en": "AL QUDS",
+    "latitude": 26.0703,
+    "longitude": 43.9704,
+    "code": 1032,
+    "city_code": 20
+  },
+  {
+    "name_ar": "العليا",
+    "name_en": "AL ULAYA",
+    "latitude": 26.1124,
+    "longitude": 43.963,
+    "code": 1033,
+    "city_code": 20
+  },
+  {
+    "name_ar": "الفيضة",
+    "name_en": "AL FAYDAH",
+    "latitude": 26.0799,
+    "longitude": 43.9854,
+    "code": 1034,
+    "city_code": 20
+  },
+  {
+    "name_ar": "الهداء",
+    "name_en": "AL HADA",
+    "latitude": 26.0988,
+    "longitude": 43.9952,
+    "code": 1035,
+    "city_code": 20
+  },
+  {
+    "name_ar": "الضليعة",
+    "name_en": "AD DULAYAH",
+    "latitude": 26.0886,
+    "longitude": 43.978,
+    "code": 1036,
+    "city_code": 20
+  },
+  {
+    "name_ar": "الحفيرة",
+    "name_en": "AL HUFAYRAH",
+    "latitude": 26.0731,
+    "longitude": 43.9246,
+    "code": 1037,
+    "city_code": 20
+  },
+  {
+    "name_ar": "الصالحية",
+    "name_en": "AS SALIHIYYAH",
+    "latitude": 26.0995,
+    "longitude": 43.9887,
+    "code": 1038,
+    "city_code": 20
+  },
+  {
+    "name_ar": "الشرقية",
+    "name_en": "ASH SHARQIYYAH",
+    "latitude": 26.1043,
+    "longitude": 44.0173,
+    "code": 1039,
+    "city_code": 20
+  },
+  {
+    "name_ar": "المروج",
+    "name_en": "AL MURUJ",
+    "latitude": 26.1226,
+    "longitude": 44.0162,
+    "code": 1040,
+    "city_code": 20
+  },
+  {
+    "name_ar": "الوهلان",
+    "name_en": "AL WAHLAN",
+    "latitude": 26.0961,
+    "longitude": 43.923,
+    "code": 1041,
+    "city_code": 20
+  },
+  {
+    "name_ar": "البديعة",
+    "name_en": "AL BADIAH",
+    "latitude": 26.0814,
+    "longitude": 43.9734,
+    "code": 1042,
+    "city_code": 20
+  },
+  {
+    "name_ar": "السلام",
+    "name_en": "AS SALAM",
+    "latitude": 26.0788,
+    "longitude": 43.9507,
+    "code": 1043,
+    "city_code": 20
+  },
+  {
+    "name_ar": "المنطقة الصناعية",
+    "name_en": "INDUSTRIAL AREA",
+    "latitude": 26.0787,
+    "longitude": 44.0254,
+    "code": 1044,
+    "city_code": 20
+  },
+  {
+    "name_ar": "المنار",
+    "name_en": "AL MANAR",
+    "latitude": 26.0879,
+    "longitude": 44.0237,
+    "code": 1045,
+    "city_code": 20
+  },
+  {
+    "name_ar": "الريان",
+    "name_en": "AR RAYAN",
+    "latitude": 26.0808,
+    "longitude": 43.9776,
+    "code": 1046,
+    "city_code": 20
+  },
+  {
+    "name_ar": "مليحة",
+    "name_en": "MLILIHAH",
+    "latitude": 26.0914,
+    "longitude": 43.9506,
+    "code": 1047,
+    "city_code": 20
+  },
+  {
+    "name_ar": "الروابي",
+    "name_en": "AR RAWABI",
+    "latitude": 26.1275,
+    "longitude": 43.9636,
+    "code": 1048,
+    "city_code": 20
+  },
+  {
+    "name_ar": "قرية الروغاني",
+    "name_en": "QARYAT AR RAWGHANI",
+    "latitude": 26.131,
+    "longitude": 43.9772,
+    "code": 1049,
+    "city_code": 20
+  },
+  {
+    "name_ar": "غرب الديرة",
+    "name_en": "GHARB AD DIRAH",
+    "latitude": 26.0955,
+    "longitude": 43.9644,
+    "code": 1050,
+    "city_code": 20
+  },
+  {
+    "name_ar": "الملك فهد",
+    "name_en": "KING FAHD DIST.",
+    "latitude": 26.1074,
+    "longitude": 44.039,
+    "code": 1051,
+    "city_code": 20
+  },
+  {
+    "name_ar": "العونية",
+    "name_en": "AL AWNIYYAH",
+    "latitude": 26.0855,
+    "longitude": 43.93,
+    "code": 1052,
+    "city_code": 20
+  },
+  {
+    "name_ar": "السليمانية",
+    "name_en": "AS SULAYMANIYYAH",
+    "latitude": 26.0875,
+    "longitude": 44.0089,
+    "code": 1053,
+    "city_code": 20
+  },
+  {
+    "name_ar": "شيخة",
+    "name_en": "SHIKHAH",
+    "latitude": 26.0877,
+    "longitude": 43.9941,
+    "code": 1054,
+    "city_code": 20
+  },
+  {
+    "name_ar": "المزادة",
+    "name_en": "AL MAZADAH",
+    "latitude": 26.0816,
+    "longitude": 43.9657,
+    "code": 1055,
+    "city_code": 20
+  },
+  {
+    "name_ar": "الشفاء",
+    "name_en": "ASH SHIFA",
+    "latitude": 26.0795,
+    "longitude": 44.0039,
+    "code": 1056,
+    "city_code": 20
+  },
+  {
+    "name_ar": "الوسطى",
+    "name_en": "AL WUSTA",
+    "latitude": 26.0775,
+    "longitude": 44.0133,
+    "code": 1057,
+    "city_code": 20
+  },
+  {
+    "name_ar": "سلطانة",
+    "name_en": "SULTANAH",
+    "latitude": 26.1121,
+    "longitude": 43.9911,
+    "code": 1058,
+    "city_code": 20
+  },
+  {
+    "name_ar": "الاشرفية",
+    "name_en": "AL ASHRAFIYYAH",
+    "latitude": 26.0994,
+    "longitude": 44.0047,
+    "code": 1059,
+    "city_code": 20
+  },
+  {
+    "name_ar": "القادسية",
+    "name_en": "AL QADSIYYAH",
+    "latitude": 26.1113,
+    "longitude": 44.0038,
+    "code": 1060,
+    "city_code": 20
+  },
+  {
+    "name_ar": "مشرف",
+    "name_en": "MISHRIF",
+    "latitude": 26.117,
+    "longitude": 43.9767,
+    "code": 1061,
+    "city_code": 20
+  },
+  {
+    "name_ar": "الخضراء",
+    "name_en": "AL KHADRA",
+    "latitude": 21.4409,
+    "longitude": 39.9509,
+    "code": 1062,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الشبيكة",
+    "name_en": "ASH SHUBAIKAH",
+    "latitude": 21.4178,
+    "longitude": 39.8198,
+    "code": 1063,
+    "city_code": 58
+  },
+  {
+    "name_ar": "أجياد",
+    "name_en": "AJYAD",
+    "latitude": 21.418,
+    "longitude": 39.8316,
+    "code": 1064,
+    "city_code": 58
+  },
+  {
+    "name_ar": "العكيشية",
+    "name_en": "AL UKAYSHIYYAH",
+    "latitude": 21.2998,
+    "longitude": 39.8573,
+    "code": 1065,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الهجلة",
+    "name_en": "AL HAJLAH",
+    "latitude": 21.4158,
+    "longitude": 39.8249,
+    "code": 1066,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الزهراء",
+    "name_en": "AZ ZAHRA",
+    "latitude": 21.4295,
+    "longitude": 39.7977,
+    "code": 1067,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الضيافة",
+    "name_en": "AD DIYAFAH",
+    "latitude": 21.4371,
+    "longitude": 39.7998,
+    "code": 1068,
+    "city_code": 58
+  },
+  {
+    "name_ar": "العتيبية",
+    "name_en": "AL UTAYBIYYAH",
+    "latitude": 21.4519,
+    "longitude": 39.8174,
+    "code": 1069,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الراشدية",
+    "name_en": "AR RASHIDIYYAH",
+    "latitude": 21.4398,
+    "longitude": 40.007,
+    "code": 1070,
+    "city_code": 58
+  },
+  {
+    "name_ar": "البيبان",
+    "name_en": "AL BIBYAN",
+    "latitude": 21.4368,
+    "longitude": 39.8078,
+    "code": 1071,
+    "city_code": 58
+  },
+  {
+    "name_ar": "كدي",
+    "name_en": "KUDY",
+    "latitude": 21.3979,
+    "longitude": 39.8406,
+    "code": 1072,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الجميزة",
+    "name_en": "AL JUMMAYZAH",
+    "latitude": 21.4385,
+    "longitude": 39.8337,
+    "code": 1073,
+    "city_code": 58
+  },
+  {
+    "name_ar": "ريع زاخر",
+    "name_en": "RAY ZAKHIR",
+    "latitude": 21.4601,
+    "longitude": 39.8377,
+    "code": 1074,
+    "city_code": 58
+  },
+  {
+    "name_ar": "جبل النور",
+    "name_en": "JABAL AN NUR",
+    "latitude": 21.4597,
+    "longitude": 39.8692,
+    "code": 1075,
+    "city_code": 58
+  },
+  {
+    "name_ar": "المعابده",
+    "name_en": "AL MAABDAH",
+    "latitude": 21.4356,
+    "longitude": 39.8463,
+    "code": 1076,
+    "city_code": 58
+  },
+  {
+    "name_ar": "السليمانية",
+    "name_en": "AS SULAYMANIYYAH",
+    "latitude": 21.4322,
+    "longitude": 39.833,
+    "code": 1077,
+    "city_code": 58
+  },
+  {
+    "name_ar": "العزيزية",
+    "name_en": "AL AZIZIYYAH",
+    "latitude": 21.4144,
+    "longitude": 39.8555,
+    "code": 1078,
+    "city_code": 58
+  },
+  {
+    "name_ar": "المشاعر",
+    "name_en": "AL MASHAIR",
+    "latitude": 21.3883,
+    "longitude": 39.9379,
+    "code": 1079,
+    "city_code": 58
+  },
+  {
+    "name_ar": "السلامة",
+    "name_en": "AS SALAMAH",
+    "latitude": 21.4599,
+    "longitude": 39.7082,
+    "code": 1080,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الزاهر",
+    "name_en": "AZ ZAHIR",
+    "latitude": 21.4473,
+    "longitude": 39.7969,
+    "code": 1081,
+    "city_code": 58
+  },
+  {
+    "name_ar": "البحيرات",
+    "name_en": "AL BUHAYRAT",
+    "latitude": 21.4966,
+    "longitude": 39.7618,
+    "code": 1082,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الشرائع الشمالية",
+    "name_en": "ASH SHARAI ASH SHAMALIYYAH",
+    "latitude": 21.5415,
+    "longitude": 39.9978,
+    "code": 1083,
+    "city_code": 58
+  },
+  {
+    "name_ar": "التنعيم",
+    "name_en": "AT TANIM",
+    "latitude": 21.4929,
+    "longitude": 39.8129,
+    "code": 1084,
+    "city_code": 58
+  },
+  {
+    "name_ar": "النزهة",
+    "name_en": "AN NUZHAH",
+    "latitude": 21.432,
+    "longitude": 39.7837,
+    "code": 1085,
+    "city_code": 58
+  },
+  {
+    "name_ar": "القراره والنقا",
+    "name_en": "AL QARARAH AND AN NAQA",
+    "latitude": 21.429,
+    "longitude": 39.8255,
+    "code": 1086,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الشوقية",
+    "name_en": "ASH SHAWQIYYAH",
+    "latitude": 21.3862,
+    "longitude": 39.7964,
+    "code": 1087,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الجامعة",
+    "name_en": "AL JAMIAH",
+    "latitude": 21.3965,
+    "longitude": 39.8744,
+    "code": 1088,
+    "city_code": 58
+  },
+  {
+    "name_ar": "شرائع المجاهدين",
+    "name_en": "SHARAI AL MUJAHIDIN",
+    "latitude": 21.525,
+    "longitude": 39.9242,
+    "code": 1089,
+    "city_code": 58
+  },
+  {
+    "name_ar": "النوارية",
+    "name_en": "AN NAWWARIYYAH",
+    "latitude": 21.543,
+    "longitude": 39.7387,
+    "code": 1090,
+    "city_code": 58
+  },
+  {
+    "name_ar": "بطحاء قريش",
+    "name_en": "BATHA QURAYSH",
+    "latitude": 21.3574,
+    "longitude": 39.8329,
+    "code": 1091,
+    "city_code": 58
+  },
+  {
+    "name_ar": "المرسلات",
+    "name_en": "AL MURSALAT",
+    "latitude": 21.4065,
+    "longitude": 39.881,
+    "code": 1092,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الروضة",
+    "name_en": "AR RAWDAH",
+    "latitude": 21.4269,
+    "longitude": 39.8493,
+    "code": 1093,
+    "city_code": 58
+  },
+  {
+    "name_ar": "العدل",
+    "name_en": "AL ADL",
+    "latitude": 21.4468,
+    "longitude": 39.8758,
+    "code": 1094,
+    "city_code": 58
+  },
+  {
+    "name_ar": "شعب عامر وشعب علي",
+    "name_en": "SHIB AMIR AND SHIB ALI",
+    "latitude": 21.4267,
+    "longitude": 39.8318,
+    "code": 1095,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الحرم",
+    "name_en": "AL HARAM",
+    "latitude": 21.4226,
+    "longitude": 39.828,
+    "code": 1096,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الشهداء",
+    "name_en": "ASH SHUHADA",
+    "latitude": 21.4578,
+    "longitude": 39.8071,
+    "code": 1097,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الروابي",
+    "name_en": "AR RAWABI",
+    "latitude": 21.411,
+    "longitude": 39.8359,
+    "code": 1098,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الهجرة",
+    "name_en": "AL HIJRAH",
+    "latitude": 21.374,
+    "longitude": 39.8536,
+    "code": 1099,
+    "city_code": 58
+  },
+  {
+    "name_ar": "جرهم",
+    "name_en": "JARHAM",
+    "latitude": 21.4064,
+    "longitude": 39.8134,
+    "code": 1100,
+    "city_code": 58
+  },
+  {
+    "name_ar": "العمرة الجديدة",
+    "name_en": "AL UMRAH AL JADIDAH",
+    "latitude": 21.5567,
+    "longitude": 39.8036,
+    "code": 1101,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الحمراء أم الجود",
+    "name_en": "AL HAMRA UMM AL JUD",
+    "latitude": 21.4023,
+    "longitude": 39.6725,
+    "code": 1102,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الأندلس",
+    "name_en": "AL ANDALUS",
+    "latitude": 21.4534,
+    "longitude": 39.8278,
+    "code": 1103,
+    "city_code": 58
+  },
+  {
+    "name_ar": "المسفلة",
+    "name_en": "AL MISFALAH",
+    "latitude": 21.4052,
+    "longitude": 39.8243,
+    "code": 1104,
+    "city_code": 58
+  },
+  {
+    "name_ar": "التقوي",
+    "name_en": "AT TAQWA",
+    "latitude": 21.3942,
+    "longitude": 39.8187,
+    "code": 1105,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الهنداوية",
+    "name_en": "AL HINDAWIYYAH",
+    "latitude": 21.4165,
+    "longitude": 39.7998,
+    "code": 1106,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الخالدية",
+    "name_en": "AL KHALIDIYYAH",
+    "latitude": 21.4021,
+    "longitude": 39.8006,
+    "code": 1107,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الملك فهد",
+    "name_en": "AL MALIK FAHD DIST.",
+    "latitude": 21.3717,
+    "longitude": 39.7179,
+    "code": 1108,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الخنساء",
+    "name_en": "AL KHANSA",
+    "latitude": 21.4472,
+    "longitude": 39.8457,
+    "code": 1109,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الكعكية",
+    "name_en": "AL KAKIYYAH",
+    "latitude": 21.3776,
+    "longitude": 39.8136,
+    "code": 1110,
+    "city_code": 58
+  },
+  {
+    "name_ar": "حارة الباب والشامية",
+    "name_en": "HARAT AL BAB AND ASH SHAMIYYAH",
+    "latitude": 21.4249,
+    "longitude": 39.8225,
+    "code": 1111,
+    "city_code": 58
+  },
+  {
+    "name_ar": "جرول",
+    "name_en": "JARWAL",
+    "latitude": 21.4297,
+    "longitude": 39.8184,
+    "code": 1112,
+    "city_code": 58
+  },
+  {
+    "name_ar": "المنصور",
+    "name_en": "AL MANSUR",
+    "latitude": 21.4187,
+    "longitude": 39.8094,
+    "code": 1113,
+    "city_code": 58
+  },
+  {
+    "name_ar": "ولي العهد",
+    "name_en": "WALY AL AHD DIST.",
+    "latitude": 21.3072,
+    "longitude": 39.7195,
+    "code": 1114,
+    "city_code": 58
+  },
+  {
+    "name_ar": "التيسير",
+    "name_en": "AT TAYSIR",
+    "latitude": 21.4286,
+    "longitude": 39.8112,
+    "code": 1115,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الحجون",
+    "name_en": "AL HUJUN",
+    "latitude": 21.4364,
+    "longitude": 39.8181,
+    "code": 1116,
+    "city_code": 58
+  },
+  {
+    "name_ar": "وادى جليل",
+    "name_en": "WADI JALIL",
+    "latitude": 21.4878,
+    "longitude": 39.8542,
+    "code": 1117,
+    "city_code": 58
+  },
+  {
+    "name_ar": "العسيله",
+    "name_en": "AL USAYLAH",
+    "latitude": 21.5299,
+    "longitude": 39.8663,
+    "code": 1118,
+    "city_code": 58
+  },
+  {
+    "name_ar": "العوالى",
+    "name_en": "AL AWALI",
+    "latitude": 21.3114,
+    "longitude": 39.9467,
+    "code": 1119,
+    "city_code": 58
+  },
+  {
+    "name_ar": "النسيم",
+    "name_en": "AN NASIM",
+    "latitude": 21.3773,
+    "longitude": 39.873,
+    "code": 1120,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الرصيفة",
+    "name_en": "AR RUSAYFAH",
+    "latitude": 21.4135,
+    "longitude": 39.7882,
+    "code": 1121,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الطندباوى",
+    "name_en": "AT TANDABAWI",
+    "latitude": 21.4168,
+    "longitude": 39.8143,
+    "code": 1122,
+    "city_code": 58
+  },
+  {
+    "name_ar": "الحضن",
+    "name_en": "Al Hadn",
+    "latitude": 17.4658,
+    "longitude": 44.1034,
+    "code": 1123,
+    "city_code": 61
+  },
+  {
+    "name_ar": "مطار نجران الاقليمي",
+    "name_en": "Najran Domestic Airport",
+    "latitude": 17.6124,
+    "longitude": 44.4186,
+    "code": 1124,
+    "city_code": 61
+  },
+  {
+    "name_ar": "مخطط الصهبان",
+    "name_en": "As Sahban Subdivision",
+    "latitude": 17.5874,
+    "longitude": 44.3416,
+    "code": 1125,
+    "city_code": 61
+  },
+  {
+    "name_ar": "المخيم",
+    "name_en": "Al Mukhayyam",
+    "latitude": 17.5595,
+    "longitude": 44.2189,
+    "code": 1126,
+    "city_code": 61
+  },
+  {
+    "name_ar": "الاملاح",
+    "name_en": "Al Amlah",
+    "latitude": 17.5352,
+    "longitude": 44.1935,
+    "code": 1127,
+    "city_code": 61
+  },
+  {
+    "name_ar": "شمال الفهد",
+    "name_en": "Shamal Al Fahd",
+    "latitude": 17.5831,
+    "longitude": 44.2305,
+    "code": 1128,
+    "city_code": 61
+  },
+  {
+    "name_ar": "الفهد",
+    "name_en": "Al Fahd",
+    "latitude": 17.57,
+    "longitude": 44.2266,
+    "code": 1129,
+    "city_code": 61
+  },
+  {
+    "name_ar": "مخطط الاثايبة الشمالية الزراعي",
+    "name_en": "Al Athaybah Ash Shamaliyyah  Agricultural Subdivision",
+    "latitude": 17.5625,
+    "longitude": 44.2551,
+    "code": 1130,
+    "city_code": 61
+  },
+  {
+    "name_ar": "مخطط ابن جارالله السكني",
+    "name_en": "Ibn Jarullah Residential Subdivision",
+    "latitude": 17.5578,
+    "longitude": 44.2411,
+    "code": 1131,
+    "city_code": 61
+  },
+  {
+    "name_ar": "المفرق",
+    "name_en": "Al Mafraq",
+    "latitude": 17.5517,
+    "longitude": 44.232,
+    "code": 1132,
+    "city_code": 61
+  },
+  {
+    "name_ar": "الفيصلية",
+    "name_en": "Al Faysaliyyah",
+    "latitude": 17.5237,
+    "longitude": 44.1941,
+    "code": 1133,
+    "city_code": 61
+  },
+  {
+    "name_ar": "دحضة",
+    "name_en": "Dahdah",
+    "latitude": 17.513,
+    "longitude": 44.1635,
+    "code": 1134,
+    "city_code": 61
+  },
+  {
+    "name_ar": "ابا لسعود",
+    "name_en": "Aba Lasaud",
+    "latitude": 17.4918,
+    "longitude": 44.1285,
+    "code": 1135,
+    "city_code": 61
+  },
+  {
+    "name_ar": "مخطط نهوفة السكني",
+    "name_en": "Nahufah Residential Subdivision",
+    "latitude": 17.4186,
+    "longitude": 44.1168,
+    "code": 1136,
+    "city_code": 61
+  },
+  {
+    "name_ar": "الخالدية",
+    "name_en": "Al Khalidiyyah",
+    "latitude": 17.5402,
+    "longitude": 44.2287,
+    "code": 1137,
+    "city_code": 61
+  },
+  {
+    "name_ar": "مخطط العريسة الشمالي",
+    "name_en": "Al Araysah Ash Shamali Subdivision",
+    "latitude": 17.563,
+    "longitude": 44.3101,
+    "code": 1138,
+    "city_code": 61
+  },
+  {
+    "name_ar": "الضباط",
+    "name_en": "Ad Dubat",
+    "latitude": 17.5304,
+    "longitude": 44.2025,
+    "code": 1139,
+    "city_code": 61
+  },
+  {
+    "name_ar": "شمال الضباط",
+    "name_en": "Shamal Ad Dubat",
+    "latitude": 17.5359,
+    "longitude": 44.2055,
+    "code": 1140,
+    "city_code": 61
+  },
+  {
+    "name_ar": "الجربة",
+    "name_en": "Al Jurbah",
+    "latitude": 17.4729,
+    "longitude": 44.1413,
+    "code": 1141,
+    "city_code": 61
+  },
+  {
+    "name_ar": "القابل",
+    "name_en": "Al Qabil",
+    "latitude": 17.4888,
+    "longitude": 44.1726,
+    "code": 1142,
+    "city_code": 61
+  },
+  {
+    "name_ar": "مخطط رجلا الشمالية الزراعي",
+    "name_en": "Rajla Ash Shamaliyyah Agricultural Subdivision",
+    "latitude": 17.5076,
+    "longitude": 44.2304,
+    "code": 1143,
+    "city_code": 61
+  },
+  {
+    "name_ar": "مخطط رجلا الجنوبية الزراعي",
+    "name_en": "Rajla Al Janubiyyah Agricultural Subdivision",
+    "latitude": 17.4928,
+    "longitude": 44.2299,
+    "code": 1144,
+    "city_code": 61
+  },
+  {
+    "name_ar": "مخطط الحصين الزراعي",
+    "name_en": "Al Husayn Agricultural Subdivision",
+    "latitude": 17.5003,
+    "longitude": 44.204,
+    "code": 1145,
+    "city_code": 61
+  },
+  {
+    "name_ar": "مخطط نهوفة الزراعي",
+    "name_en": "Nahufah Agricultural Subdivision",
+    "latitude": 17.4464,
+    "longitude": 44.1202,
+    "code": 1146,
+    "city_code": 61
+  },
+  {
+    "name_ar": "مخطط شعب رير السكني",
+    "name_en": "Shab Rir Residential Subdivision",
+    "latitude": 17.4689,
+    "longitude": 44.166,
+    "code": 1147,
+    "city_code": 61
+  },
+  {
+    "name_ar": "مخططات الغويلا الزراعية",
+    "name_en": "Al Ghuwayla Agricutural Subdivision",
+    "latitude": 17.5835,
+    "longitude": 44.4477,
+    "code": 1148,
+    "city_code": 61
+  },
+  {
+    "name_ar": "شرق الضباط",
+    "name_en": "Sharq Ad Dubat",
+    "latitude": 17.5435,
+    "longitude": 44.2177,
+    "code": 1149,
+    "city_code": 61
+  },
+  {
+    "name_ar": "مخطط العريسة الجنوبي",
+    "name_en": "Al Araysah Al Janubi Subdivision",
+    "latitude": 17.5543,
+    "longitude": 44.3156,
+    "code": 1150,
+    "city_code": 61
+  },
+  {
+    "name_ar": "السور",
+    "name_en": "AS SUR",
+    "latitude": 24.0797,
+    "longitude": 38.0596,
+    "code": 1151,
+    "city_code": 28
+  },
+  {
+    "name_ar": "رضوى النقادي",
+    "name_en": "RADWA AN NAQADI",
+    "latitude": 24.1257,
+    "longitude": 38.1424,
+    "code": 1152,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الامارة",
+    "name_en": "AL AMARAH",
+    "latitude": 24.0873,
+    "longitude": 38.0374,
+    "code": 1153,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الديار",
+    "name_en": "AD DIYAR",
+    "latitude": 24.1034,
+    "longitude": 38.0803,
+    "code": 1154,
+    "city_code": 28
+  },
+  {
+    "name_ar": "المحارة",
+    "name_en": "AL MAHARAH",
+    "latitude": 24.0455,
+    "longitude": 38.1206,
+    "code": 1155,
+    "city_code": 28
+  },
+  {
+    "name_ar": "النزهة",
+    "name_en": "AN NUZHAH",
+    "latitude": 24.1522,
+    "longitude": 37.9528,
+    "code": 1156,
+    "city_code": 28
+  },
+  {
+    "name_ar": "التعاون",
+    "name_en": "AT TAAWN",
+    "latitude": 24.1377,
+    "longitude": 37.9943,
+    "code": 1157,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الحرس الوطني",
+    "name_en": "AL HARAS AL WATANI",
+    "latitude": 24.0735,
+    "longitude": 38.1558,
+    "code": 1158,
+    "city_code": 28
+  },
+  {
+    "name_ar": "اللؤلؤ",
+    "name_en": "AL LULU",
+    "latitude": 24.0574,
+    "longitude": 38.1272,
+    "code": 1159,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الاضواء",
+    "name_en": "AL ADWA",
+    "latitude": 24.0746,
+    "longitude": 38.1346,
+    "code": 1160,
+    "city_code": 28
+  },
+  {
+    "name_ar": "شجوى",
+    "name_en": "SHAJWA",
+    "latitude": 24.13,
+    "longitude": 38.1192,
+    "code": 1161,
+    "city_code": 28
+  },
+  {
+    "name_ar": "القاد",
+    "name_en": "AL QAD",
+    "latitude": 24.0772,
+    "longitude": 38.0576,
+    "code": 1162,
+    "city_code": 28
+  },
+  {
+    "name_ar": "النهضة",
+    "name_en": "AN NAHDAH",
+    "latitude": 24.1078,
+    "longitude": 38.0366,
+    "code": 1163,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الزهور",
+    "name_en": "AZ ZUHUR",
+    "latitude": 24.0845,
+    "longitude": 38.0544,
+    "code": 1164,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الجامعة العربية",
+    "name_en": "AL JAMIAH AL ARABIYAH",
+    "latitude": 24.0874,
+    "longitude": 38.09,
+    "code": 1165,
+    "city_code": 28
+  },
+  {
+    "name_ar": "مطار ينبع الاقليمي",
+    "name_en": " YANBU DOMESTIC AIRPORT",
+    "latitude": 24.1482,
+    "longitude": 38.0628,
+    "code": 1166,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الحوراء",
+    "name_en": "AL HAWRA",
+    "latitude": 24.0971,
+    "longitude": 38.0447,
+    "code": 1167,
+    "city_code": 28
+  },
+  {
+    "name_ar": "البحيرة",
+    "name_en": "AL BUHAYRAH",
+    "latitude": 24.0712,
+    "longitude": 38.0797,
+    "code": 1168,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الحدائق",
+    "name_en": "AL HADAIQ",
+    "latitude": 24.0868,
+    "longitude": 38.0601,
+    "code": 1169,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الخريق",
+    "name_en": "AL KHURIK",
+    "latitude": 24.0833,
+    "longitude": 38.0618,
+    "code": 1170,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الصاعيدة",
+    "name_en": "AS SAAYDAH",
+    "latitude": 24.0806,
+    "longitude": 38.0563,
+    "code": 1171,
+    "city_code": 28
+  },
+  {
+    "name_ar": "المجد",
+    "name_en": "AL MAJD",
+    "latitude": 24.066,
+    "longitude": 38.0985,
+    "code": 1172,
+    "city_code": 28
+  },
+  {
+    "name_ar": "المرجان",
+    "name_en": "AL MURJAN",
+    "latitude": 24.0535,
+    "longitude": 38.1075,
+    "code": 1173,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الياقوت",
+    "name_en": "AL YAQUT",
+    "latitude": 24.0602,
+    "longitude": 38.1178,
+    "code": 1174,
+    "city_code": 28
+  },
+  {
+    "name_ar": "النسيم",
+    "name_en": "AN NASIM",
+    "latitude": 24.0887,
+    "longitude": 38.0651,
+    "code": 1175,
+    "city_code": 28
+  },
+  {
+    "name_ar": "المسرة",
+    "name_en": "AL MASARRAH",
+    "latitude": 24.0765,
+    "longitude": 38.1142,
+    "code": 1176,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الجابرية",
+    "name_en": "AL JABRIYAH",
+    "latitude": 24.1101,
+    "longitude": 38.087,
+    "code": 1177,
+    "city_code": 28
+  },
+  {
+    "name_ar": "السلام",
+    "name_en": "AS SALAM",
+    "latitude": 24.1429,
+    "longitude": 38.0017,
+    "code": 1178,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الفلاح",
+    "name_en": "AL FALAH",
+    "latitude": 24.1326,
+    "longitude": 38.0105,
+    "code": 1179,
+    "city_code": 28
+  },
+  {
+    "name_ar": "السميري",
+    "name_en": "AS SUMAYRI",
+    "latitude": 24.0996,
+    "longitude": 38.0582,
+    "code": 1180,
+    "city_code": 28
+  },
+  {
+    "name_ar": "العصيلي",
+    "name_en": "AL USAYLAI",
+    "latitude": 24.1034,
+    "longitude": 38.0702,
+    "code": 1181,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الصفا",
+    "name_en": "AS SAFA",
+    "latitude": 24.1139,
+    "longitude": 38.1284,
+    "code": 1182,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الصهاريج",
+    "name_en": "AS SAHARIJ",
+    "latitude": 24.0919,
+    "longitude": 38.0602,
+    "code": 1183,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الربيع",
+    "name_en": "AR RABI",
+    "latitude": 24.0737,
+    "longitude": 38.1237,
+    "code": 1184,
+    "city_code": 28
+  },
+  {
+    "name_ar": "البندر",
+    "name_en": "AL BANDAR",
+    "latitude": 24.0974,
+    "longitude": 38.0268,
+    "code": 1185,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الصريف",
+    "name_en": "AS SURAIF",
+    "latitude": 24.0831,
+    "longitude": 38.0444,
+    "code": 1186,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الشربتلي",
+    "name_en": "ASH SHARBATLI",
+    "latitude": 24.0883,
+    "longitude": 38.0512,
+    "code": 1187,
+    "city_code": 28
+  },
+  {
+    "name_ar": "مشرفة",
+    "name_en": "MISHRIFAH",
+    "latitude": 24.117,
+    "longitude": 38.0715,
+    "code": 1188,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الريان",
+    "name_en": "AR RAYYAN",
+    "latitude": 24.1287,
+    "longitude": 38.1039,
+    "code": 1189,
+    "city_code": 28
+  },
+  {
+    "name_ar": "المشهد",
+    "name_en": "AL MASHHAD",
+    "latitude": 24.1122,
+    "longitude": 38.0527,
+    "code": 1190,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الربوة",
+    "name_en": "AR RABWAH",
+    "latitude": 24.094,
+    "longitude": 38.0683,
+    "code": 1191,
+    "city_code": 28
+  },
+  {
+    "name_ar": "التأخي",
+    "name_en": "ATTAAKHI",
+    "latitude": 24.0956,
+    "longitude": 38.1012,
+    "code": 1192,
+    "city_code": 28
+  },
+  {
+    "name_ar": "المبارك",
+    "name_en": "AL MUBARAK",
+    "latitude": 24.1189,
+    "longitude": 38.0958,
+    "code": 1193,
+    "city_code": 28
+  },
+  {
+    "name_ar": "المنتزه",
+    "name_en": "AL MUNTAZAH",
+    "latitude": 24.1112,
+    "longitude": 38.1137,
+    "code": 1194,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الاصالة",
+    "name_en": "AL ASALAH",
+    "latitude": 24.0904,
+    "longitude": 38.0709,
+    "code": 1195,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الشروق",
+    "name_en": "ASH SHURUQ",
+    "latitude": 24.0906,
+    "longitude": 38.0788,
+    "code": 1196,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الواحة",
+    "name_en": "AL WAHAH",
+    "latitude": 24.0786,
+    "longitude": 38.1054,
+    "code": 1197,
+    "city_code": 28
+  },
+  {
+    "name_ar": "الصواري",
+    "name_en": "AS SAWARI",
+    "latitude": 24.065,
+    "longitude": 38.1095,
+    "code": 1198,
+    "city_code": 28
+  },
+  {
+    "name_ar": "البهجة",
+    "name_en": " AL BAHJAH",
+    "latitude": 24.1277,
+    "longitude": 38.0039,
+    "code": 1199,
+    "city_code": 28
+  },
+  {
+    "name_ar": "السناف",
+    "name_en": "AS SINAF",
+    "latitude": 24.0557,
+    "longitude": 38.1932,
+    "code": 1200,
+    "city_code": 29
+  },
+  {
+    "name_ar": "المنطقة الصناعية",
+    "name_en": "INDUSTRIAL AREA",
+    "latitude": 23.9565,
+    "longitude": 38.2719,
+    "code": 1201,
+    "city_code": 29
+  },
+  {
+    "name_ar": "الجابرية",
+    "name_en": "AL JABRIYAH",
+    "latitude": 24.017,
+    "longitude": 38.2033,
+    "code": 1202,
+    "city_code": 29
+  },
+  {
+    "name_ar": "عين النوى",
+    "name_en": "AYN AN NAWA",
+    "latitude": 23.9932,
+    "longitude": 38.2059,
+    "code": 1203,
+    "city_code": 29
+  },
+  {
+    "name_ar": "رضوى",
+    "name_en": "RADWA",
+    "latitude": 24.0044,
+    "longitude": 38.2046,
+    "code": 1204,
+    "city_code": 29
+  },
+  {
+    "name_ar": "الصواري",
+    "name_en": "AS SAWARI",
+    "latitude": 24.0244,
+    "longitude": 38.238,
+    "code": 1205,
+    "city_code": 29
+  },
+  {
+    "name_ar": "منطقة الصناعات الخفيفة",
+    "name_en": "LIGHT INDUSTRIAL PARK",
+    "latitude": 24.0095,
+    "longitude": 38.2555,
+    "code": 1206,
+    "city_code": 29
+  },
+  {
+    "name_ar": "النواة",
+    "name_en": "AN NAWAH",
+    "latitude": 24.0044,
+    "longitude": 38.2202,
+    "code": 1207,
+    "city_code": 29
+  },
+  {
+    "name_ar": "السميري",
+    "name_en": "AS SUMAYRI",
+    "latitude": 24.0186,
+    "longitude": 38.2158,
+    "code": 1208,
+    "city_code": 29
+  },
+  {
+    "name_ar": "المهن",
+    "name_en": "AL MIHAN",
+    "latitude": 24.0322,
+    "longitude": 38.2284,
+    "code": 1209,
+    "city_code": 29
+  },
+  {
+    "name_ar": "النخيل",
+    "name_en": "AN NAKHIL",
+    "latitude": 24.0161,
+    "longitude": 38.1889,
+    "code": 1210,
+    "city_code": 29
+  },
+  {
+    "name_ar": "النبراس",
+    "name_en": "AN NIBRAS",
+    "latitude": 24.0607,
+    "longitude": 38.1761,
+    "code": 1211,
+    "city_code": 29
+  },
+  {
+    "name_ar": "السويق",
+    "name_en": "AS SUWAYQ",
+    "latitude": 24.0456,
+    "longitude": 38.2168,
+    "code": 1212,
+    "city_code": 29
+  },
+  {
+    "name_ar": "الفيصل",
+    "name_en": "AL FAYSAL",
+    "latitude": 24.028,
+    "longitude": 38.2033,
+    "code": 1213,
+    "city_code": 29
+  },
+  {
+    "name_ar": "العزيزية",
+    "name_en": "AL AZIZIYYAH",
+    "latitude": 24.0298,
+    "longitude": 38.1878,
+    "code": 1214,
+    "city_code": 29
+  },
+  {
+    "name_ar": "الداسمة",
+    "name_en": "DASIMAH",
+    "latitude": 24.0362,
+    "longitude": 38.21,
+    "code": 1215,
+    "city_code": 29
+  },
+  {
+    "name_ar": "المشيريف",
+    "name_en": "AL MUSHAYRIF",
+    "latitude": 24.0367,
+    "longitude": 38.1768,
+    "code": 1216,
+    "city_code": 29
+  },
+  {
+    "name_ar": "الجامعة",
+    "name_en": "AL JAMIAH",
+    "latitude": 24.052,
+    "longitude": 38.1722,
+    "code": 1217,
+    "city_code": 29
+  },
+  {
+    "name_ar": "عباثر",
+    "name_en": "ABATHIR",
+    "latitude": 24.0428,
+    "longitude": 38.1944,
+    "code": 1218,
+    "city_code": 29
+  },
+  {
+    "name_ar": "البثنة",
+    "name_en": "AL BATHNAH",
+    "latitude": 24.0016,
+    "longitude": 38.1687,
+    "code": 1219,
+    "city_code": 29
+  },
+  {
+    "name_ar": "الصبح",
+    "name_en": "AS SUBH",
+    "latitude": 23.9906,
+    "longitude": 38.1958,
+    "code": 1220,
+    "city_code": 29
+  },
+  {
+    "name_ar": "النهضة",
+    "name_en": "AN NAHDAH",
+    "latitude": 23.9812,
+    "longitude": 38.1979,
+    "code": 1221,
+    "city_code": 29
+  },
+  {
+    "name_ar": "الفهد",
+    "name_en": "AL FAHAD",
+    "latitude": 24.0001,
+    "longitude": 38.1932,
+    "code": 1222,
+    "city_code": 29
+  },
+  {
+    "name_ar": "الجار",
+    "name_en": "AL JAR",
+    "latitude": 24.0207,
+    "longitude": 38.165,
+    "code": 1223,
+    "city_code": 29
+  },
+  {
+    "name_ar": "العيون",
+    "name_en": "AL UYWN",
+    "latitude": 24.0112,
+    "longitude": 38.1763,
+    "code": 1224,
+    "city_code": 29
+  },
+  {
+    "name_ar": "الخالد",
+    "name_en": "AL KHALID",
+    "latitude": 24.0049,
+    "longitude": 38.1875,
+    "code": 1225,
+    "city_code": 29
+  },
+  {
+    "name_ar": "عدان",
+    "name_en": "ADAN",
+    "latitude": 24.0479,
+    "longitude": 38.1826,
+    "code": 1226,
+    "city_code": 29
+  }
+]

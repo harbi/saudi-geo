@@ -1,0 +1,106 @@
+[
+  {
+    "name_ar": "الرياض",
+    "name_en": "Riyadh",
+    "latitude": 24.731864,
+    "longitude": 46.774292,
+    "code": 1,
+    "order_sequence": 1
+  },
+  {
+    "name_ar": "مكة المكرمة",
+    "name_en": "Makkah",
+    "latitude": 21.406328,
+    "longitude": 39.809088,
+    "code": 2,
+    "order_sequence": 2
+  },
+  {
+    "name_ar": "المدينة المنورة",
+    "name_en": "Madinah",
+    "latitude": 24.427145,
+    "longitude": 39.649658,
+    "code": 3,
+    "order_sequence": 3
+  },
+  {
+    "name_ar": "المنطقة الشرقية",
+    "name_en": "Eastern Province",
+    "latitude": 26.372185,
+    "longitude": 49.993286,
+    "code": 4,
+    "order_sequence": 5
+  },
+  {
+    "name_ar": "القصيم",
+    "name_en": "Qassim",
+    "latitude": 26.338499,
+    "longitude": 43.965396,
+    "code": 5,
+    "order_sequence": 4
+  },
+  {
+    "name_ar": "حائل",
+    "name_en": "Hail",
+    "latitude": 27.527758,
+    "longitude": 41.698608,
+    "code": 6,
+    "order_sequence": 7
+  },
+  {
+    "name_ar": "عسير",
+    "name_en": "Asir",
+    "latitude": 18.20848,
+    "longitude": 42.533569,
+    "code": 7,
+    "order_sequence": 6
+  },
+  {
+    "name_ar": "جازان",
+    "name_en": "Jizan",
+    "latitude": 16.890959,
+    "longitude": 42.548375,
+    "code": 8,
+    "order_sequence": 10
+  },
+  {
+    "name_ar": "الباحة",
+    "name_en": "Bahah",
+    "latitude": 20.014645,
+    "longitude": 41.456909,
+    "code": 9,
+    "order_sequence": 12
+  },
+  {
+    "name_ar": "نجران",
+    "name_en": "Najran",
+    "latitude": 17.489489,
+    "longitude": 44.134333,
+    "code": 10,
+    "order_sequence": 11
+  },
+  {
+    "name_ar": "تبوك",
+    "name_en": "Tabuk",
+    "latitude": 28.401064,
+    "longitude": 36.573486,
+    "code": 11,
+    "order_sequence": 7
+  },
+  {
+    "name_ar": "الحدود الشمالية",
+    "name_en": "Northern Borders",
+    "latitude": 30.977609,
+    "longitude": 41.011962,
+    "code": 12,
+    "order_sequence": 9
+  },
+  {
+    "name_ar": "الجوف",
+    "name_en": "Jawf",
+    "latitude": 29.971888,
+    "longitude": 40.200476,
+    "code": 13,
+    "order_sequence": 13
+  }
+]
